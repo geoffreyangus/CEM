@@ -50,6 +50,10 @@ find_feat = (youtube_title) => {
         
     }
     if (feat_idx == -1) {
+        feat_idx = title.indexOf(' Part. ')
+        
+    }
+    if (feat_idx == -1) {
         feat_idx = title.indexOf('|')
         
     }
