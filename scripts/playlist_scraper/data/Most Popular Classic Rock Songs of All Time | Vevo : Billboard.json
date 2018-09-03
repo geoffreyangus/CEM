@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Wind Of Change",
+    "artist": "Scorpions",
+    "time": "4:44",
+    "link": "www.youtube.com/watch?v=n4RjJKxsamQ"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Aerosmith",
+    "time": "6:16",
+    "link": "www.youtube.com/watch?v=NMNgbISmF4I"
+  },
+  {
+    "title": "EmptyV",
+    "artist": "Melodic In Fusion",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=6RGPFdrIA80"
+  },
+  {
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "time": "5:03",
+    "link": "www.youtube.com/watch?v=1w7OgIMMRc4"
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "time": "4:56",
+    "link": "www.youtube.com/watch?v=9jK-NcRmVcw"
+  },
+  {
+    "title": "Tide Rolls In",
+    "artist": "Band High Command'",
+    "time": "1:47",
+    "link": "www.youtube.com/watch?v=Naa4tbk9eb0"
+  },
+  {
+    "title": "Roxanne",
+    "artist": "The Police",
+    "time": "3:14",
+    "link": "www.youtube.com/watch?v=3T1c7GkzRQQ"
+  },
+  {
+    "title": "LOW",
+    "artist": "Dear Agony",
+    "time": "4:43",
+    "link": "www.youtube.com/watch?v=PZZrqr38hAc"
+  },
+  {
+    "title": "November Rain",
+    "artist": "Guns N' Roses",
+    "time": "9:17",
+    "link": "www.youtube.com/watch?v=8SbUC-UaAxE"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "time": "6:11",
+    "link": "www.youtube.com/watch?v=MSvSsNSuVtk"
+  },
+  {
+    "title": "Lost in Translation",
+    "artist": "Steam Phunk",
+    "time": "3:17",
+    "link": "www.youtube.com/watch?v=xrghkeHmzTc"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "time": "4:38",
+    "link": "www.youtube.com/watch?v=hTWKbfoikeg"
+  },
+  {
+    "title": "It's My Life",
+    "artist": "Bon Jovi",
+    "time": "4:28",
+    "link": "www.youtube.com/watch?v=vx2u5uUu3DE"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "time": "6:26",
+    "link": "www.youtube.com/watch?v=tAGnKpE4NCI"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "time": "6:07",
+    "link": "www.youtube.com/watch?v=fJ9rUzIMcZQ"
+  },
+  {
+    "title": "Don't Cry",
+    "artist": "Guns N' Roses",
+    "time": "5:14",
+    "link": "www.youtube.com/watch?v=zRIbf6JqkNc"
+  },
+  {
+    "title": "Please Forgive Me",
+    "artist": "Bryan Adams",
+    "time": "6:28",
+    "link": "www.youtube.com/watch?v=9EHAo6rEuas"
+  },
+  {
+    "title": "Always",
+    "artist": "Bon Jovi",
+    "time": "6:03",
+    "link": "www.youtube.com/watch?v=9BMwcO6_hyA"
+  },
+  {
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "time": "4:09",
+    "link": "www.youtube.com/watch?v=lDK9QqIzhwk"
+  },
+  {
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "time": "4:53",
+    "link": "www.youtube.com/watch?v=v2AC41dglnM"
+  },
+  {
+    "title": "Paradise City",
+    "artist": "Guns N' Roses",
+    "time": "6:49",
+    "link": "www.youtube.com/watch?v=Rbm6GXllBiw"
+  },
+  {
+    "title": "Back In Black",
+    "artist": "AC/DC",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=pAgnJDJN4VA"
+  },
+  {
+    "title": "Welcome To The Jungle",
+    "artist": "Guns N' Roses",
+    "time": "4:40",
+    "link": "www.youtube.com/watch?v=o1tj2zJ2Wvg"
+  },
+  {
+    "title": "Come As You Are",
+    "artist": "Nirvana",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=vabnZ9-ex7o"
+  },
+  {
+    "title": "Patience",
+    "artist": "Guns N' Roses",
+    "time": "5:57",
+    "link": "www.youtube.com/watch?v=ErvgV4P6Fzc"
+  },
+  {
+    "title": "Cryin'",
+    "artist": "Aerosmith",
+    "time": "5:32",
+    "link": "www.youtube.com/watch?v=qfNmyxV2Ncw"
+  },
+  {
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "time": "2:15",
+    "link": "www.youtube.com/watch?v=-tJYN-eG1zk"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "time": "5:31",
+    "link": "www.youtube.com/watch?v=CD-E-LDc384"
+  },
+  {
+    "title": "You Give Love A Bad Name",
+    "artist": "Bon Jovi",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=KrZHPOeOxQQ"
+  },
+  {
+    "title": "The Man Who Sold The World",
+    "artist": "Nirvana",
+    "time": "3:38",
+    "link": "www.youtube.com/watch?v=fregObNcHC8"
+  },
+  {
+    "title": "Lithium",
+    "artist": "Nirvana",
+    "time": "4:16",
+    "link": "www.youtube.com/watch?v=pkcJEvMcnEg"
+  },
+  {
+    "title": "Amazing",
+    "artist": "Aerosmith",
+    "time": "6:50",
+    "link": "www.youtube.com/watch?v=zSmOvYzSeaQ"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "time": "3:32",
+    "link": "www.youtube.com/watch?v=XLgYAHHkPFs"
+  },
+  {
+    "title": "I'll Be There For You",
+    "artist": "Bon Jovi",
+    "time": "5:51",
+    "link": "www.youtube.com/watch?v=mh8MIp2FOhc"
+  },
+  {
+    "title": "Send Me An Angel",
+    "artist": "Scorpions",
+    "time": "4:29",
+    "link": "www.youtube.com/watch?v=1UUYjd2rjsE"
+  },
+  {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "time": "3:11",
+    "link": "www.youtube.com/watch?v=04854XqcfCY"
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Elton John",
+    "time": "4:50",
+    "link": "www.youtube.com/watch?v=NrLkTZrPZA4"
+  },
+  {
+    "title": "Estranged",
+    "artist": "Guns N' Roses",
+    "time": "9:47",
+    "link": "www.youtube.com/watch?v=dpmAY059TTY"
+  },
+  {
+    "title": "In Bloom",
+    "artist": "Nirvana",
+    "time": "5:00",
+    "link": "www.youtube.com/watch?v=PbgKEjNBHqM"
+  },
+  {
+    "title": "Wanted Dead Or Alive",
+    "artist": "Bon Jovi",
+    "time": "4:10",
+    "link": "www.youtube.com/watch?v=SRvCvsRp5ho"
+  },
+  {
+    "title": "Angel",
+    "artist": "Aerosmith",
+    "time": "5:07",
+    "link": "www.youtube.com/watch?v=CBTOGVb_cQg"
+  },
+  {
+    "title": "Under Pressure",
+    "artist": "Queen",
+    "time": "4:14",
+    "link": "www.youtube.com/watch?v=a01QQZyl-_I"
+  },
+  {
+    "title": "Stealers Wheel",
+    "artist": "Stuck In The Middle With You",
+    "time": "3:28",
+    "link": "www.youtube.com/watch?v=DohRa9lsx0Q"
+  },
+  {
+    "title": "Dust in the Wind",
+    "artist": "Kansas",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=tH2w6Oxx0kQ"
+  },
+  {
+    "title": "Carry On Wayward Son",
+    "artist": "Kansas",
+    "time": "5:24",
+    "link": "www.youtube.com/watch?v=2X_2IdybTV0"
+  },
+  {
+    "title": "About A Girl",
+    "artist": "Nirvana",
+    "time": "3:05",
+    "link": "www.youtube.com/watch?v=AhcttcXcRYY"
+  },
+  {
+    "title": "I Do It For You, LIVE",
+    "artist": "Bryan Adams",
+    "time": "7:30",
+    "link": "www.youtube.com/watch?v=vFD2gu007dc"
+  },
+  {
+    "title": "Summer of 69",
+    "artist": "Bryan Adams",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=9f06QZCVUHg"
+  },
+  {
+    "title": "Shoot To Thrill",
+    "artist": "AC/DC",
+    "time": "5:33",
+    "link": "www.youtube.com/watch?v=xRQnJyP77tY"
+  },
+  {
+    "title": "Simple Man",
+    "artist": "Lynyrd Skynyrd",
+    "time": "7:40",
+    "link": "www.youtube.com/watch?v=sHQ_aTjXObs"
+  },
+  {
+    "title": "Runaway",
+    "artist": "Bon Jovi",
+    "time": "4:19",
+    "link": "www.youtube.com/watch?v=s86K-p089R8"
+  },
+  {
+    "title": "Uptown Girl",
+    "artist": "Billy Joel",
+    "time": "3:23",
+    "link": "www.youtube.com/watch?v=hCuMWrfXG4E"
+  },
+  {
+    "title": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=zakKvbIQ28o"
+  },
+  {
+    "title": "We Didn't Start the Fire",
+    "artist": "Billy Joel",
+    "time": "4:06",
+    "link": "www.youtube.com/watch?v=eFTLKWw542g"
+  },
+  {
+    "title": "Have You Ever Really Loved A Woman?",
+    "artist": "Bryan Adams",
+    "time": "4:57",
+    "link": "www.youtube.com/watch?v=hq2KgzKETBw"
+  },
+  {
+    "title": "I say a little prayer",
+    "artist": "Aretha Franklin",
+    "time": "3:34",
+    "link": "www.youtube.com/watch?v=KtBbyglq37E"
+  },
+  {
+    "title": "Never Say Goodbye",
+    "artist": "Bon Jovi",
+    "time": "4:54",
+    "link": "www.youtube.com/watch?v=ifm00JEjSeo"
+  },
+  {
+    "title": "Free Bird HD",
+    "artist": "Lynyrd Skynyrd",
+    "time": "9:03",
+    "link": "www.youtube.com/watch?v=np0solnL1XY"
+  },
+  {
+    "title": "Since I Don't Have You",
+    "artist": "Guns N' Roses",
+    "time": "4:29",
+    "link": "www.youtube.com/watch?v=IYOYlqOitDA"
+  },
+  {
+    "title": "All Apologies",
+    "artist": "Nirvana",
+    "time": "3:39",
+    "link": "www.youtube.com/watch?v=aWmkuH1k7uA"
+  },
+  {
+    "title": "Dude",
+    "artist": "Aerosmith",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=nf0oXY4nDxE"
+  },
+  {
+    "title": "Perfect Strangers",
+    "artist": "Deep Purple",
+    "time": "5:25",
+    "link": "www.youtube.com/watch?v=gZ_kez7WVUU"
+  },
+  {
+    "title": "I'm Still Standing",
+    "artist": "Elton John",
+    "time": "3:05",
+    "link": "www.youtube.com/watch?v=ZHwVBirqD2s"
+  },
+  {
+    "title": "Roundabout",
+    "artist": "Yes",
+    "time": "8:37",
+    "link": "www.youtube.com/watch?v=-Tdu4uKSZ3M"
+  },
+  {
+    "title": "The Unforgiven II",
+    "artist": "Metallica",
+    "time": "6:37",
+    "link": "www.youtube.com/watch?v=G-Bn_kD6QN4"
+  },
+  {
+    "title": "Open Your Heart",
+    "artist": "Europe",
+    "time": "4:04",
+    "link": "www.youtube.com/watch?v=qX4LC1HBmag"
+  },
+  {
+    "title": "Believe In Love",
+    "artist": "Scorpions",
+    "time": "4:05",
+    "link": "www.youtube.com/watch?v=FQSZWAStqcY"
+  },
+  {
+    "title": "I Heard It Through The Grapevine",
+    "artist": "Marvin Gaye",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=hajBdDM2qdg"
+  },
+  {
+    "title": "Jealous Guy",
+    "artist": "John Lennon",
+    "time": "4:18",
+    "link": "www.youtube.com/watch?v=6lLs2dC9NaE"
+  },
+  {
+    "title": "Love Of My Life",
+    "artist": "Queen",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=sUJkCXE4sAA"
+  },
+  {
+    "title": "Your Song",
+    "artist": "Elton John",
+    "time": "4:51",
+    "link": "www.youtube.com/watch?v=mBCVEcjScTQ"
+  },
+  {
+    "title": "Alive",
+    "artist": "Pearl Jam",
+    "time": "5:42",
+    "link": "www.youtube.com/watch?v=wGiTPgvKktM"
+  },
+  {
+    "title": "The Day That Never Comes",
+    "artist": "Metallica",
+    "time": "8:25",
+    "link": "www.youtube.com/watch?v=mRitfbhITLM"
+  },
+  {
+    "title": "Humanity",
+    "artist": "Scorpions",
+    "time": "3:47",
+    "link": "www.youtube.com/watch?v=0755SXCTCN0"
+  },
+  {
+    "title": "Under The Same Sun",
+    "artist": "Scorpions",
+    "time": "4:40",
+    "link": "www.youtube.com/watch?v=MwyXnft6ZVk"
+  },
+  {
+    "title": "Rock You Like A Hurricane",
+    "artist": "Scorpions",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=6yP1tcy9a10"
+  },
+  {
+    "title": "What Could Have Been Love",
+    "artist": "Aerosmith",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=d7lCZ0rpH3o"
+  },
+  {
+    "title": "Can't Stop Loving You",
+    "artist": "Van Halen",
+    "time": "4:11",
+    "link": "www.youtube.com/watch?v=dFNdhm3mli0"
+  },
+  {
+    "title": "Thunder On The Mountain",
+    "artist": "Bob Dylan",
+    "time": "4:01",
+    "link": "www.youtube.com/watch?v=0RPkJeziNyI"
+  },
+  {
+    "title": "Lets Get It On",
+    "artist": "Marvin Gaye",
+    "time": "4:02",
+    "link": "www.youtube.com/watch?v=18TLHhhHZCA"
+  },
+  {
+    "title": "Born To Run",
+    "artist": "Bruce Springsteen",
+    "time": "4:32",
+    "link": "www.youtube.com/watch?v=f3t9SfrfDZM"
+  },
+  {
+    "title": "Fly By Night",
+    "artist": "Rush",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=nEVDZl5UvN4"
+  },
+  {
+    "title": "Smoke On The Water",
+    "artist": "Deep Purple",
+    "time": "6:11",
+    "link": "www.youtube.com/watch?v=s1sAkZF7SCQ"
+  },
+  {
+    "title": "Blue Sky",
+    "artist": "Allman Brothers Band",
+    "time": "7:16",
+    "link": "www.youtube.com/watch?v=G1jpQu6qR1E"
+  },
+  {
+    "title": "Must Be Santa",
+    "artist": "Bob Dylan",
+    "time": "2:50",
+    "link": "www.youtube.com/watch?v=a8qE6WQmNus"
+  },
+  {
+    "title": "Owner Of A Lonely Heart",
+    "artist": "Yes",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=lsx3nGoKIN8"
+  },
+  {
+    "title": "One More Shot",
+    "artist": "The Rolling Stones",
+    "time": "3:11",
+    "link": "www.youtube.com/watch?v=iecBKNWn6hc"
+  },
+  {
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "time": "2:06",
+    "link": "www.youtube.com/watch?v=CRNn5nR2Yco"
+  },
+  {
+    "title": "Doom and Gloom",
+    "artist": "The Rolling Stones",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=4Fn8BQPBir0"
+  },
+  {
+    "title": "Strawberry Fields Forever",
+    "artist": "The Beatles",
+    "time": "4:12",
+    "link": "www.youtube.com/watch?v=JzcZttcpYFQ"
+  },
+  {
+    "title": "Mississippi Queen",
+    "artist": "Mountain",
+    "time": "2:33",
+    "link": "www.youtube.com/watch?v=GGG_IaQowU4"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "time": "7:04",
+    "link": "www.youtube.com/watch?v=ui9JzEPEdp8"
+  }
+]

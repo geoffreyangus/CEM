@@ -1,12 +1,12 @@
 [
   {
-    "title": "Despacito ft. Daddy Yankee",
+    "title": "Despacito",
     "artist": "Luis Fonsi",
     "time": "4:42",
     "link": "www.youtube.com/watch?v=kJQP7kiw5Fk"
   },
   {
-    "title": "Uptown Funk ft. Bruno Mars",
+    "title": "Uptown Funk",
     "artist": "Mark Ronson",
     "time": "4:31",
     "link": "www.youtube.com/watch?v=OPf0YbXqDm0"
@@ -36,13 +36,13 @@
     "link": "www.youtube.com/watch?v=CevxZvSJLk8"
   },
   {
-    "title": "Bailando ft. Descemer Bueno, Gente De Zona",
+    "title": "Bailando",
     "artist": "Enrique Iglesias",
     "time": "4:47",
     "link": "www.youtube.com/watch?v=NUsoVlDFqZg"
   },
   {
-    "title": "Dark Horse ft. Juicy J",
+    "title": "Dark Horse",
     "artist": "Katy Perry",
     "time": "3:45",
     "link": "www.youtube.com/watch?v=0KSOMA3QBU0"
@@ -66,7 +66,7 @@
     "link": "www.youtube.com/watch?v=e-ORhEE9VVg"
   },
   {
-    "title": "Chantaje ft. Maluma",
+    "title": "Chantaje",
     "artist": "Shakira",
     "time": "3:20",
     "link": "www.youtube.com/watch?v=6Mgqbai3fKo"
@@ -78,13 +78,13 @@
     "link": "www.youtube.com/watch?v=7PCkvCPvDXk"
   },
   {
-    "title": "Closer ft. Halsey",
+    "title": "Closer",
     "artist": "The Chainsmokers",
     "time": "4:22",
     "link": "www.youtube.com/watch?v=PT2_F-1esPk"
   },
   {
-    "title": "This Is What You Came For ft. Rihanna",
+    "title": "This Is What You Came For",
     "artist": "Calvin Harris",
     "time": "4:00",
     "link": "www.youtube.com/watch?v=kOkQ4T5WO9E"
@@ -102,7 +102,7 @@
     "link": "www.youtube.com/watch?v=wnJ6LuUFpMo"
   },
   {
-    "title": "Baby ft. Ludacris",
+    "title": "Baby",
     "artist": "Justin Bieber",
     "time": "3:45",
     "link": "www.youtube.com/watch?v=kffacxfA7G4"
@@ -114,7 +114,7 @@
     "link": "www.youtube.com/watch?v=DK_0jXPuIr0"
   },
   {
-    "title": "Work from Home ft. Ty Dolla $ign",
+    "title": "Work from Home",
     "artist": "Fifth Harmony",
     "time": "3:40",
     "link": "www.youtube.com/watch?v=5GL9JoH4Sws"
@@ -138,7 +138,7 @@
     "link": "www.youtube.com/watch?v=IcrbM1l_BoI"
   },
   {
-    "title": "Worth It ft. Kid Ink",
+    "title": "Worth It",
     "artist": "Fifth Harmony",
     "time": "3:45",
     "link": "www.youtube.com/watch?v=YBHQbu5rbdQ"
@@ -150,7 +150,7 @@
     "link": "www.youtube.com/watch?v=lY2yjAdbvdQ"
   },
   {
-    "title": "Love The Way You Lie ft. Rihanna",
+    "title": "Love The Way You Lie",
     "artist": "Eminem",
     "time": "4:27",
     "link": "www.youtube.com/watch?v=uelHwf8o7_U"
@@ -168,7 +168,7 @@
     "link": "www.youtube.com/watch?v=vjW8wmF5VWc"
   },
   {
-    "title": "Party Rock Anthem ft. Lauren Bennett, GoonRock",
+    "title": "Party Rock Anthem",
     "artist": "LMFAO",
     "time": "6:16",
     "link": "www.youtube.com/watch?v=KQ6zr6kCPj8"
@@ -186,7 +186,7 @@
     "link": "www.youtube.com/watch?v=TapXs54Ah3E"
   },
   {
-    "title": "Vente Pa' Ca ft. Maluma",
+    "title": "Vente Pa' Ca",
     "artist": "Ricky Martin",
     "time": "4:49",
     "link": "www.youtube.com/watch?v=iOe6dI2JhgU"
@@ -204,7 +204,7 @@
     "link": "www.youtube.com/watch?v=oyEuk8j8imI"
   },
   {
-    "title": "Starboy ft. Daft Punk",
+    "title": "Starboy",
     "artist": "The Weeknd",
     "time": "4:34",
     "link": "www.youtube.com/watch?v=34Na4j8AVgA"
@@ -216,7 +216,7 @@
     "link": "www.youtube.com/watch?v=QFs3PIZb3js"
   },
   {
-    "title": "Side To Side ft. Nicki Minaj",
+    "title": "Side To Side",
     "artist": "Ariana Grande",
     "time": "3:58",
     "link": "www.youtube.com/watch?v=SXiSVQZLje8"
@@ -228,16 +228,16 @@
     "link": "www.youtube.com/watch?v=rYEDA3JcQqw"
   },
   {
-    "title": "Reggaetón Lento",
-    "artist": "CNCO",
-    "time": "3:43",
-    "link": "www.youtube.com/watch?v=7jpqqBX-Myw"
-  },
-  {
     "title": "Axel F",
     "artist": "Crazy Frog",
     "time": "2:54",
     "link": "www.youtube.com/watch?v=k85mRPqvMbE"
+  },
+  {
+    "title": "Reggaetón Lento",
+    "artist": "CNCO",
+    "time": "3:43",
+    "link": "www.youtube.com/watch?v=7jpqqBX-Myw"
   },
   {
     "title": "All of Me",
@@ -252,16 +252,10 @@
     "link": "www.youtube.com/watch?v=GMFewiplIbw"
   },
   {
-    "title": "Havana ft. Young Thug",
+    "title": "Havana",
     "artist": "Camila Cabello",
     "time": "3:39",
     "link": "www.youtube.com/watch?v=HCjNJDNzw8Y"
-  },
-  {
-    "title": "Andas En Mi Cabeza ft. Daddy Yankee",
-    "artist": "Chino y Nacho",
-    "time": "5:05",
-    "link": "www.youtube.com/watch?v=AMTAQ-AJS4Y"
   },
   {
     "title": "Something Just Like This",
@@ -270,13 +264,19 @@
     "link": "www.youtube.com/watch?v=FM7MFYoylVs"
   },
   {
+    "title": "Andas En Mi Cabeza",
+    "artist": "Chino y Nacho",
+    "time": "5:05",
+    "link": "www.youtube.com/watch?v=AMTAQ-AJS4Y"
+  },
+  {
     "title": "Burn",
     "artist": "Ellie Goulding",
     "time": "3:59",
     "link": "www.youtube.com/watch?v=CGyEd0aKWZE"
   },
   {
-    "title": "On The Floor ft. Pitbull",
+    "title": "On The Floor",
     "artist": "Jennifer Lopez",
     "time": "4:27",
     "link": "www.youtube.com/watch?v=t4H_Zoh7G5A"
@@ -300,7 +300,7 @@
     "link": "www.youtube.com/watch?v=ebXbLfLACGM"
   },
   {
-    "title": "Bad Blood ft. Kendrick Lamar",
+    "title": "Bad Blood",
     "artist": "Taylor Swift",
     "time": "4:05",
     "link": "www.youtube.com/watch?v=QcIy9NiNbmo"
@@ -318,7 +318,7 @@
     "link": "www.youtube.com/watch?v=RqpKDkVzlqU"
   },
   {
-    "title": "Bang Bang ft. Ariana Grande, Nicki Minaj",
+    "title": "Bang Bang",
     "artist": "Jessie J, Ariana Grande, Nicki Minaj",
     "time": "4:23",
     "link": "www.youtube.com/watch?v=0HDdjwpPM3Y"
@@ -330,7 +330,7 @@
     "link": "www.youtube.com/watch?v=-UV0QGLmYys"
   },
   {
-    "title": "Cheap Thrills ft. Sean Paul",
+    "title": "Cheap Thrills",
     "artist": "Sia",
     "time": "4:22",
     "link": "www.youtube.com/watch?v=nYh-n7EOtMA"
@@ -354,7 +354,7 @@
     "link": "www.youtube.com/watch?v=PJniSb91tvo"
   },
   {
-    "title": "Problem ft. Iggy Azalea",
+    "title": "Problem",
     "artist": "Ariana Grande",
     "time": "3:28",
     "link": "www.youtube.com/watch?v=iS1g8G_njx8"
@@ -366,22 +366,16 @@
     "link": "www.youtube.com/watch?v=QGJuMBdaqIw"
   },
   {
-    "title": "Ahora Dice ft. J. Balvin, Ozuna, Arcángel",
+    "title": "Ahora Dice",
     "artist": "Chris Jeday",
     "time": "4:41",
     "link": "www.youtube.com/watch?v=c73Cu3TQnlg"
   },
   {
-    "title": "Don't Let Me Down ft. Daya",
+    "title": "Don't Let Me Down",
     "artist": "The Chainsmokers",
     "time": "3:38",
     "link": "www.youtube.com/watch?v=Io0fBr1XBUA"
-  },
-  {
-    "title": "Last Friday Night",
-    "artist": "Katy Perry",
-    "time": "8:11",
-    "link": "www.youtube.com/watch?v=KlyXNRrsk4A"
   },
   {
     "title": "Call Me Maybe",
@@ -390,25 +384,31 @@
     "link": "www.youtube.com/watch?v=fWNaR-rxAic"
   },
   {
-    "title": "I'm The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+    "title": "Last Friday Night",
+    "artist": "Katy Perry",
+    "time": "8:11",
+    "link": "www.youtube.com/watch?v=KlyXNRrsk4A"
+  },
+  {
+    "title": "I'm The One",
     "artist": "DJ Khaled",
     "time": "5:22",
     "link": "www.youtube.com/watch?v=weeI1G46q0o"
   },
   {
-    "title": "La Mordidita ft. Yotuel",
+    "title": "La Mordidita",
     "artist": "Ricky Martin",
     "time": "3:43",
     "link": "www.youtube.com/watch?v=lBztnahrOFw"
   },
   {
-    "title": "La Gozadera ft. Marc Anthony",
+    "title": "La Gozadera",
     "artist": "Gente de Zona",
     "time": "4:01",
     "link": "www.youtube.com/watch?v=VMp55KH_3wo"
   },
   {
-    "title": "Timber ft. Ke$ha",
+    "title": "Timber",
     "artist": "Pitbull",
     "time": "3:35",
     "link": "www.youtube.com/watch?v=hHUbLv4ThOo"
@@ -426,7 +426,7 @@
     "link": "www.youtube.com/watch?v=VbfpW0pbvaU"
   },
   {
-    "title": "Escápate Conmigo ft. Ozuna",
+    "title": "Escápate Conmigo",
     "artist": "Wisin",
     "time": "4:33",
     "link": "www.youtube.com/watch?v=3X9wEwulYhk"
@@ -444,34 +444,34 @@
     "link": "www.youtube.com/watch?v=bdOXnTbyk0g"
   },
   {
-    "title": "Work ft. Drake",
+    "title": "Work",
     "artist": "Rihanna",
     "time": "7:35",
     "link": "www.youtube.com/watch?v=HL1UzIK-flA"
   },
   {
-    "title": "Danza Kuduro ft. Lucenzo",
+    "title": "Danza Kuduro",
     "artist": "Don Omar",
     "time": "3:56",
     "link": "www.youtube.com/watch?v=7zp1TbLFPp8"
   },
   {
-    "title": "La La La ft. Carlinhos Brown",
+    "title": "La La La",
     "artist": "Shakira",
     "time": "3:31",
     "link": "www.youtube.com/watch?v=7-7knsP2n5w"
   },
   {
-    "title": "6 AM ft. Farruko",
-    "artist": "J Balvin",
-    "time": "4:38",
-    "link": "www.youtube.com/watch?v=yUV9JwiQLog"
-  },
-  {
-    "title": "Dusk Till Dawn ft. Sia",
+    "title": "Dusk Till Dawn",
     "artist": "ZAYN",
     "time": "5:38",
     "link": "www.youtube.com/watch?v=tt2k8PGm-TI"
+  },
+  {
+    "title": "6 AM",
+    "artist": "J Balvin",
+    "time": "4:38",
+    "link": "www.youtube.com/watch?v=yUV9JwiQLog"
   },
   {
     "title": "I Took A Pill In Ibiza",
@@ -486,34 +486,34 @@
     "link": "www.youtube.com/watch?v=QJO3ROT-A4E"
   },
   {
+    "title": "I'm an Albatraoz",
+    "artist": "AronChupa",
+    "time": "2:29",
+    "link": "www.youtube.com/watch?v=Bznxx12Ptl0"
+  },
+  {
     "title": "Wrecking Ball",
     "artist": "Miley Cyrus",
     "time": "3:42",
     "link": "www.youtube.com/watch?v=My2FRPA3Gf8"
   },
   {
-    "title": "I'm an Albatraoz | OFFICIAL VIDEO",
-    "artist": "AronChupa",
-    "time": "2:29",
-    "link": "www.youtube.com/watch?v=Bznxx12Ptl0"
-  },
-  {
-    "title": "Break Free ft. Zedd",
+    "title": "Break Free",
     "artist": "Ariana Grande",
     "time": "4:08",
     "link": "www.youtube.com/watch?v=L8eRzOYhLuw"
-  },
-  {
-    "title": "Elastic Heart feat. Shia LaBeouf & Maddie Ziegler",
-    "artist": "Sia",
-    "time": "5:08",
-    "link": "www.youtube.com/watch?v=KWZGAExj-es"
   },
   {
     "title": "Look What You Made Me Do",
     "artist": "Taylor Swift",
     "time": "4:16",
     "link": "www.youtube.com/watch?v=3tmd-ClpJxA"
+  },
+  {
+    "title": "Elastic Heart",
+    "artist": "Sia",
+    "time": "5:08",
+    "link": "www.youtube.com/watch?v=KWZGAExj-es"
   },
   {
     "title": "Bad Romance",
@@ -534,7 +534,7 @@
     "link": "www.youtube.com/watch?v=KEI4qSrkPAs"
   },
   {
-    "title": "La la la ft. Sam Smith",
+    "title": "La la la",
     "artist": "Naughty Boy",
     "time": "4:04",
     "link": "www.youtube.com/watch?v=3O1_3zBUKM8"
@@ -552,28 +552,22 @@
     "link": "www.youtube.com/watch?v=pB-5XG-DbAA"
   },
   {
-    "title": "Can't Remember to Forget You ft. Rihanna",
+    "title": "Can't Remember to Forget You",
     "artist": "Shakira",
     "time": "3:26",
     "link": "www.youtube.com/watch?v=o3mP3mJDL2k"
   },
   {
-    "title": "Just Give Me A Reason ft. Nate Ruess",
+    "title": "Just Give Me A Reason",
     "artist": "P!nk",
     "time": "4:03",
     "link": "www.youtube.com/watch?v=OpQFFLBMEPI"
   },
   {
-    "title": "Rain Over Me ft. Marc Anthony",
+    "title": "Rain Over Me",
     "artist": "Pitbull",
     "time": "3:54",
     "link": "www.youtube.com/watch?v=SmM0653YvXU"
-  },
-  {
-    "title": "Fancy ft. Charli XCX",
-    "artist": "Iggy Azalea",
-    "time": "3:25",
-    "link": "www.youtube.com/watch?v=O-zpOMYRi0w"
   },
   {
     "title": "Thunder",
@@ -582,28 +576,22 @@
     "link": "www.youtube.com/watch?v=fKopy74weus"
   },
   {
+    "title": "Fancy",
+    "artist": "Iggy Azalea",
+    "time": "3:25",
+    "link": "www.youtube.com/watch?v=O-zpOMYRi0w"
+  },
+  {
     "title": "You Belong With Me",
     "artist": "Taylor Swift",
     "time": "3:49",
     "link": "www.youtube.com/watch?v=VuNIsY6JdUw"
   },
   {
-    "title": "DUELE EL CORAZON ft. Wisin",
+    "title": "DUELE EL CORAZON",
     "artist": "Enrique Iglesias",
     "time": "4:00",
     "link": "www.youtube.com/watch?v=xFutjZEBTXs"
-  },
-  {
-    "title": "Wide Awake",
-    "artist": "Katy Perry",
-    "time": "4:37",
-    "link": "www.youtube.com/watch?v=k0BWlvnBmIE"
-  },
-  {
-    "title": "Congratulations ft. Quavo",
-    "artist": "Post Malone",
-    "time": "3:47",
-    "link": "www.youtube.com/watch?v=SC4xMk98Pdc"
   },
   {
     "title": "Robarte un Beso",
@@ -612,16 +600,22 @@
     "link": "www.youtube.com/watch?v=Mtau4v6foHA"
   },
   {
-    "title": "Beauty And A Beat ft. Nicki Minaj",
+    "title": "Congratulations",
+    "artist": "Post Malone",
+    "time": "3:47",
+    "link": "www.youtube.com/watch?v=SC4xMk98Pdc"
+  },
+  {
+    "title": "Wide Awake",
+    "artist": "Katy Perry",
+    "time": "4:37",
+    "link": "www.youtube.com/watch?v=k0BWlvnBmIE"
+  },
+  {
+    "title": "Beauty And A Beat",
     "artist": "Justin Bieber",
     "time": "4:53",
     "link": "www.youtube.com/watch?v=Ys7-6_t7OEQ"
-  },
-  {
-    "title": "Cuatro Babys ft. Trap Capos, Noriel, Bryant Myers, Juhn",
-    "artist": "Maluma",
-    "time": "4:39",
-    "link": "www.youtube.com/watch?v=OXq-JP8w5H4"
   },
   {
     "title": "Too Good At Goodbyes",
@@ -630,10 +624,10 @@
     "link": "www.youtube.com/watch?v=J_ub7Etch2U"
   },
   {
-    "title": "PILLOWTALK",
-    "artist": "ZAYN",
-    "time": "3:27",
-    "link": "www.youtube.com/watch?v=C_3d6GntKbk"
+    "title": "Cuatro Babys",
+    "artist": "Maluma",
+    "time": "4:39",
+    "link": "www.youtube.com/watch?v=OXq-JP8w5H4"
   },
   {
     "title": "Hot N Cold",
@@ -642,7 +636,13 @@
     "link": "www.youtube.com/watch?v=kTHNpusq654"
   },
   {
-    "title": "Si Tu Novio Te Deja Sola ft. Bad Bunny",
+    "title": "PILLOWTALK",
+    "artist": "ZAYN",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=C_3d6GntKbk"
+  },
+  {
+    "title": "Si Tu Novio Te Deja Sola",
     "artist": "J Balvin",
     "time": "4:06",
     "link": "www.youtube.com/watch?v=Km4BayZykwE"
@@ -660,28 +660,22 @@
     "link": "www.youtube.com/watch?v=LrUvu1mlWco"
   },
   {
-    "title": "El Perdedor ft. Marco Antonio Solís",
+    "title": "El Perdedor",
     "artist": "Enrique Iglesias",
     "time": "4:22",
     "link": "www.youtube.com/watch?v=tLcfAnN2QgY"
   },
   {
-    "title": "Never Say Never ft. Jaden Smith",
+    "title": "Never Say Never",
     "artist": "Justin Bieber",
     "time": "3:50",
     "link": "www.youtube.com/watch?v=_Z5-P9v3F8w"
   },
   {
-    "title": "We Found Love ft. Calvin Harris",
+    "title": "We Found Love",
     "artist": "Rihanna",
     "time": "4:36",
     "link": "www.youtube.com/watch?v=tg00YEETFzg"
-  },
-  {
-    "title": "Limbo",
-    "artist": "Daddy Yankee",
-    "time": "4:15",
-    "link": "www.youtube.com/watch?v=6BTjG-dhf5s"
   },
   {
     "title": "Anaconda",
@@ -690,13 +684,19 @@
     "link": "www.youtube.com/watch?v=LDZX4ooRsWs"
   },
   {
+    "title": "Limbo",
+    "artist": "Daddy Yankee",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=6BTjG-dhf5s"
+  },
+  {
     "title": "Focus",
     "artist": "Ariana Grande",
     "time": "3:45",
     "link": "www.youtube.com/watch?v=lf_wVfwpfp8"
   },
   {
-    "title": "23 ft. Miley Cyrus, Wiz Khalifa, Juicy J",
+    "title": "23",
     "artist": "Mike WiLL Made-It",
     "time": "5:18",
     "link": "www.youtube.com/watch?v=bbEoRnaOIbs"
@@ -708,7 +708,7 @@
     "link": "www.youtube.com/watch?v=HMUDVMiITOU"
   },
   {
-    "title": "Loyal ft. Lil Wayne, Tyga",
+    "title": "Loyal",
     "artist": "Chris Brown",
     "time": "4:31",
     "link": "www.youtube.com/watch?v=JXRN_LkCa_o"
@@ -732,22 +732,22 @@
     "link": "www.youtube.com/watch?v=hTWKbfoikeg"
   },
   {
-    "title": "Unforgettable ft. Swae Lee",
+    "title": "Unforgettable",
     "artist": "French Montana",
     "time": "4:47",
     "link": "www.youtube.com/watch?v=CTFtOOh47oo"
-  },
-  {
-    "title": "One More Night",
-    "artist": "Maroon 5",
-    "time": "3:43",
-    "link": "www.youtube.com/watch?v=fwK7ggA3-bU"
   },
   {
     "title": "Rap God",
     "artist": "Eminem",
     "time": "6:10",
     "link": "www.youtube.com/watch?v=XbGs_qK2PQA"
+  },
+  {
+    "title": "One More Night",
+    "artist": "Maroon 5",
+    "time": "3:43",
+    "link": "www.youtube.com/watch?v=fwK7ggA3-bU"
   },
   {
     "title": "Super Bass",
@@ -762,7 +762,7 @@
     "link": "www.youtube.com/watch?v=YXnjy5YlDwk"
   },
   {
-    "title": "I Need Your Love ft. Ellie Goulding",
+    "title": "I Need Your Love",
     "artist": "Calvin Harris",
     "time": "3:47",
     "link": "www.youtube.com/watch?v=AtKZKl7Bgu0"
@@ -798,28 +798,34 @@
     "link": "www.youtube.com/watch?v=4GuqB1BQVr4"
   },
   {
-    "title": "Safari ft. Pharrell Williams, BIA, Sky",
-    "artist": "J Balvin",
-    "time": "3:25",
-    "link": "www.youtube.com/watch?v=JWESLtAKKlU"
-  },
-  {
-    "title": "Adrenalina ft. Jennifer Lopez, Ricky Martin",
-    "artist": "Wisin",
-    "time": "4:28",
-    "link": "www.youtube.com/watch?v=ME2Hufquz0k"
-  },
-  {
     "title": "Sweet Child O' Mine",
     "artist": "Guns N' Roses",
     "time": "5:03",
     "link": "www.youtube.com/watch?v=1w7OgIMMRc4"
   },
   {
-    "title": "Stay ft. Mikky Ekko",
+    "title": "Safari",
+    "artist": "J Balvin",
+    "time": "3:25",
+    "link": "www.youtube.com/watch?v=JWESLtAKKlU"
+  },
+  {
+    "title": "Adrenalina",
+    "artist": "Wisin",
+    "time": "4:28",
+    "link": "www.youtube.com/watch?v=ME2Hufquz0k"
+  },
+  {
+    "title": "Stay",
     "artist": "Rihanna",
     "time": "4:08",
     "link": "www.youtube.com/watch?v=JF8BRvqGCNs"
+  },
+  {
+    "title": "What's My Name?",
+    "artist": "Rihanna",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=U0CGsw6h60k"
   },
   {
     "title": "Part Of Me",
@@ -828,19 +834,13 @@
     "link": "www.youtube.com/watch?v=uuwfgXD8qV8"
   },
   {
-    "title": "What's My Name? ft. Drake",
-    "artist": "Rihanna",
-    "time": "4:24",
-    "link": "www.youtube.com/watch?v=U0CGsw6h60k"
-  },
-  {
     "title": "In Da Club",
     "artist": "50 Cent",
     "time": "4:10",
     "link": "www.youtube.com/watch?v=5qm8PH4xAss"
   },
   {
-    "title": "Por Fin Te Encontré ft. Juan Magan, Sebastian Yatra",
+    "title": "Por Fin Te Encontré",
     "artist": "Cali Y El Dandee",
     "time": "4:43",
     "link": "www.youtube.com/watch?v=_kxz7WX4mLU"
@@ -852,7 +852,7 @@
     "link": "www.youtube.com/watch?v=bnVUHWCynig"
   },
   {
-    "title": "Me Voy Enamorando ft. Farruko",
+    "title": "Me Voy Enamorando",
     "artist": "Chino & Nacho",
     "time": "5:49",
     "link": "www.youtube.com/watch?v=0yr75-gxVtM"
@@ -864,16 +864,10 @@
     "link": "www.youtube.com/watch?v=wzMrK-aGCug"
   },
   {
-    "title": "Wild Thoughts ft. Rihanna, Bryson Tiller",
+    "title": "Wild Thoughts",
     "artist": "DJ Khaled",
     "time": "3:36",
     "link": "www.youtube.com/watch?v=fyaI4-5849w"
-  },
-  {
-    "title": "This Is How We Do",
-    "artist": "Katy Perry",
-    "time": "3:30",
-    "link": "www.youtube.com/watch?v=7RMQksXpQSk"
   },
   {
     "title": "Story of My Life",
@@ -882,7 +876,13 @@
     "link": "www.youtube.com/watch?v=W-TE_Ys4iwM"
   },
   {
-    "title": "Give Me Everything ft. Ne-Yo, Afrojack, Nayer",
+    "title": "This Is How We Do",
+    "artist": "Katy Perry",
+    "time": "3:30",
+    "link": "www.youtube.com/watch?v=7RMQksXpQSk"
+  },
+  {
+    "title": "Give Me Everything",
     "artist": "Pitbull",
     "time": "4:27",
     "link": "www.youtube.com/watch?v=EPo5wWmKEaI"
@@ -894,19 +894,19 @@
     "link": "www.youtube.com/watch?v=pa14VNsdSYM"
   },
   {
-    "title": "Havana ft. Young Thug",
+    "title": "Havana",
     "artist": "Camila Cabello",
     "time": "6:43",
     "link": "www.youtube.com/watch?v=BQ0mxQXmLsk"
   },
   {
-    "title": "Black Beatles ft. Gucci Mane",
+    "title": "Black Beatles",
     "artist": "Rae Sremmurd",
     "time": "4:53",
     "link": "www.youtube.com/watch?v=b8m9zhNAgKs"
   },
   {
-    "title": "Scream & Shout ft. Britney Spears",
+    "title": "Scream & Shout",
     "artist": "will.i.am",
     "time": "4:52",
     "link": "www.youtube.com/watch?v=kYtGl1dX5qI"
@@ -930,7 +930,7 @@
     "link": "www.youtube.com/watch?v=1wYNFfgrXTI"
   },
   {
-    "title": "Chillax ft. Ky-Mani Marley",
+    "title": "Chillax",
     "artist": "Farruko",
     "time": "5:37",
     "link": "www.youtube.com/watch?v=7fEQmJ98x_Y"
@@ -942,10 +942,16 @@
     "link": "www.youtube.com/watch?v=mWRsgZuwf_8"
   },
   {
-    "title": "International Love ft. Chris Brown",
+    "title": "International Love",
     "artist": "Pitbull",
     "time": "4:09",
     "link": "www.youtube.com/watch?v=CdXesX6mYUE"
+  },
+  {
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=7wtfhZwyrcc"
   },
   {
     "title": "The One That Got Away",
@@ -966,25 +972,19 @@
     "link": "www.youtube.com/watch?v=M11SvDtPBhA"
   },
   {
-    "title": "Believer",
-    "artist": "Imagine Dragons",
-    "time": "3:37",
-    "link": "www.youtube.com/watch?v=7wtfhZwyrcc"
-  },
-  {
-    "title": "Despacito ft. Justin Bieber",
+    "title": "Despacito",
     "artist": "Luis Fonsi, Daddy Yankee",
     "time": "3:49",
     "link": "www.youtube.com/watch?v=72UO0v5ESUo"
   },
   {
-    "title": "Desde Esa Noche ft. Maluma",
+    "title": "Desde Esa Noche",
     "artist": "Thalía",
     "time": "3:50",
     "link": "www.youtube.com/watch?v=6C_s56iscpQ"
   },
   {
-    "title": "Habits - Hippie Sabotage Remix",
+    "title": "Habits",
     "artist": "Tove Lo",
     "time": "4:24",
     "link": "www.youtube.com/watch?v=SYM-RJwSGQ8"
@@ -1008,22 +1008,28 @@
     "link": "www.youtube.com/watch?v=4NNRy_Wz16k"
   },
   {
-    "title": "Blame ft. John Newman",
-    "artist": "Calvin Harris",
-    "time": "4:16",
-    "link": "www.youtube.com/watch?v=6ACl8s_tBzE"
-  },
-  {
     "title": "Without Me",
     "artist": "Eminem",
     "time": "5:00",
     "link": "www.youtube.com/watch?v=YVkUvmDQ3HY"
   },
   {
+    "title": "Blame",
+    "artist": "Calvin Harris",
+    "time": "4:16",
+    "link": "www.youtube.com/watch?v=6ACl8s_tBzE"
+  },
+  {
     "title": "Wildest Dreams",
     "artist": "Taylor Swift",
     "time": "3:55",
     "link": "www.youtube.com/watch?v=IdneKLhsWOQ"
+  },
+  {
+    "title": "Girls Just Want To Have Fun",
+    "artist": "Cyndi Lauper",
+    "time": "4:26",
+    "link": "www.youtube.com/watch?v=PIb6AZdTr-A"
   },
   {
     "title": "Me Enamoré",
@@ -1038,13 +1044,13 @@
     "link": "www.youtube.com/watch?v=1ekZEVeXwek"
   },
   {
-    "title": "Girls Just Want To Have Fun",
-    "artist": "Cyndi Lauper",
-    "time": "4:26",
-    "link": "www.youtube.com/watch?v=PIb6AZdTr-A"
+    "title": "There's Nothing Holdin' Me Back",
+    "artist": "Shawn Mendes",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=dT2owtxkU8k"
   },
   {
-    "title": "Price Tag ft. B.o.B",
+    "title": "Price Tag",
     "artist": "Jessie J",
     "time": "4:07",
     "link": "www.youtube.com/watch?v=qMxX-QOV9tI"
@@ -1062,12 +1068,6 @@
     "link": "www.youtube.com/watch?v=n4RjJKxsamQ"
   },
   {
-    "title": "There's Nothing Holdin' Me Back",
-    "artist": "Shawn Mendes",
-    "time": "3:58",
-    "link": "www.youtube.com/watch?v=dT2owtxkU8k"
-  },
-  {
     "title": "Love Me Again",
     "artist": "John Newman",
     "time": "3:56",
@@ -1080,7 +1080,7 @@
     "link": "www.youtube.com/watch?v=sEhy-RXkNo0"
   },
   {
-    "title": "The Monster ft. Rihanna",
+    "title": "The Monster",
     "artist": "Eminem",
     "time": "5:19",
     "link": "www.youtube.com/watch?v=EHkozMIXZ8w"
@@ -1098,52 +1098,16 @@
     "link": "www.youtube.com/watch?v=o_v9MY_FMcw"
   },
   {
-    "title": "The Heart Wants What It Wants",
-    "artist": "Selena Gomez",
-    "time": "4:36",
-    "link": "www.youtube.com/watch?v=ij_0p_6qTss"
-  },
-  {
-    "title": "Live While We're Young",
-    "artist": "One Direction",
-    "time": "3:18",
-    "link": "www.youtube.com/watch?v=AbPED9bisSc"
-  },
-  {
-    "title": "Locked Away ft. Adam Levine",
+    "title": "Locked Away",
     "artist": "R. City",
     "time": "4:26",
     "link": "www.youtube.com/watch?v=6GUm5g8SG4o"
   },
   {
-    "title": "One Thing",
-    "artist": "One Direction",
-    "time": "3:18",
-    "link": "www.youtube.com/watch?v=Y1xs_xPb46M"
-  },
-  {
-    "title": "Don't Speak",
-    "artist": "No Doubt",
-    "time": "5:03",
-    "link": "www.youtube.com/watch?v=TR3Vdo5etCQ"
-  },
-  {
-    "title": "One Time",
-    "artist": "Justin Bieber",
-    "time": "4:03",
-    "link": "www.youtube.com/watch?v=CHVhwcOg6y8"
-  },
-  {
-    "title": "Loka ft. Anitta",
-    "artist": "Simone & Simaria",
-    "time": "3:37",
-    "link": "www.youtube.com/watch?v=UrT0zCmsN8c"
-  },
-  {
-    "title": "Hips Don't Lie ft. Wyclef Jean",
-    "artist": "Shakira",
-    "time": "3:39",
-    "link": "www.youtube.com/watch?v=DUT5rEU6pqM"
+    "title": "The Heart Wants What It Wants",
+    "artist": "Selena Gomez",
+    "time": "4:36",
+    "link": "www.youtube.com/watch?v=ij_0p_6qTss"
   },
   {
     "title": "Human",
@@ -1152,7 +1116,43 @@
     "link": "www.youtube.com/watch?v=L3wKzyIN1yk"
   },
   {
-    "title": "Moves Like Jagger ft. Christina Aguilera",
+    "title": "Live While We're Young",
+    "artist": "One Direction",
+    "time": "3:18",
+    "link": "www.youtube.com/watch?v=AbPED9bisSc"
+  },
+  {
+    "title": "Don't Speak",
+    "artist": "No Doubt",
+    "time": "5:03",
+    "link": "www.youtube.com/watch?v=TR3Vdo5etCQ"
+  },
+  {
+    "title": "One Thing",
+    "artist": "One Direction",
+    "time": "3:18",
+    "link": "www.youtube.com/watch?v=Y1xs_xPb46M"
+  },
+  {
+    "title": "Hips Don't Lie",
+    "artist": "Shakira",
+    "time": "3:39",
+    "link": "www.youtube.com/watch?v=DUT5rEU6pqM"
+  },
+  {
+    "title": "Loka",
+    "artist": "Simone & Simaria",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=UrT0zCmsN8c"
+  },
+  {
+    "title": "One Time",
+    "artist": "Justin Bieber",
+    "time": "4:03",
+    "link": "www.youtube.com/watch?v=CHVhwcOg6y8"
+  },
+  {
+    "title": "Moves Like Jagger",
     "artist": "Maroon 5",
     "time": "4:39",
     "link": "www.youtube.com/watch?v=iEPTlhBmwRg"
@@ -1170,6 +1170,12 @@
     "link": "www.youtube.com/watch?v=4DO8GsIYfhQ"
   },
   {
+    "title": "Perro Fiel",
+    "artist": "Shakira",
+    "time": "3:16",
+    "link": "www.youtube.com/watch?v=SHq2qrFUlGY"
+  },
+  {
     "title": "The Greatest",
     "artist": "Sia",
     "time": "5:52",
@@ -1180,12 +1186,6 @@
     "artist": "Ariana Grande, The Weeknd",
     "time": "4:11",
     "link": "www.youtube.com/watch?v=g5qU7p7yOY8"
-  },
-  {
-    "title": "Perro Fiel ft. Nicky Jam",
-    "artist": "Shakira",
-    "time": "3:16",
-    "link": "www.youtube.com/watch?v=SHq2qrFUlGY"
   },
   {
     "title": "Sexy and I Know It",
@@ -1200,13 +1200,7 @@
     "link": "www.youtube.com/watch?v=_wL3Pc-EmjA"
   },
   {
-    "title": "Let It Go [Official]",
-    "artist": "Demi Lovato",
-    "time": "3:51",
-    "link": "www.youtube.com/watch?v=kHue-HaXXzg"
-  },
-  {
-    "title": "Firestone ft. Conrad Sewell",
+    "title": "Firestone",
     "artist": "Kygo",
     "time": "3:43",
     "link": "www.youtube.com/watch?v=9Sc-ir2UwGU"
@@ -1216,6 +1210,12 @@
     "artist": "The Police",
     "time": "3:56",
     "link": "www.youtube.com/watch?v=OMOGaugKpzs"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Demi Lovato",
+    "time": "3:51",
+    "link": "www.youtube.com/watch?v=kHue-HaXXzg"
   },
   {
     "title": "Papaoutai",
@@ -1230,6 +1230,12 @@
     "link": "www.youtube.com/watch?v=-CmadmM5cOk"
   },
   {
+    "title": "Bon Appétit",
+    "artist": "Katy Perry",
+    "time": "4:18",
+    "link": "www.youtube.com/watch?v=dPI-mRFEIH0"
+  },
+  {
     "title": "Try Everything",
     "artist": "Shakira",
     "time": "3:23",
@@ -1242,19 +1248,13 @@
     "link": "www.youtube.com/watch?v=qpgTC9MDx1o"
   },
   {
-    "title": "Bon Appétit ft. Migos",
-    "artist": "Katy Perry",
-    "time": "4:18",
-    "link": "www.youtube.com/watch?v=dPI-mRFEIH0"
-  },
-  {
     "title": "Thriller",
     "artist": "Michael Jackson",
     "time": "13:43",
     "link": "www.youtube.com/watch?v=sOnqjkJTMaA"
   },
   {
-    "title": "Blurred Lines ft. T.I., Pharrell",
+    "title": "Blurred Lines",
     "artist": "Robin Thicke",
     "time": "4:32",
     "link": "www.youtube.com/watch?v=yyDUC1LUXSU"
@@ -1272,16 +1272,16 @@
     "link": "www.youtube.com/watch?v=qDc_5zpBj7s"
   },
   {
-    "title": "Yo También ft. Marc Anthony",
-    "artist": "Romeo Santos",
-    "time": "5:58",
-    "link": "www.youtube.com/watch?v=QBaIMZ8QjcU"
-  },
-  {
     "title": "Poker Face",
     "artist": "Lady Gaga",
     "time": "3:36",
     "link": "www.youtube.com/watch?v=bESGLojNYSo"
+  },
+  {
+    "title": "Yo También",
+    "artist": "Romeo Santos",
+    "time": "5:58",
+    "link": "www.youtube.com/watch?v=QBaIMZ8QjcU"
   },
   {
     "title": "We Are Never Ever Getting Back Together",
@@ -1302,16 +1302,22 @@
     "link": "www.youtube.com/watch?v=3YxaaGgTQYM"
   },
   {
-    "title": "Loco ft. Romeo Santos",
+    "title": "Still D.R.E.",
+    "artist": "Dr. Dre",
+    "time": "4:52",
+    "link": "www.youtube.com/watch?v=_CL6n0FJZpk"
+  },
+  {
+    "title": "Loco",
     "artist": "Enrique Iglesias",
     "time": "4:09",
     "link": "www.youtube.com/watch?v=RSyUWjftHrs"
   },
   {
-    "title": "Still D.R.E. ft. Snoop Dogg",
-    "artist": "Dr. Dre",
-    "time": "4:52",
-    "link": "www.youtube.com/watch?v=_CL6n0FJZpk"
+    "title": "Don't You Worry Child",
+    "artist": "Swedish House Mafia",
+    "time": "5:35",
+    "link": "www.youtube.com/watch?v=1y6smkh6c-0"
   },
   {
     "title": "Cásate Conmigo",
@@ -1320,46 +1326,34 @@
     "link": "www.youtube.com/watch?v=cpN78ZjnCZY"
   },
   {
-    "title": "Don't You Worry Child ft. John Martin",
-    "artist": "Swedish House Mafia",
-    "time": "5:35",
-    "link": "www.youtube.com/watch?v=1y6smkh6c-0"
-  },
-  {
-    "title": "Mirror ft. Bruno Mars",
+    "title": "Mirror",
     "artist": "Lil Wayne",
     "time": "4:03",
     "link": "www.youtube.com/watch?v=OZLUa8JUR18"
   },
   {
-    "title": "Nota de Amor ft. Daddy Yankee",
+    "title": "Nota de Amor",
     "artist": "Wisin, Carlos Vives",
     "time": "3:55",
     "link": "www.youtube.com/watch?v=wZRWpr1G1Qw"
   },
   {
-    "title": "Follow The Leader ft. Jennifer Lopez",
-    "artist": "Wisin & Yandel",
-    "time": "4:59",
-    "link": "www.youtube.com/watch?v=Xmap94TcDNs"
-  },
-  {
-    "title": "Chained To The Rhythm ft. Skip Marley",
+    "title": "Chained To The Rhythm",
     "artist": "Katy Perry",
     "time": "4:01",
     "link": "www.youtube.com/watch?v=Um7pMggPnug"
   },
   {
-    "title": "Dilemma ft. Kelly Rowland",
+    "title": "Follow The Leader",
+    "artist": "Wisin & Yandel",
+    "time": "4:59",
+    "link": "www.youtube.com/watch?v=Xmap94TcDNs"
+  },
+  {
+    "title": "Dilemma",
     "artist": "Nelly",
     "time": "4:43",
     "link": "www.youtube.com/watch?v=8WYHDfJDPDc"
-  },
-  {
-    "title": "Mirrors",
-    "artist": "Justin Timberlake",
-    "time": "8:21",
-    "link": "www.youtube.com/watch?v=uuZE_IRwLNI"
   },
   {
     "title": "My Immortal",
@@ -1368,16 +1362,40 @@
     "link": "www.youtube.com/watch?v=5anLPw0Efmo"
   },
   {
+    "title": "Mirrors",
+    "artist": "Justin Timberlake",
+    "time": "8:21",
+    "link": "www.youtube.com/watch?v=uuZE_IRwLNI"
+  },
+  {
     "title": "Get Low",
     "artist": "Dillon Francis, DJ Snake",
     "time": "3:33",
     "link": "www.youtube.com/watch?v=12CeaxLiMgE"
   },
   {
-    "title": "Black Widow ft. Rita Ora",
+    "title": "Black Widow",
     "artist": "Iggy Azalea",
     "time": "5:31",
     "link": "www.youtube.com/watch?v=u3u22OYqFGo"
+  },
+  {
+    "title": "They Don’t Care About Us",
+    "artist": "Michael Jackson",
+    "time": "4:42",
+    "link": "www.youtube.com/watch?v=QNJL6nfu__Q"
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Europe",
+    "time": "4:56",
+    "link": "www.youtube.com/watch?v=9jK-NcRmVcw"
+  },
+  {
+    "title": "Rolex",
+    "artist": "Ayo & Teo",
+    "time": "4:02",
+    "link": "www.youtube.com/watch?v=lwk5OUII9Vc"
   },
   {
     "title": "Bobo",
@@ -1392,28 +1410,10 @@
     "link": "www.youtube.com/watch?v=AByfaYcOm4A"
   },
   {
-    "title": "The Final Countdown",
-    "artist": "Europe",
-    "time": "4:56",
-    "link": "www.youtube.com/watch?v=9jK-NcRmVcw"
-  },
-  {
-    "title": "They Don’t Care About Us",
-    "artist": "Michael Jackson",
-    "time": "4:42",
-    "link": "www.youtube.com/watch?v=QNJL6nfu__Q"
-  },
-  {
     "title": "Send My Love",
     "artist": "Adele",
     "time": "3:46",
     "link": "www.youtube.com/watch?v=fk4BbF7B29w"
-  },
-  {
-    "title": "Rolex",
-    "artist": "Ayo & Teo",
-    "time": "4:02",
-    "link": "www.youtube.com/watch?v=lwk5OUII9Vc"
   },
   {
     "title": "Después de Ti, ¿Quién?",
@@ -1434,13 +1434,13 @@
     "link": "www.youtube.com/watch?v=4fndeDfaWCg"
   },
   {
-    "title": "Sígueme y Te Sigo- Daddy Yankee - Video Oficial)",
+    "title": "Sígueme y Te Sigo",
     "artist": "Daddy Yankee",
     "time": "4:13",
     "link": "www.youtube.com/watch?v=EfF9EE6ZR5E"
   },
   {
-    "title": "E.T. ft. Kanye West",
+    "title": "E.T.",
     "artist": "Katy Perry",
     "time": "5:09",
     "link": "www.youtube.com/watch?v=t5Sd5c4o9UM"
@@ -1464,7 +1464,7 @@
     "link": "www.youtube.com/watch?v=7F37r50VUTQ"
   },
   {
-    "title": "Like I'm Gonna Lose You ft. John Legend",
+    "title": "Like I'm Gonna Lose You",
     "artist": "Meghan Trainor",
     "time": "3:48",
     "link": "www.youtube.com/watch?v=2-MBfn8XjIU"
@@ -1494,34 +1494,34 @@
     "link": "www.youtube.com/watch?v=F90Cw4l-8NY"
   },
   {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "time": "4:56",
+    "link": "www.youtube.com/watch?v=Zi_XLOBDo_Y"
+  },
+  {
     "title": "Don't Cry",
     "artist": "Guns N' Roses",
     "time": "5:14",
     "link": "www.youtube.com/watch?v=zRIbf6JqkNc"
   },
   {
-    "title": "Drunk in Love ft. JAY Z",
+    "title": "Drunk in Love",
     "artist": "Beyoncé",
     "time": "6:22",
     "link": "www.youtube.com/watch?v=p1JPKLa-Ofc"
   },
   {
-    "title": "Swish Swish ft. Nicki Minaj",
+    "title": "Swish Swish",
     "artist": "Katy Perry",
     "time": "6:25",
     "link": "www.youtube.com/watch?v=iGk5fR-t5AU"
   },
   {
-    "title": "Payphone ft. Wiz Khalifa",
+    "title": "Payphone",
     "artist": "Maroon 5",
     "time": "4:40",
     "link": "www.youtube.com/watch?v=KRaWnd3LJfs"
-  },
-  {
-    "title": "Billie Jean",
-    "artist": "Michael Jackson",
-    "time": "4:56",
-    "link": "www.youtube.com/watch?v=Zi_XLOBDo_Y"
   },
   {
     "title": "Livin' On A Prayer",
@@ -1530,13 +1530,13 @@
     "link": "www.youtube.com/watch?v=lDK9QqIzhwk"
   },
   {
-    "title": "Feel This Moment ft. Christina Aguilera",
+    "title": "Feel This Moment",
     "artist": "Pitbull",
     "time": "3:50",
     "link": "www.youtube.com/watch?v=5jlI4uzZGjU"
   },
   {
-    "title": "Loca ft. El Cata",
+    "title": "Loca",
     "artist": "Shakira",
     "time": "2:42",
     "link": "www.youtube.com/watch?v=XAhTt60W7qo"
@@ -1560,6 +1560,12 @@
     "link": "www.youtube.com/watch?v=vJwKKKd2ZYE"
   },
   {
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "time": "5:33",
+    "link": "www.youtube.com/watch?v=lcOxhH8N3Bo"
+  },
+  {
     "title": "Waiting For Love",
     "artist": "Avicii",
     "time": "3:51",
@@ -1572,16 +1578,16 @@
     "link": "www.youtube.com/watch?v=v2AC41dglnM"
   },
   {
-    "title": "Mama ft. William Singe",
+    "title": "Mama",
     "artist": "Jonas Blue",
     "time": "3:04",
     "link": "www.youtube.com/watch?v=qPTfXwPf_HM"
   },
   {
-    "title": "Total Eclipse of the Heart",
-    "artist": "Bonnie Tyler",
-    "time": "5:33",
-    "link": "www.youtube.com/watch?v=lcOxhH8N3Bo"
+    "title": "Pumped up Kicks",
+    "artist": "Foster The People",
+    "time": "4:16",
+    "link": "www.youtube.com/watch?v=SDTZ7iX4vTQ"
   },
   {
     "title": "Rude Boy",
@@ -1596,12 +1602,6 @@
     "link": "www.youtube.com/watch?v=fV4DiAyExN0"
   },
   {
-    "title": "Pumped up Kicks",
-    "artist": "Foster The People",
-    "time": "4:16",
-    "link": "www.youtube.com/watch?v=SDTZ7iX4vTQ"
-  },
-  {
     "title": "Dear Future Husband",
     "artist": "Meghan Trainor",
     "time": "3:21",
@@ -1614,10 +1614,10 @@
     "link": "www.youtube.com/watch?v=cPAbx5kgCJo"
   },
   {
-    "title": "Outside ft. Ellie Goulding",
-    "artist": "Calvin Harris",
-    "time": "3:46",
-    "link": "www.youtube.com/watch?v=J9NQFACZYEU"
+    "title": "Set Fire To The Rain",
+    "artist": "Adele",
+    "time": "3:59",
+    "link": "www.youtube.com/watch?v=Ri7-vnrJD3k"
   },
   {
     "title": "Always",
@@ -1626,16 +1626,16 @@
     "link": "www.youtube.com/watch?v=9BMwcO6_hyA"
   },
   {
-    "title": "Set Fire To The Rain",
-    "artist": "Adele",
-    "time": "3:59",
-    "link": "www.youtube.com/watch?v=Ri7-vnrJD3k"
-  },
-  {
     "title": "Flashlight",
     "artist": "Jessie J",
     "time": "3:53",
     "link": "www.youtube.com/watch?v=DzwkcbTQ7ZE"
+  },
+  {
+    "title": "Outside",
+    "artist": "Calvin Harris",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=J9NQFACZYEU"
   },
   {
     "title": "Young Dumb & Broke",
@@ -1644,16 +1644,16 @@
     "link": "www.youtube.com/watch?v=IPfJnp1guPc"
   },
   {
-    "title": "Low Life ft. The Weeknd",
-    "artist": "Future",
-    "time": "5:24",
-    "link": "www.youtube.com/watch?v=K_9tX4eHztY"
-  },
-  {
     "title": "Dernière Danse",
     "artist": "Indila",
     "time": "3:35",
     "link": "www.youtube.com/watch?v=K5KAc5CoCuk"
+  },
+  {
+    "title": "Low Life",
+    "artist": "Future",
+    "time": "5:24",
+    "link": "www.youtube.com/watch?v=K_9tX4eHztY"
   },
   {
     "title": "Don't Stop The Music",
@@ -1662,22 +1662,22 @@
     "link": "www.youtube.com/watch?v=yd8jh9QYfEs"
   },
   {
-    "title": "Love Story",
-    "artist": "Taylor Swift",
-    "time": "3:57",
-    "link": "www.youtube.com/watch?v=8xg3vE8Ie_E"
-  },
-  {
-    "title": "Perfect Strangers ft. JP Cooper",
+    "title": "Perfect Strangers",
     "artist": "Jonas Blue",
     "time": "3:28",
     "link": "www.youtube.com/watch?v=Ey_hgKCCYU4"
   },
   {
-    "title": "Smack That ft. Eminem",
+    "title": "Smack That",
     "artist": "Akon",
     "time": "4:14",
     "link": "www.youtube.com/watch?v=bKDdT_nyP54"
+  },
+  {
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "time": "3:57",
+    "link": "www.youtube.com/watch?v=8xg3vE8Ie_E"
   },
   {
     "title": "She Will Be Loved",
@@ -1698,19 +1698,13 @@
     "link": "www.youtube.com/watch?v=SkTt9k4Y-a8"
   },
   {
-    "title": "Dance Again ft. Pitbull",
+    "title": "Dance Again",
     "artist": "Jennifer Lopez",
     "time": "4:27",
     "link": "www.youtube.com/watch?v=bjgFH01k0gU"
   },
   {
-    "title": "Girlfriend",
-    "artist": "Avril Lavigne",
-    "time": "3:48",
-    "link": "www.youtube.com/watch?v=Bg59q4puhmg"
-  },
-  {
-    "title": "Candy Shop ft. Olivia",
+    "title": "Candy Shop",
     "artist": "50 Cent",
     "time": "4:11",
     "link": "www.youtube.com/watch?v=SRcnnId15BA"
@@ -1728,13 +1722,19 @@
     "link": "www.youtube.com/watch?v=6EEW-9NDM5k"
   },
   {
+    "title": "Girlfriend",
+    "artist": "Avril Lavigne",
+    "time": "3:48",
+    "link": "www.youtube.com/watch?v=Bg59q4puhmg"
+  },
+  {
     "title": "Panda",
     "artist": "Desiigner",
     "time": "4:08",
     "link": "www.youtube.com/watch?v=4NJlUribp3c"
   },
   {
-    "title": "California Gurls ft. Snoop Dogg",
+    "title": "California Gurls",
     "artist": "Katy Perry",
     "time": "3:55",
     "link": "www.youtube.com/watch?v=F57P9C4SAW4"
@@ -1752,19 +1752,19 @@
     "link": "www.youtube.com/watch?v=weRHyjj34ZE"
   },
   {
-    "title": "Kiss You",
-    "artist": "One Direction",
-    "time": "3:11",
-    "link": "www.youtube.com/watch?v=T4cdfRohhcg"
-  },
-  {
     "title": "U Can't Touch This",
     "artist": "MC Hammer",
     "time": "4:38",
     "link": "www.youtube.com/watch?v=otCpCn0l4Wo"
   },
   {
-    "title": "Look At Me Now ft. Lil Wayne, Busta Rhymes",
+    "title": "Kiss You",
+    "artist": "One Direction",
+    "time": "3:11",
+    "link": "www.youtube.com/watch?v=T4cdfRohhcg"
+  },
+  {
+    "title": "Look At Me Now",
     "artist": "Chris Brown",
     "time": "4:09",
     "link": "www.youtube.com/watch?v=8gyLR4NfMiI"
@@ -1788,6 +1788,12 @@
     "link": "www.youtube.com/watch?v=HHP5MKgK0o8"
   },
   {
+    "title": "Here Without You",
+    "artist": "3 Doors Down",
+    "time": "3:56",
+    "link": "www.youtube.com/watch?v=kPBzTxZQG5Q"
+  },
+  {
     "title": "Run the World",
     "artist": "Beyoncé",
     "time": "4:51",
@@ -1798,12 +1804,6 @@
     "artist": "Justin Bieber",
     "time": "3:21",
     "link": "www.youtube.com/watch?v=PfGaX8G0f2E"
-  },
-  {
-    "title": "Here Without You",
-    "artist": "3 Doors Down",
-    "time": "3:56",
-    "link": "www.youtube.com/watch?v=kPBzTxZQG5Q"
   },
   {
     "title": "TiK ToK",
@@ -1818,13 +1818,13 @@
     "link": "www.youtube.com/watch?v=HWyEEj2pSt0"
   },
   {
-    "title": "Umbrella ft. JAY-Z",
+    "title": "Umbrella",
     "artist": "Rihanna",
     "time": "4:14",
     "link": "www.youtube.com/watch?v=CvBfHwUxHIk"
   },
   {
-    "title": "As Long As You Love Me ft. Big Sean",
+    "title": "As Long As You Love Me",
     "artist": "Justin Bieber",
     "time": "5:52",
     "link": "www.youtube.com/watch?v=R4em3LKQCAQ"
@@ -1836,22 +1836,16 @@
     "link": "www.youtube.com/watch?v=JwQZQygg3Lk"
   },
   {
-    "title": "All I Want For Christmas Is You",
-    "artist": "Mariah Carey",
-    "time": "3:55",
-    "link": "www.youtube.com/watch?v=yXQViqx6GMY"
-  },
-  {
     "title": "Paradise City",
     "artist": "Guns N' Roses",
     "time": "6:49",
     "link": "www.youtube.com/watch?v=Rbm6GXllBiw"
   },
   {
-    "title": "Good For You",
-    "artist": "Selena Gomez",
-    "time": "3:15",
-    "link": "www.youtube.com/watch?v=1TsVjvEkc4s"
+    "title": "All I Want For Christmas Is You",
+    "artist": "Mariah Carey",
+    "time": "3:55",
+    "link": "www.youtube.com/watch?v=yXQViqx6GMY"
   },
   {
     "title": "When We Were Young",
@@ -1860,7 +1854,19 @@
     "link": "www.youtube.com/watch?v=DDWKuo3gXMQ"
   },
   {
-    "title": "Algo Me Gusta De Ti ft. Chris Brown, T-Pain",
+    "title": "Black Magic",
+    "artist": "Little Mix",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=MkElfR_NPBI"
+  },
+  {
+    "title": "Good For You",
+    "artist": "Selena Gomez",
+    "time": "3:15",
+    "link": "www.youtube.com/watch?v=1TsVjvEkc4s"
+  },
+  {
+    "title": "Algo Me Gusta De Ti",
     "artist": "Wisin & Yandel",
     "time": "4:56",
     "link": "www.youtube.com/watch?v=3rgwIp6D3ow"
@@ -1876,12 +1882,6 @@
     "artist": "Rihanna",
     "time": "4:29",
     "link": "www.youtube.com/watch?v=HBxt_v0WF6Y"
-  },
-  {
-    "title": "Black Magic",
-    "artist": "Little Mix",
-    "time": "3:46",
-    "link": "www.youtube.com/watch?v=MkElfR_NPBI"
   },
   {
     "title": "Hey Brother",
@@ -1908,10 +1908,16 @@
     "link": "www.youtube.com/watch?v=RubBzkZzpUA"
   },
   {
-    "title": "Somebody To Love Remix ft. Usher",
+    "title": "Somebody To Love Remix",
     "artist": "Justin Bieber",
     "time": "3:39",
     "link": "www.youtube.com/watch?v=SOI4OF7iIr4"
+  },
+  {
+    "title": "rockstar",
+    "artist": "Post Malone",
+    "time": "4:02",
+    "link": "www.youtube.com/watch?v=UceaB4D0jpo"
   },
   {
     "title": "Bitter Sweet Symphony",
@@ -1926,10 +1932,10 @@
     "link": "www.youtube.com/watch?v=-2U0Ivkn2Ds"
   },
   {
-    "title": "rockstar ft. 21 Savage",
-    "artist": "Post Malone",
-    "time": "4:02",
-    "link": "www.youtube.com/watch?v=UceaB4D0jpo"
+    "title": "Like a Stone",
+    "artist": "Audioslave",
+    "time": "5:00",
+    "link": "www.youtube.com/watch?v=7QU1nvuxaMA"
   },
   {
     "title": "FourFiveSeconds",
@@ -1950,10 +1956,10 @@
     "link": "www.youtube.com/watch?v=NmugSMBh_iI"
   },
   {
-    "title": "Like a Stone",
-    "artist": "Audioslave",
-    "time": "5:00",
-    "link": "www.youtube.com/watch?v=7QU1nvuxaMA"
+    "title": "Sign of the Times",
+    "artist": "Harry Styles",
+    "time": "5:42",
+    "link": "www.youtube.com/watch?v=qN4ooNx77u0"
   },
   {
     "title": "The Nights",
@@ -1968,10 +1974,10 @@
     "link": "www.youtube.com/watch?v=jk4HYngf65w"
   },
   {
-    "title": "Sign of the Times",
-    "artist": "Harry Styles",
-    "time": "5:42",
-    "link": "www.youtube.com/watch?v=qN4ooNx77u0"
+    "title": "Back In Black",
+    "artist": "AC/DC",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=pAgnJDJN4VA"
   },
   {
     "title": "Never Forget You",
@@ -1980,13 +1986,7 @@
     "link": "www.youtube.com/watch?v=GTyN-DB_v5M"
   },
   {
-    "title": "Back In Black",
-    "artist": "AC/DC",
-    "time": "4:15",
-    "link": "www.youtube.com/watch?v=pAgnJDJN4VA"
-  },
-  {
-    "title": "No Love ft. Lil Wayne",
+    "title": "No Love",
     "artist": "Eminem",
     "time": "5:15",
     "link": "www.youtube.com/watch?v=KV2ssT8lzj8"
@@ -2004,16 +2004,16 @@
     "link": "www.youtube.com/watch?v=lgT1AidzRWM"
   },
   {
-    "title": "La Tortura ft. Alejandro Sanz",
-    "artist": "Shakira",
-    "time": "3:45",
-    "link": "www.youtube.com/watch?v=Dsp_8Lm1eSk"
-  },
-  {
     "title": "Careless Whisper",
     "artist": "George Michael",
     "time": "5:02",
     "link": "www.youtube.com/watch?v=izGwDsrQ1eQ"
+  },
+  {
+    "title": "La Tortura",
+    "artist": "Shakira",
+    "time": "3:45",
+    "link": "www.youtube.com/watch?v=Dsp_8Lm1eSk"
   },
   {
     "title": "Malibu",
@@ -2064,16 +2064,16 @@
     "link": "www.youtube.com/watch?v=S9bCLPwzSC0"
   },
   {
-    "title": "Hookah ft. Young Thug",
-    "artist": "Tyga",
-    "time": "3:38",
-    "link": "www.youtube.com/watch?v=b-J95fYuVz4"
-  },
-  {
-    "title": "Get Lucky ft. Pharrell Williams, Nile Rodgers",
+    "title": "Get Lucky",
     "artist": "Daft Punk",
     "time": "4:09",
     "link": "www.youtube.com/watch?v=5NV6Rdv1a3I"
+  },
+  {
+    "title": "Hookah",
+    "artist": "Tyga",
+    "time": "3:38",
+    "link": "www.youtube.com/watch?v=b-J95fYuVz4"
   },
   {
     "title": "Born To Die",
@@ -2106,12 +2106,6 @@
     "link": "www.youtube.com/watch?v=MrTz5xjmso4"
   },
   {
-    "title": "Bonita",
-    "artist": "J. Balvin, Jowell & Randy",
-    "time": "4:36",
-    "link": "www.youtube.com/watch?v=SqpvOqRieYY"
-  },
-  {
     "title": "Fight Song",
     "artist": "Rachel Platten",
     "time": "3:26",
@@ -2124,7 +2118,13 @@
     "link": "www.youtube.com/watch?v=_ovdm2yX4MA"
   },
   {
-    "title": "Crazy In Love ft. JAY Z",
+    "title": "Bonita",
+    "artist": "J. Balvin, Jowell & Randy",
+    "time": "4:36",
+    "link": "www.youtube.com/watch?v=SqpvOqRieYY"
+  },
+  {
+    "title": "Crazy In Love",
     "artist": "Beyoncé",
     "time": "3:56",
     "link": "www.youtube.com/watch?v=ViwtNLUqkMY"
@@ -2136,34 +2136,34 @@
     "link": "www.youtube.com/watch?v=Ho32Oh6b4jc"
   },
   {
-    "title": "Right By My Side ft. Chris Brown",
-    "artist": "Nicki Minaj",
-    "time": "4:44",
-    "link": "www.youtube.com/watch?v=he3DJLXbebI"
-  },
-  {
-    "title": "All In My Head ft. Fetty Wap",
-    "artist": "Fifth Harmony",
-    "time": "3:32",
-    "link": "www.youtube.com/watch?v=jsbeemdD2rQ"
-  },
-  {
     "title": "Ocean Drive",
     "artist": "Duke Dumont",
     "time": "3:28",
     "link": "www.youtube.com/watch?v=KDxJlW6cxRk"
   },
   {
-    "title": "Just A Dream",
-    "artist": "Nelly",
-    "time": "4:03",
-    "link": "www.youtube.com/watch?v=N6O2ncUKvlg"
+    "title": "Right By My Side",
+    "artist": "Nicki Minaj",
+    "time": "4:44",
+    "link": "www.youtube.com/watch?v=he3DJLXbebI"
+  },
+  {
+    "title": "All In My Head",
+    "artist": "Fifth Harmony",
+    "time": "3:32",
+    "link": "www.youtube.com/watch?v=jsbeemdD2rQ"
   },
   {
     "title": "With You",
     "artist": "Chris Brown",
     "time": "4:15",
     "link": "www.youtube.com/watch?v=nmjdaBaZe8Y"
+  },
+  {
+    "title": "Just A Dream",
+    "artist": "Nelly",
+    "time": "4:03",
+    "link": "www.youtube.com/watch?v=N6O2ncUKvlg"
   },
   {
     "title": "Te Dejo En Libertad",
@@ -2178,10 +2178,10 @@
     "link": "www.youtube.com/watch?v=8UFIYGkROII"
   },
   {
-    "title": "DUELE EL CORAZON ft. Wisin",
-    "artist": "Enrique Iglesias",
+    "title": "Deja vu",
+    "artist": "Prince Royce, Shakira",
     "time": "3:19",
-    "link": "www.youtube.com/watch?v=vSk_xOy6Bwc"
+    "link": "www.youtube.com/watch?v=XEvKn-QgAY0"
   },
   {
     "title": "Me, Myself & I",
@@ -2190,16 +2190,10 @@
     "link": "www.youtube.com/watch?v=bSfpSOBD30U"
   },
   {
-    "title": "Deja vu",
-    "artist": "Prince Royce, Shakira",
+    "title": "DUELE EL CORAZON",
+    "artist": "Enrique Iglesias",
     "time": "3:19",
-    "link": "www.youtube.com/watch?v=XEvKn-QgAY0"
-  },
-  {
-    "title": "Sorry Not Sorry",
-    "artist": "Demi Lovato",
-    "time": "3:51",
-    "link": "www.youtube.com/watch?v=-MsvER1dpjM"
+    "link": "www.youtube.com/watch?v=vSk_xOy6Bwc"
   },
   {
     "title": "Where Is The Love?",
@@ -2208,16 +2202,16 @@
     "link": "www.youtube.com/watch?v=WpYeekQkAdc"
   },
   {
+    "title": "Sorry Not Sorry",
+    "artist": "Demi Lovato",
+    "time": "3:51",
+    "link": "www.youtube.com/watch?v=-MsvER1dpjM"
+  },
+  {
     "title": "...Baby One More Time",
     "artist": "Britney Spears",
     "time": "3:57",
     "link": "www.youtube.com/watch?v=C-u5WLJ9Yk4"
-  },
-  {
-    "title": "Hall of Fame ft. will.i.am",
-    "artist": "The Script",
-    "time": "3:54",
-    "link": "www.youtube.com/watch?v=mk48xRzuNvA"
   },
   {
     "title": "No One",
@@ -2226,19 +2220,25 @@
     "link": "www.youtube.com/watch?v=rywUS-ohqeE"
   },
   {
+    "title": "Hall of Fame",
+    "artist": "The Script",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=mk48xRzuNvA"
+  },
+  {
     "title": "Right Now",
     "artist": "Akon",
     "time": "5:03",
     "link": "www.youtube.com/watch?v=vIaH35-MLsk"
   },
   {
-    "title": "Only ft. Drake, Lil Wayne, Chris Brown",
+    "title": "Only",
     "artist": "Nicki Minaj",
     "time": "5:58",
     "link": "www.youtube.com/watch?v=zXtsGAkyeIo"
   },
   {
-    "title": "Você Partiu Meu Coração ft. Anitta, Wesley Safadão",
+    "title": "Você Partiu Meu Coração",
     "artist": "Nego do Borel",
     "time": "3:37",
     "link": "www.youtube.com/watch?v=Xp-dKdSUuLk"
@@ -2250,28 +2250,28 @@
     "link": "www.youtube.com/watch?v=uSD4vsh1zDA"
   },
   {
+    "title": "Do It Again",
+    "artist": "Pia Mia",
+    "time": "3:34",
+    "link": "www.youtube.com/watch?v=cNw8A5pwbVI"
+  },
+  {
     "title": "Candy",
     "artist": "Plan B",
     "time": "3:35",
     "link": "www.youtube.com/watch?v=9FWgcBfs5A0"
   },
   {
-    "title": "Do It Again ft. Chris Brown, Tyga",
-    "artist": "Pia Mia",
-    "time": "3:34",
-    "link": "www.youtube.com/watch?v=cNw8A5pwbVI"
+    "title": "Un-Break My Heart",
+    "artist": "Toni Braxton",
+    "time": "4:33",
+    "link": "www.youtube.com/watch?v=p2Rch6WvPJE"
   },
   {
     "title": "When You're Gone",
     "artist": "Avril Lavigne",
     "time": "4:00",
     "link": "www.youtube.com/watch?v=0G3_kG5FFfQ"
-  },
-  {
-    "title": "Un-Break My Heart",
-    "artist": "Toni Braxton",
-    "time": "4:33",
-    "link": "www.youtube.com/watch?v=p2Rch6WvPJE"
   },
   {
     "title": "Same Old Love",
@@ -2292,7 +2292,7 @@
     "link": "www.youtube.com/watch?v=6JnGBs88sL0"
   },
   {
-    "title": "Lifestyle ft. Young Thug, Rich Homie Quan",
+    "title": "Lifestyle",
     "artist": "Rich Gang",
     "time": "4:24",
     "link": "www.youtube.com/watch?v=nGt_JGHYEO4"
@@ -2304,16 +2304,10 @@
     "link": "www.youtube.com/watch?v=rp4UwPZfRis"
   },
   {
-    "title": "Passion Whine ft. Sean Paul",
+    "title": "Passion Whine",
     "artist": "Farruko",
     "time": "3:43",
     "link": "www.youtube.com/watch?v=MNmc_XJp5rI"
-  },
-  {
-    "title": "Papi",
-    "artist": "Jennifer Lopez",
-    "time": "5:26",
-    "link": "www.youtube.com/watch?v=6XbIuSLaCnk"
   },
   {
     "title": "Lay Me Down",
@@ -2322,7 +2316,13 @@
     "link": "www.youtube.com/watch?v=HaMq2nn5ac0"
   },
   {
-    "title": "The Way ft. Mac Miller",
+    "title": "Papi",
+    "artist": "Jennifer Lopez",
+    "time": "5:26",
+    "link": "www.youtube.com/watch?v=6XbIuSLaCnk"
+  },
+  {
+    "title": "The Way",
     "artist": "Ariana Grande",
     "time": "3:52",
     "link": "www.youtube.com/watch?v=_sV0S8qWSy0"
@@ -2352,7 +2352,7 @@
     "link": "www.youtube.com/watch?v=LXUSaVw3Mvk"
   },
   {
-    "title": "I Need A Doctor ft. Eminem, Skylar Grey",
+    "title": "I Need A Doctor",
     "artist": "Dr. Dre",
     "time": "7:37",
     "link": "www.youtube.com/watch?v=VA770wpLX-Q"
@@ -2364,16 +2364,16 @@
     "link": "www.youtube.com/watch?v=50-_oTkmF5I"
   },
   {
-    "title": "Sigo Extrañándote",
-    "artist": "J Balvin",
-    "time": "5:32",
-    "link": "www.youtube.com/watch?v=nZ0zbsZOdwg"
-  },
-  {
     "title": "Toxic",
     "artist": "Britney Spears",
     "time": "3:32",
     "link": "www.youtube.com/watch?v=LOZuxwVk7TU"
+  },
+  {
+    "title": "Sigo Extrañándote",
+    "artist": "J Balvin",
+    "time": "5:32",
+    "link": "www.youtube.com/watch?v=nZ0zbsZOdwg"
   },
   {
     "title": "Often",
@@ -2394,22 +2394,16 @@
     "link": "www.youtube.com/watch?v=lexLAjh8fPA"
   },
   {
-    "title": "Hoy Tengo Ganas De Ti ft. Christina Aguilera",
-    "artist": "Alejandro Fernández",
-    "time": "4:57",
-    "link": "www.youtube.com/watch?v=Z81hsLIY1sQ"
-  },
-  {
-    "title": "The Next Episode ft. Snoop Dogg, Kurupt, Nate Dogg",
+    "title": "The Next Episode",
     "artist": "Dr. Dre",
     "time": "3:20",
     "link": "www.youtube.com/watch?v=QZXc39hT8t4"
   },
   {
-    "title": "Starships",
-    "artist": "Nicki Minaj",
-    "time": "4:22",
-    "link": "www.youtube.com/watch?v=SeIJmciN8mo"
+    "title": "Hoy Tengo Ganas De Ti",
+    "artist": "Alejandro Fernández",
+    "time": "4:57",
+    "link": "www.youtube.com/watch?v=Z81hsLIY1sQ"
   },
   {
     "title": "Yo Te Esperaré",
@@ -2418,22 +2412,28 @@
     "link": "www.youtube.com/watch?v=_KSyWS8UgA4"
   },
   {
+    "title": "Starships",
+    "artist": "Nicki Minaj",
+    "time": "4:22",
+    "link": "www.youtube.com/watch?v=SeIJmciN8mo"
+  },
+  {
     "title": "Give Your Heart a Break",
     "artist": "Demi Lovato",
     "time": "3:36",
     "link": "www.youtube.com/watch?v=1zfzka5VwRc"
   },
   {
-    "title": "Wish You Were Here",
-    "artist": "Avril Lavigne",
-    "time": "3:47",
-    "link": "www.youtube.com/watch?v=VT1-sitWRtY"
-  },
-  {
     "title": "The Pretender",
     "artist": "Foo Fighters",
     "time": "4:31",
     "link": "www.youtube.com/watch?v=SBjQ9tuuTJQ"
+  },
+  {
+    "title": "The Climb",
+    "artist": "Miley Cyrus",
+    "time": "3:49",
+    "link": "www.youtube.com/watch?v=NG2zyeVRcbs"
   },
   {
     "title": "Skyfall",
@@ -2448,22 +2448,22 @@
     "link": "www.youtube.com/watch?v=k2C5TjS2sh4"
   },
   {
-    "title": "The Climb - Official Music Video",
-    "artist": "Miley Cyrus",
-    "time": "3:49",
-    "link": "www.youtube.com/watch?v=NG2zyeVRcbs"
-  },
-  {
-    "title": "Mistletoe",
-    "artist": "Justin Bieber",
-    "time": "3:11",
-    "link": "www.youtube.com/watch?v=LUjn3RpkcKY"
+    "title": "Wish You Were Here",
+    "artist": "Avril Lavigne",
+    "time": "3:47",
+    "link": "www.youtube.com/watch?v=VT1-sitWRtY"
   },
   {
     "title": "Cake By The Ocean",
     "artist": "DNCE",
     "time": "4:18",
     "link": "www.youtube.com/watch?v=vWaRiD5ym74"
+  },
+  {
+    "title": "Mistletoe",
+    "artist": "Justin Bieber",
+    "time": "3:11",
+    "link": "www.youtube.com/watch?v=LUjn3RpkcKY"
   },
   {
     "title": "Beautiful Liar",
@@ -2484,6 +2484,12 @@
     "link": "www.youtube.com/watch?v=31crA53Dgu0"
   },
   {
+    "title": "Buttons",
+    "artist": "The Pussycat Dolls",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=VCLxJd1d84s"
+  },
+  {
     "title": "History",
     "artist": "One Direction",
     "time": "3:16",
@@ -2494,12 +2500,6 @@
     "artist": "Lady Gaga",
     "time": "3:35",
     "link": "www.youtube.com/watch?v=pco91kroVgQ"
-  },
-  {
-    "title": "Buttons ft. Snoop Dogg",
-    "artist": "The Pussycat Dolls",
-    "time": "3:58",
-    "link": "www.youtube.com/watch?v=VCLxJd1d84s"
   },
   {
     "title": "We Belong Together",
@@ -2514,7 +2514,7 @@
     "link": "www.youtube.com/watch?v=il9nqWw9W3Y"
   },
   {
-    "title": "Te Fuiste ft. Ozuna",
+    "title": "Te Fuiste",
     "artist": "Pusho",
     "time": "4:29",
     "link": "www.youtube.com/watch?v=aZOGcaU7q1A"
@@ -2526,34 +2526,34 @@
     "link": "www.youtube.com/watch?v=4m48GqaOz90"
   },
   {
-    "title": "Waves",
-    "artist": "Mr. Probz",
-    "time": "3:51",
-    "link": "www.youtube.com/watch?v=pUjE9H8QlA4"
-  },
-  {
-    "title": "Runnin' ft. Beyoncé, Arrow Benjamin",
-    "artist": "Naughty Boy",
-    "time": "3:44",
-    "link": "www.youtube.com/watch?v=eJSik6ejkr0"
-  },
-  {
-    "title": "What The Hell",
-    "artist": "Avril Lavigne",
-    "time": "3:46",
-    "link": "www.youtube.com/watch?v=tQmEd_UeeIk"
-  },
-  {
     "title": "Stay",
     "artist": "Zedd, Alessia Cara",
     "time": "3:33",
     "link": "www.youtube.com/watch?v=h--P8HzYZ74"
   },
   {
+    "title": "Runnin'",
+    "artist": "Naughty Boy",
+    "time": "3:44",
+    "link": "www.youtube.com/watch?v=eJSik6ejkr0"
+  },
+  {
+    "title": "Waves",
+    "artist": "Mr. Probz",
+    "time": "3:51",
+    "link": "www.youtube.com/watch?v=pUjE9H8QlA4"
+  },
+  {
     "title": "Highway to Hell",
     "artist": "AC/DC",
     "time": "4:45",
     "link": "www.youtube.com/watch?v=gEPmA3USJdI"
+  },
+  {
+    "title": "What The Hell",
+    "artist": "Avril Lavigne",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=tQmEd_UeeIk"
   },
   {
     "title": "Naturally",
@@ -2574,19 +2574,19 @@
     "link": "www.youtube.com/watch?v=2Y6Nne8RvaA"
   },
   {
-    "title": "Best Thing I Never Had",
-    "artist": "Beyoncé",
-    "time": "4:15",
-    "link": "www.youtube.com/watch?v=FHp2KgyQUFk"
-  },
-  {
     "title": "Good Time",
     "artist": "Owl City & Carly Rae Jepsen",
     "time": "3:28",
     "link": "www.youtube.com/watch?v=H7HmzwI67ec"
   },
   {
-    "title": "No Me Digas Que No ft. Wisin, Yandel",
+    "title": "Best Thing I Never Had",
+    "artist": "Beyoncé",
+    "time": "4:15",
+    "link": "www.youtube.com/watch?v=FHp2KgyQUFk"
+  },
+  {
+    "title": "No Me Digas Que No",
     "artist": "Enrique Iglesias",
     "time": "4:28",
     "link": "www.youtube.com/watch?v=zyqt2avPkoA"
@@ -2616,28 +2616,22 @@
     "link": "www.youtube.com/watch?v=koJlIGDImiU"
   },
   {
-    "title": "I Don't Fuck With You ft. E-40",
-    "artist": "Big Sean",
-    "time": "5:48",
-    "link": "www.youtube.com/watch?v=cZaJYDPY-YQ"
-  },
-  {
-    "title": "La Temperatura ft. Eli Palacios",
-    "artist": "Maluma",
-    "time": "3:58",
-    "link": "www.youtube.com/watch?v=Tgt6iaSYMEM"
-  },
-  {
     "title": "Wherever You Will Go",
     "artist": "The Calling",
     "time": "3:27",
     "link": "www.youtube.com/watch?v=iAP9AF6DCu4"
   },
   {
-    "title": "Irreplaceable",
-    "artist": "Beyoncé",
-    "time": "4:13",
-    "link": "www.youtube.com/watch?v=2EwViQxSJJQ"
+    "title": "I Don't Fuck With You",
+    "artist": "Big Sean",
+    "time": "5:48",
+    "link": "www.youtube.com/watch?v=cZaJYDPY-YQ"
+  },
+  {
+    "title": "La Temperatura",
+    "artist": "Maluma",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=Tgt6iaSYMEM"
   },
   {
     "title": "Fanatica Sensual Lyric Video",
@@ -2646,13 +2640,19 @@
     "link": "www.youtube.com/watch?v=l9sqdaEpSPM"
   },
   {
+    "title": "Irreplaceable",
+    "artist": "Beyoncé",
+    "time": "4:13",
+    "link": "www.youtube.com/watch?v=2EwViQxSJJQ"
+  },
+  {
     "title": "Slow Down",
     "artist": "Selena Gomez",
     "time": "3:31",
     "link": "www.youtube.com/watch?v=Z8eXaXoUJRQ"
   },
   {
-    "title": "Rehab ft. Justin Timberlake",
+    "title": "Rehab",
     "artist": "Rihanna",
     "time": "4:39",
     "link": "www.youtube.com/watch?v=rJYcmq__nDM"
@@ -2670,22 +2670,16 @@
     "link": "www.youtube.com/watch?v=xGPeNN9S0Fg"
   },
   {
-    "title": "Love Me",
-    "artist": "Justin Bieber",
-    "time": "3:14",
-    "link": "www.youtube.com/watch?v=qdDVtFvJwUc"
-  },
-  {
     "title": "Eenie Meenie",
     "artist": "Sean Kingston, Justin Bieber",
     "time": "3:25",
     "link": "www.youtube.com/watch?v=prmmCg5bKxA"
   },
   {
-    "title": "Telephone ft. Beyoncé",
-    "artist": "Lady Gaga",
-    "time": "9:31",
-    "link": "www.youtube.com/watch?v=EVBsypHzF3U"
+    "title": "Love Me",
+    "artist": "Justin Bieber",
+    "time": "3:14",
+    "link": "www.youtube.com/watch?v=qdDVtFvJwUc"
   },
   {
     "title": "Equivocada )",
@@ -2694,13 +2688,19 @@
     "link": "www.youtube.com/watch?v=QPeNUfc8hGk"
   },
   {
-    "title": "Back to You ft. Bebe Rexha, Digital Farm Animals",
+    "title": "Telephone",
+    "artist": "Lady Gaga",
+    "time": "9:31",
+    "link": "www.youtube.com/watch?v=EVBsypHzF3U"
+  },
+  {
+    "title": "Back to You",
     "artist": "Louis Tomlinson",
     "time": "3:19",
     "link": "www.youtube.com/watch?v=-HjpL-Ns6_A"
   },
   {
-    "title": "You Don't Know ft. 50 Cent, Cashis, Lloyd Banks",
+    "title": "You Don't Know",
     "artist": "Eminem",
     "time": "4:25",
     "link": "www.youtube.com/watch?v=ngH0fkiNo-g"
@@ -2718,6 +2718,12 @@
     "link": "www.youtube.com/watch?v=BPgEgaPk62M"
   },
   {
+    "title": "Lollipop",
+    "artist": "Lil Wayne",
+    "time": "5:01",
+    "link": "www.youtube.com/watch?v=2IH8tNQAzSs"
+  },
+  {
     "title": "Bailame",
     "artist": "Nacho",
     "time": "4:01",
@@ -2730,28 +2736,22 @@
     "link": "www.youtube.com/watch?v=UpsKGvPjAgw"
   },
   {
-    "title": "Lollipop ft. Static",
-    "artist": "Lil Wayne",
-    "time": "5:01",
-    "link": "www.youtube.com/watch?v=2IH8tNQAzSs"
-  },
-  {
     "title": "Shut Up and Dance",
     "artist": "WALK THE MOON",
     "time": "4:07",
     "link": "www.youtube.com/watch?v=6JCLY0Rlx6Q"
   },
   {
-    "title": "Wake Me Up",
-    "artist": "Avicii",
-    "time": "4:12",
-    "link": "www.youtube.com/watch?v=5y_KJAg8bHI"
-  },
-  {
     "title": "Pour It Up",
     "artist": "Rihanna",
     "time": "3:17",
     "link": "www.youtube.com/watch?v=ehcVomMexkY"
+  },
+  {
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "time": "4:12",
+    "link": "www.youtube.com/watch?v=5y_KJAg8bHI"
   },
   {
     "title": "Mi Razón De Ser",
@@ -2784,10 +2784,16 @@
     "link": "www.youtube.com/watch?v=pt8VYOfr8To"
   },
   {
-    "title": "1-800-273-8255 ft. Alessia Cara, Khalid",
+    "title": "1-800-273-8255",
     "artist": "Logic",
     "time": "7:00",
     "link": "www.youtube.com/watch?v=Kb24RrHIbFk"
+  },
+  {
+    "title": "Booty",
+    "artist": "Jennifer Lopez",
+    "time": "4:17",
+    "link": "www.youtube.com/watch?v=nxtIRArhVD4"
   },
   {
     "title": "Who Says",
@@ -2796,13 +2802,7 @@
     "link": "www.youtube.com/watch?v=BzE1mX4Px0I"
   },
   {
-    "title": "Booty ft. Iggy Azalea",
-    "artist": "Jennifer Lopez",
-    "time": "4:17",
-    "link": "www.youtube.com/watch?v=nxtIRArhVD4"
-  },
-  {
-    "title": "No Love ft. Nicki Minaj",
+    "title": "No Love",
     "artist": "August Alsina",
     "time": "4:48",
     "link": "www.youtube.com/watch?v=nxvm4P0jFKY"
@@ -2832,7 +2832,7 @@
     "link": "www.youtube.com/watch?v=psuRGfAaju4"
   },
   {
-    "title": "My Nigga ft. Jeezy, Rich Homie Quan",
+    "title": "My Nigga",
     "artist": "YG",
     "time": "3:56",
     "link": "www.youtube.com/watch?v=MSrTnWDTdwI"
@@ -2856,7 +2856,13 @@
     "link": "www.youtube.com/watch?v=FndmvPkI1Ms"
   },
   {
-    "title": "Bitch I'm Madonna ft. Nicki Minaj",
+    "title": "Dancing Queen",
+    "artist": "Abba",
+    "time": "3:52",
+    "link": "www.youtube.com/watch?v=xFrGuyw1V8s"
+  },
+  {
+    "title": "Bitch I'm Madonna",
     "artist": "Madonna",
     "time": "4:03",
     "link": "www.youtube.com/watch?v=7hPMmzKs62w"
@@ -2868,19 +2874,13 @@
     "link": "www.youtube.com/watch?v=TOrnUquxtwA"
   },
   {
-    "title": "This Is Love ft. Eva Simons",
+    "title": "This Is Love",
     "artist": "will.i.am",
     "time": "4:57",
     "link": "www.youtube.com/watch?v=9I9Ar6upx34"
   },
   {
-    "title": "Dancing Queen",
-    "artist": "Abba",
-    "time": "3:52",
-    "link": "www.youtube.com/watch?v=xFrGuyw1V8s"
-  },
-  {
-    "title": "Everything Has Changed ft. Ed Sheeran",
+    "title": "Everything Has Changed",
     "artist": "Taylor Swift",
     "time": "4:12",
     "link": "www.youtube.com/watch?v=w1oM3kQpXRo"
@@ -2890,24 +2890,6 @@
     "artist": "Selena Gomez",
     "time": "3:48",
     "link": "www.youtube.com/watch?v=FMlcn-_jpWY"
-  },
-  {
-    "title": "Bugatti ft. Future, Rick Ross",
-    "artist": "Ace Hood",
-    "time": "5:05",
-    "link": "www.youtube.com/watch?v=djE-BLrdDDc"
-  },
-  {
-    "title": "Back It Up ft. Jennifer Lopez, Pitbull",
-    "artist": "Prince Royce",
-    "time": "3:48",
-    "link": "www.youtube.com/watch?v=9w9dXWU5nMI"
-  },
-  {
-    "title": "Mine",
-    "artist": "Taylor Swift",
-    "time": "3:56",
-    "link": "www.youtube.com/watch?v=XPBwXKgDTdE"
   },
   {
     "title": "Don't",
@@ -2922,22 +2904,40 @@
     "link": "www.youtube.com/watch?v=oh2LWWORoiM"
   },
   {
+    "title": "Bugatti",
+    "artist": "Ace Hood",
+    "time": "5:05",
+    "link": "www.youtube.com/watch?v=djE-BLrdDDc"
+  },
+  {
+    "title": "Back It Up",
+    "artist": "Prince Royce",
+    "time": "3:48",
+    "link": "www.youtube.com/watch?v=9w9dXWU5nMI"
+  },
+  {
+    "title": "Mine",
+    "artist": "Taylor Swift",
+    "time": "3:56",
+    "link": "www.youtube.com/watch?v=XPBwXKgDTdE"
+  },
+  {
     "title": "Sex on Fire",
     "artist": "Kings Of Leon",
     "time": "3:28",
     "link": "www.youtube.com/watch?v=RF0HhrwIwp0"
   },
   {
-    "title": "Take Care ft. Rihanna",
-    "artist": "Drake",
-    "time": "4:09",
-    "link": "www.youtube.com/watch?v=-zzP29emgpg"
-  },
-  {
     "title": "The Way You Make Me Feel",
     "artist": "Michael Jackson",
     "time": "6:44",
     "link": "www.youtube.com/watch?v=HzZ_urpj4As"
+  },
+  {
+    "title": "Take Care",
+    "artist": "Drake",
+    "time": "4:09",
+    "link": "www.youtube.com/watch?v=-zzP29emgpg"
   },
   {
     "title": "Sorry",
@@ -2958,7 +2958,7 @@
     "link": "www.youtube.com/watch?v=3ExWsVFJlFo"
   },
   {
-    "title": "I'm Into You ft. Lil Wayne",
+    "title": "I'm Into You",
     "artist": "Jennifer Lopez",
     "time": "4:20",
     "link": "www.youtube.com/watch?v=IgLcQmlN2Xg"
@@ -2976,28 +2976,22 @@
     "link": "www.youtube.com/watch?v=DksSPZTZES0"
   },
   {
-    "title": "Birthday",
-    "artist": "Katy Perry",
-    "time": "3:36",
-    "link": "www.youtube.com/watch?v=jqYxyd1iSNk"
-  },
-  {
-    "title": "Sunset ft. Shaggy, Nicky Jam",
-    "artist": "Farruko",
-    "time": "5:16",
-    "link": "www.youtube.com/watch?v=ZBMsSPR9QMg"
-  },
-  {
     "title": "Because Of You",
     "artist": "Kelly Clarkson",
     "time": "3:43",
     "link": "www.youtube.com/watch?v=Ra-Om7UMSJc"
   },
   {
-    "title": "Hey DJ",
-    "artist": "CNCO, Yandel",
-    "time": "4:14",
-    "link": "www.youtube.com/watch?v=X6wQOW9ihDA"
+    "title": "Birthday",
+    "artist": "Katy Perry",
+    "time": "3:36",
+    "link": "www.youtube.com/watch?v=jqYxyd1iSNk"
+  },
+  {
+    "title": "Sunset",
+    "artist": "Farruko",
+    "time": "5:16",
+    "link": "www.youtube.com/watch?v=ZBMsSPR9QMg"
   },
   {
     "title": "Amor del Bueno",
@@ -3006,10 +3000,22 @@
     "link": "www.youtube.com/watch?v=FUinZg5MC5U"
   },
   {
+    "title": "Hey DJ",
+    "artist": "CNCO, Yandel",
+    "time": "4:14",
+    "link": "www.youtube.com/watch?v=X6wQOW9ihDA"
+  },
+  {
     "title": "My Way",
     "artist": "Calvin Harris",
     "time": "4:05",
     "link": "www.youtube.com/watch?v=b4Bj7Zb-YD4"
+  },
+  {
+    "title": "What Lovers Do",
+    "artist": "Maroon 5",
+    "time": "3:34",
+    "link": "www.youtube.com/watch?v=5Wiio4KoGe8"
   },
   {
     "title": "7 Things",
@@ -3018,7 +3024,7 @@
     "link": "www.youtube.com/watch?v=Hr0Wv5DJhuk"
   },
   {
-    "title": "Hate That I Love You ft. Ne-Yo",
+    "title": "Hate That I Love You",
     "artist": "Rihanna",
     "time": "4:58",
     "link": "www.youtube.com/watch?v=KMOOr7GEkj8"
@@ -3030,16 +3036,10 @@
     "link": "www.youtube.com/watch?v=syFZfO_wfMQ"
   },
   {
-    "title": "Where Ya At ft. Drake",
+    "title": "Where Ya At",
     "artist": "Future",
     "time": "3:30",
     "link": "www.youtube.com/watch?v=lw3Or6eqIpI"
-  },
-  {
-    "title": "California King Bed",
-    "artist": "Rihanna",
-    "time": "4:44",
-    "link": "www.youtube.com/watch?v=nhBorPm6JjQ"
   },
   {
     "title": "Touch",
@@ -3048,10 +3048,10 @@
     "link": "www.youtube.com/watch?v=gBAfejjUQoA"
   },
   {
-    "title": "What Lovers Do ft. SZA",
-    "artist": "Maroon 5",
-    "time": "3:34",
-    "link": "www.youtube.com/watch?v=5Wiio4KoGe8"
+    "title": "California King Bed",
+    "artist": "Rihanna",
+    "time": "4:44",
+    "link": "www.youtube.com/watch?v=nhBorPm6JjQ"
   },
   {
     "title": "Don't Matter",
@@ -3066,16 +3066,10 @@
     "link": "www.youtube.com/watch?v=whBcmlaSLJM"
   },
   {
-    "title": "Down On Me ft. 50 Cent",
+    "title": "Down On Me",
     "artist": "Jeremih",
     "time": "3:52",
     "link": "www.youtube.com/watch?v=AaXaig_43lU"
-  },
-  {
-    "title": "She Wolf",
-    "artist": "Shakira",
-    "time": "3:49",
-    "link": "www.youtube.com/watch?v=booKP974B0k"
   },
   {
     "title": "Lady Marmalade",
@@ -3084,7 +3078,13 @@
     "link": "www.youtube.com/watch?v=RQa7SvVCdZk"
   },
   {
-    "title": "Confident ft. Chance The Rapper",
+    "title": "She Wolf",
+    "artist": "Shakira",
+    "time": "3:49",
+    "link": "www.youtube.com/watch?v=booKP974B0k"
+  },
+  {
+    "title": "Confident",
     "artist": "Justin Bieber",
     "time": "6:06",
     "link": "www.youtube.com/watch?v=47YClVMlthI"
@@ -3108,22 +3108,10 @@
     "link": "www.youtube.com/watch?v=xat1GVnl8-k"
   },
   {
-    "title": "#thatPOWER ft. Justin Bieber",
+    "title": "#thatPOWER",
     "artist": "will.i.am",
     "time": "4:53",
     "link": "www.youtube.com/watch?v=DGIgXP9SvB8"
-  },
-  {
-    "title": "Sweet Nothing ft. Florence Welch",
-    "artist": "Calvin Harris",
-    "time": "4:29",
-    "link": "www.youtube.com/watch?v=17ozSeGw-fY"
-  },
-  {
-    "title": "Big Girls Cry",
-    "artist": "Sia",
-    "time": "3:37",
-    "link": "www.youtube.com/watch?v=4NhKWZpkw1Q"
   },
   {
     "title": "Little Talks",
@@ -3132,28 +3120,40 @@
     "link": "www.youtube.com/watch?v=ghb6eDopW8I"
   },
   {
+    "title": "Big Girls Cry",
+    "artist": "Sia",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=4NhKWZpkw1Q"
+  },
+  {
+    "title": "Sweet Nothing",
+    "artist": "Calvin Harris",
+    "time": "4:29",
+    "link": "www.youtube.com/watch?v=17ozSeGw-fY"
+  },
+  {
     "title": "Sorry, Blame It On Me",
     "artist": "Akon",
     "time": "5:20",
     "link": "www.youtube.com/watch?v=ynMk2EwRi4Q"
   },
   {
-    "title": "Lolly ft. Juicy J, Justin Bieber",
+    "title": "Lolly",
     "artist": "Maejor Ali",
     "time": "3:44",
     "link": "www.youtube.com/watch?v=BiOmXeKyrxo"
   },
   {
-    "title": "Feelin' Myself ft. Miley Cyrus, Wiz Khalifa, French Montana",
-    "artist": "will.i.am",
-    "time": "4:11",
-    "link": "www.youtube.com/watch?v=VRuoR--LdqQ"
-  },
-  {
-    "title": "21 Questions ft. Nate Dogg",
+    "title": "21 Questions",
     "artist": "50 Cent",
     "time": "4:20",
     "link": "www.youtube.com/watch?v=cDMhlvbOFaM"
+  },
+  {
+    "title": "Feelin' Myself",
+    "artist": "will.i.am",
+    "time": "4:11",
+    "link": "www.youtube.com/watch?v=VRuoR--LdqQ"
   },
   {
     "title": "Girl On Fire",
@@ -3162,34 +3162,16 @@
     "link": "www.youtube.com/watch?v=J91ti_MpdHA"
   },
   {
-    "title": "I Could Be The One",
-    "artist": "Avicii vs Nicky Romero",
-    "time": "4:46",
-    "link": "www.youtube.com/watch?v=bek1y2uiQGA"
-  },
-  {
-    "title": "La Diabla/Mi Santa ft. Tomatito",
+    "title": "La Diabla/Mi Santa",
     "artist": "Romeo Santos",
     "time": "5:52",
     "link": "www.youtube.com/watch?v=Hz9lhqxl_gQ"
   },
   {
-    "title": "Need You Now",
-    "artist": "Lady Antebellum",
-    "time": "4:30",
-    "link": "www.youtube.com/watch?v=eM213aMKTHg"
-  },
-  {
-    "title": "Ice Ice Baby",
-    "artist": "Vanilla Ice",
-    "time": "4:01",
-    "link": "www.youtube.com/watch?v=rog8ou-ZepE"
-  },
-  {
-    "title": "Drop The World ft. Eminem",
-    "artist": "Lil Wayne",
-    "time": "4:26",
-    "link": "www.youtube.com/watch?v=ErCAOMi5EGM"
+    "title": "I Could Be The One",
+    "artist": "Avicii vs Nicky Romero",
+    "time": "4:46",
+    "link": "www.youtube.com/watch?v=bek1y2uiQGA"
   },
   {
     "title": "Valio La Pena",
@@ -3198,10 +3180,22 @@
     "link": "www.youtube.com/watch?v=Ns9YYSqLxyI"
   },
   {
-    "title": "Turn Up the Music",
-    "artist": "Chris Brown",
-    "time": "4:18",
-    "link": "www.youtube.com/watch?v=eQWG8BVeryU"
+    "title": "Ice Ice Baby",
+    "artist": "Vanilla Ice",
+    "time": "4:01",
+    "link": "www.youtube.com/watch?v=rog8ou-ZepE"
+  },
+  {
+    "title": "Need You Now",
+    "artist": "Lady Antebellum",
+    "time": "4:30",
+    "link": "www.youtube.com/watch?v=eM213aMKTHg"
+  },
+  {
+    "title": "Drop The World",
+    "artist": "Lil Wayne",
+    "time": "4:26",
+    "link": "www.youtube.com/watch?v=ErCAOMi5EGM"
   },
   {
     "title": "Est-ce que tu m'aimes ?",
@@ -3210,22 +3204,16 @@
     "link": "www.youtube.com/watch?v=6TpyRE_juyA"
   },
   {
+    "title": "Turn Up the Music",
+    "artist": "Chris Brown",
+    "time": "4:18",
+    "link": "www.youtube.com/watch?v=eQWG8BVeryU"
+  },
+  {
     "title": "Zumba Campaign Video",
     "artist": "Don Omar",
     "time": "3:55",
     "link": "www.youtube.com/watch?v=8HpG0l9cLos"
-  },
-  {
-    "title": "On My Mind",
-    "artist": "Ellie Goulding",
-    "time": "4:05",
-    "link": "www.youtube.com/watch?v=H202k7KfZL0"
-  },
-  {
-    "title": "Just Dance ft. Colby O'Donis",
-    "artist": "Lady Gaga",
-    "time": "4:07",
-    "link": "www.youtube.com/watch?v=2Abk1jAONjw"
   },
   {
     "title": "Bad",
@@ -3234,13 +3222,25 @@
     "link": "www.youtube.com/watch?v=dsUXAEzaC3Q"
   },
   {
+    "title": "Just Dance",
+    "artist": "Lady Gaga",
+    "time": "4:07",
+    "link": "www.youtube.com/watch?v=2Abk1jAONjw"
+  },
+  {
+    "title": "On My Mind",
+    "artist": "Ellie Goulding",
+    "time": "4:05",
+    "link": "www.youtube.com/watch?v=H202k7KfZL0"
+  },
+  {
     "title": "Skyscraper",
     "artist": "Demi Lovato",
     "time": "4:06",
     "link": "www.youtube.com/watch?v=r_8ydghbGSg"
   },
   {
-    "title": "Next To You ft. Justin Bieber",
+    "title": "Next To You",
     "artist": "Chris Brown",
     "time": "6:04",
     "link": "www.youtube.com/watch?v=EEuQU6a90Pc"
@@ -3258,16 +3258,16 @@
     "link": "www.youtube.com/watch?v=LPgvNlrBfb0"
   },
   {
-    "title": "Hey Baby ft. T-Pain",
-    "artist": "Pitbull",
-    "time": "3:25",
-    "link": "www.youtube.com/watch?v=LefQdEMJP1I"
-  },
-  {
     "title": "Dámaso",
     "artist": "Gerardo Ortiz",
     "time": "3:21",
     "link": "www.youtube.com/watch?v=E0CcSVHQSDU"
+  },
+  {
+    "title": "Hey Baby",
+    "artist": "Pitbull",
+    "time": "3:25",
+    "link": "www.youtube.com/watch?v=LefQdEMJP1I"
   },
   {
     "title": "Yeah 3x",
@@ -3294,16 +3294,22 @@
     "link": "www.youtube.com/watch?v=cwLRQn61oUY"
   },
   {
-    "title": "Goin' In ft. Flo Rida",
+    "title": "Love Me",
+    "artist": "Lil Wayne",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=KY44zvhWhp4"
+  },
+  {
+    "title": "Goin' In",
     "artist": "Jennifer Lopez",
     "time": "4:09",
     "link": "www.youtube.com/watch?v=z5W7DVFKrcs"
   },
   {
-    "title": "Love Me ft. Drake, Future",
-    "artist": "Lil Wayne",
-    "time": "4:25",
-    "link": "www.youtube.com/watch?v=KY44zvhWhp4"
+    "title": "Dirty Money - Coming Home",
+    "artist": "Diddy",
+    "time": "4:11",
+    "link": "www.youtube.com/watch?v=k-ImCpNqbJw"
   },
   {
     "title": "La Curiosidad",
@@ -3312,22 +3318,10 @@
     "link": "www.youtube.com/watch?v=9t7eMteW-Tc"
   },
   {
-    "title": "Dirty Money - Coming Home ft. Skylar Grey",
-    "artist": "Diddy",
-    "time": "4:11",
-    "link": "www.youtube.com/watch?v=k-ImCpNqbJw"
-  },
-  {
-    "title": "La Gloria de Dios ft. Evaluna Montaner",
+    "title": "La Gloria de Dios",
     "artist": "Ricardo Montaner",
     "time": "6:09",
     "link": "www.youtube.com/watch?v=LRsgqFu5c1o"
-  },
-  {
-    "title": "Russian Roulette",
-    "artist": "Rihanna",
-    "time": "4:24",
-    "link": "www.youtube.com/watch?v=ZQ2nCGawrSY"
   },
   {
     "title": "Bad Things",
@@ -3336,10 +3330,16 @@
     "link": "www.youtube.com/watch?v=QpbQ4I3Eidg"
   },
   {
-    "title": "Kiss Kiss ft. T-Pain",
+    "title": "Kiss Kiss",
     "artist": "Chris Brown",
     "time": "4:17",
     "link": "www.youtube.com/watch?v=eNII9PDlFJ0"
+  },
+  {
+    "title": "Russian Roulette",
+    "artist": "Rihanna",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=ZQ2nCGawrSY"
   },
   {
     "title": "Born This Way",
@@ -3348,7 +3348,7 @@
     "link": "www.youtube.com/watch?v=wV1FrqwZyKw"
   },
   {
-    "title": "Rabiosa ft. Pitbull",
+    "title": "Rabiosa",
     "artist": "Shakira",
     "time": "2:51",
     "link": "www.youtube.com/watch?v=a5irTX82olg"
@@ -3360,7 +3360,7 @@
     "link": "www.youtube.com/watch?v=Qc9c12q3mrc"
   },
   {
-    "title": "Shots ft. Lil Jon",
+    "title": "Shots",
     "artist": "LMFAO",
     "time": "4:14",
     "link": "www.youtube.com/watch?v=XNtTEibFvlQ"
@@ -3372,7 +3372,7 @@
     "link": "www.youtube.com/watch?v=RQ9_TKayu9s"
   },
   {
-    "title": "DJ Got Us Fallin' In Love ft. Pitbull",
+    "title": "DJ Got Us Fallin' In Love",
     "artist": "Usher",
     "time": "4:07",
     "link": "www.youtube.com/watch?v=C-dvTjK_07c"
@@ -3384,13 +3384,13 @@
     "link": "www.youtube.com/watch?v=JRWox-i6aAk"
   },
   {
-    "title": "Champagne Showers ft. Natalia Kills",
+    "title": "Champagne Showers",
     "artist": "LMFAO",
     "time": "6:42",
     "link": "www.youtube.com/watch?v=UA8rcLvS1BY"
   },
   {
-    "title": "Promise ft. Usher",
+    "title": "Promise",
     "artist": "Romeo Santos",
     "time": "5:32",
     "link": "www.youtube.com/watch?v=Y3XyWhrZnqE"
@@ -3402,22 +3402,22 @@
     "link": "www.youtube.com/watch?v=M8uPvX2te0I"
   },
   {
-    "title": "Live It Up ft. Pitbull",
-    "artist": "Jennifer Lopez",
-    "time": "4:31",
-    "link": "www.youtube.com/watch?v=BofL1AaiTjo"
-  },
-  {
     "title": "Love Myself",
     "artist": "Hailee Steinfeld",
     "time": "4:01",
     "link": "www.youtube.com/watch?v=bMpFmHSgC4Q"
   },
   {
-    "title": "O Nosso Santo Bateu – Na Praia Ao Vivo",
-    "artist": "Matheus & Kauan",
-    "time": "2:38",
-    "link": "www.youtube.com/watch?v=kbCtpDwVCLQ"
+    "title": "Live It Up",
+    "artist": "Jennifer Lopez",
+    "time": "4:31",
+    "link": "www.youtube.com/watch?v=BofL1AaiTjo"
+  },
+  {
+    "title": "About The Money",
+    "artist": "T.I.",
+    "time": "4:31",
+    "link": "www.youtube.com/watch?v=etfIdtm-OC8"
   },
   {
     "title": "BO$$",
@@ -3426,10 +3426,10 @@
     "link": "www.youtube.com/watch?v=Y4JfPlry-iQ"
   },
   {
-    "title": "About The Money ft. Young Thug",
-    "artist": "T.I.",
-    "time": "4:31",
-    "link": "www.youtube.com/watch?v=etfIdtm-OC8"
+    "title": "O Nosso Santo Bateu – Na Praia Ao Vivo",
+    "artist": "Matheus & Kauan",
+    "time": "2:38",
+    "link": "www.youtube.com/watch?v=kbCtpDwVCLQ"
   },
   {
     "title": "Just Can't Get Enough",
@@ -3438,34 +3438,22 @@
     "link": "www.youtube.com/watch?v=OrTyD7rjBpw"
   },
   {
-    "title": "I Really Like You",
-    "artist": "Carly Rae Jepsen",
-    "time": "3:29",
-    "link": "www.youtube.com/watch?v=qV5lzRHrGeg"
-  },
-  {
-    "title": "Clarity ft. Foxes",
+    "title": "Clarity",
     "artist": "Zedd",
     "time": "4:36",
     "link": "www.youtube.com/watch?v=IxxstCcJlsc"
   },
   {
-    "title": "My Love ft. Jess Glynne",
+    "title": "My Love",
     "artist": "Route 94",
     "time": "3:11",
     "link": "www.youtube.com/watch?v=BS46C2z5lVE"
   },
   {
-    "title": "What Now",
-    "artist": "Rihanna",
-    "time": "4:09",
-    "link": "www.youtube.com/watch?v=b-3BI9AspYc"
-  },
-  {
-    "title": "Si No Te Quisiera ft. Belinda, Lapiz Conciente",
-    "artist": "Juan Magan",
-    "time": "4:24",
-    "link": "www.youtube.com/watch?v=XoNCV9BsU9c"
+    "title": "I Really Like You",
+    "artist": "Carly Rae Jepsen",
+    "time": "3:29",
+    "link": "www.youtube.com/watch?v=qV5lzRHrGeg"
   },
   {
     "title": "Uncover",
@@ -3474,13 +3462,25 @@
     "link": "www.youtube.com/watch?v=U-PXEe-qeK4"
   },
   {
+    "title": "What Now",
+    "artist": "Rihanna",
+    "time": "4:09",
+    "link": "www.youtube.com/watch?v=b-3BI9AspYc"
+  },
+  {
+    "title": "Si No Te Quisiera",
+    "artist": "Juan Magan",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=XoNCV9BsU9c"
+  },
+  {
     "title": "Bed Rock",
     "artist": "Young Money",
     "time": "4:52",
     "link": "www.youtube.com/watch?v=Ha80ZaecGkQ"
   },
   {
-    "title": "Blessings ft. Drake, Kanye West",
+    "title": "Blessings",
     "artist": "Big Sean",
     "time": "5:12",
     "link": "www.youtube.com/watch?v=M6t47RI4bns"
@@ -3498,7 +3498,7 @@
     "link": "www.youtube.com/watch?v=ab9176Srb5Y"
   },
   {
-    "title": "Show Me ft. Chris Brown",
+    "title": "Show Me",
     "artist": "Kid Ink",
     "time": "4:12",
     "link": "www.youtube.com/watch?v=xKkb13IU_DE"
@@ -3516,40 +3516,40 @@
     "link": "www.youtube.com/watch?v=vdrqA93sW-8"
   },
   {
-    "title": "Contigo",
-    "artist": "Calibre 50",
-    "time": "3:45",
-    "link": "www.youtube.com/watch?v=oeeNs3KInbc"
-  },
-  {
     "title": "Ni**as In Paris",
     "artist": "Jay-Z & Kanye West",
     "time": "4:12",
     "link": "www.youtube.com/watch?v=gG_dA32oH44"
   },
   {
-    "title": "Close ft. Tove Lo",
+    "title": "Contigo",
+    "artist": "Calibre 50",
+    "time": "3:45",
+    "link": "www.youtube.com/watch?v=oeeNs3KInbc"
+  },
+  {
+    "title": "Close",
     "artist": "Nick Jonas",
     "time": "3:58",
     "link": "www.youtube.com/watch?v=XgJFqVvb2Ws"
   },
   {
-    "title": "The Way I Are ft. Keri Hilson, D.O.E., Sebastian",
+    "title": "The Way I Are",
     "artist": "Timbaland",
     "time": "3:34",
     "link": "www.youtube.com/watch?v=U5rLz5AZBIA"
   },
   {
-    "title": "Suíte 14 ft. Mc Guimê",
-    "artist": "Henrique & Diego",
-    "time": "3:00",
-    "link": "www.youtube.com/watch?v=gmvFLIuVAbA"
-  },
-  {
-    "title": "Starving ft. Zedd",
+    "title": "Starving",
     "artist": "Hailee Steinfeld, Grey",
     "time": "3:05",
     "link": "www.youtube.com/watch?v=xwjwCFZpdns"
+  },
+  {
+    "title": "Suíte 14",
+    "artist": "Henrique & Diego",
+    "time": "3:00",
+    "link": "www.youtube.com/watch?v=gmvFLIuVAbA"
   },
   {
     "title": "Teenage Dream",
@@ -3564,7 +3564,7 @@
     "link": "www.youtube.com/watch?v=2up_Eq6r6Ko"
   },
   {
-    "title": "Down ft. Lil Wayne",
+    "title": "Down",
     "artist": "Jay Sean",
     "time": "3:44",
     "link": "www.youtube.com/watch?v=oUbpGmR1-QM"
@@ -3576,7 +3576,7 @@
     "link": "www.youtube.com/watch?v=nvfejaHz-o0"
   },
   {
-    "title": "Sabado Rebelde ft. Plan B",
+    "title": "Sabado Rebelde",
     "artist": "Daddy Yankee",
     "time": "4:04",
     "link": "www.youtube.com/watch?v=0nPkXDrL2ZU"
@@ -3612,7 +3612,7 @@
     "link": "www.youtube.com/watch?v=oG08ukJPtR8"
   },
   {
-    "title": "Ridin' ft. Krayzie Bone",
+    "title": "Ridin'",
     "artist": "Chamillionaire",
     "time": "4:04",
     "link": "www.youtube.com/watch?v=CtwJvgPJ9xw"
@@ -3630,19 +3630,19 @@
     "link": "www.youtube.com/watch?v=MntbN1DdEP0"
   },
   {
-    "title": "Moment 4 Life ft. Drake",
+    "title": "Moment 4 Life",
     "artist": "Nicki Minaj",
     "time": "6:11",
     "link": "www.youtube.com/watch?v=D7GW8TYCEG4"
   },
   {
-    "title": "Under Control ft. Hurts",
+    "title": "Under Control",
     "artist": "Calvin Harris & Alesso",
     "time": "3:31",
     "link": "www.youtube.com/watch?v=yZqmarGShxg"
   },
   {
-    "title": "Como Antes ft. Wisin",
+    "title": "Como Antes",
     "artist": "Yandel",
     "time": "3:36",
     "link": "www.youtube.com/watch?v=QeaumjX9DNY"
@@ -3654,7 +3654,7 @@
     "link": "www.youtube.com/watch?v=b3HeLs8Yosw"
   },
   {
-    "title": "Stan ft. Dido",
+    "title": "Stan",
     "artist": "Eminem",
     "time": "8:10",
     "link": "www.youtube.com/watch?v=gOMhN-hfMtY"
@@ -3666,7 +3666,7 @@
     "link": "www.youtube.com/watch?v=5sMKX22BHeE"
   },
   {
-    "title": "Alguien Robó ft. Wisin, Nacho",
+    "title": "Alguien Robó",
     "artist": "Sebastián Yatra",
     "time": "3:47",
     "link": "www.youtube.com/watch?v=EH0Wg8SaITQ"
@@ -3678,19 +3678,13 @@
     "link": "www.youtube.com/watch?v=5Nrv5teMc9Y"
   },
   {
-    "title": "Beneath Your Beautiful ft. Emeli Sandé",
+    "title": "Beneath Your Beautiful",
     "artist": "Labrinth",
     "time": "4:28",
     "link": "www.youtube.com/watch?v=bqIxCtEveG8"
   },
   {
-    "title": "Feel So Close",
-    "artist": "Calvin Harris",
-    "time": "4:07",
-    "link": "www.youtube.com/watch?v=dGghkjpNCQ8"
-  },
-  {
-    "title": "Apologize ft. OneRepublic",
+    "title": "Apologize",
     "artist": "Timbaland",
     "time": "3:09",
     "link": "www.youtube.com/watch?v=ZSM3w1v-A_Y"
@@ -3700,6 +3694,12 @@
     "artist": "Ne-Yo",
     "time": "4:37",
     "link": "www.youtube.com/watch?v=6tpl9LtkRRw"
+  },
+  {
+    "title": "Feel So Close",
+    "artist": "Calvin Harris",
+    "time": "4:07",
+    "link": "www.youtube.com/watch?v=dGghkjpNCQ8"
   },
   {
     "title": "De Que Me Sirve la Vida",
@@ -3714,7 +3714,7 @@
     "link": "www.youtube.com/watch?v=KrZHPOeOxQQ"
   },
   {
-    "title": "No Air ft. Chris Brown",
+    "title": "No Air",
     "artist": "Jordin Sparks, Chris Brown",
     "time": "4:48",
     "link": "www.youtube.com/watch?v=WBKnpyoFEBo"
@@ -3738,19 +3738,19 @@
     "link": "www.youtube.com/watch?v=pMIHC_cItd4"
   },
   {
-    "title": "Beautiful ft. Colby O'Donis, Kardinal Offishall",
+    "title": "Beautiful",
     "artist": "Akon",
     "time": "3:50",
     "link": "www.youtube.com/watch?v=rSOzN0eihsE"
   },
   {
-    "title": "Really Don't Care ft. Cher Lloyd",
+    "title": "Really Don't Care",
     "artist": "Demi Lovato",
     "time": "3:48",
     "link": "www.youtube.com/watch?v=OJGUbwVMBeA"
   },
   {
-    "title": "Rival ft. Mario Domm",
+    "title": "Rival",
     "artist": "Romeo Santos",
     "time": "4:38",
     "link": "www.youtube.com/watch?v=6vMhhBRj-2Q"
@@ -3774,10 +3774,16 @@
     "link": "www.youtube.com/watch?v=bTXJQ5ql5Fw"
   },
   {
-    "title": "Sweet Lovin' ft. Bryn Christopher",
+    "title": "Sweet Lovin'",
     "artist": "Sigala",
     "time": "3:35",
     "link": "www.youtube.com/watch?v=qj5zT4t7S6c"
+  },
+  {
+    "title": "I Hate Everything About You",
+    "artist": "Three Days Grace",
+    "time": "3:40",
+    "link": "www.youtube.com/watch?v=d8ekz_CSBVg"
   },
   {
     "title": "I Miss You",
@@ -3792,10 +3798,10 @@
     "link": "www.youtube.com/watch?v=-ScjucUV8v0"
   },
   {
-    "title": "I Hate Everything About You",
-    "artist": "Three Days Grace",
-    "time": "3:40",
-    "link": "www.youtube.com/watch?v=d8ekz_CSBVg"
+    "title": "Te Siento",
+    "artist": "Wisin & Yandel",
+    "time": "4:19",
+    "link": "www.youtube.com/watch?v=SKWxOsbt9gU"
   },
   {
     "title": "All That Matters",
@@ -3804,22 +3810,22 @@
     "link": "www.youtube.com/watch?v=JC2yu2a9sHk"
   },
   {
-    "title": "Te Siento",
-    "artist": "Wisin & Yandel",
-    "time": "4:19",
-    "link": "www.youtube.com/watch?v=SKWxOsbt9gU"
-  },
-  {
     "title": "We Made You",
     "artist": "Eminem",
     "time": "4:43",
     "link": "www.youtube.com/watch?v=RSdKmX2BH7o"
   },
   {
-    "title": "Fireball ft. John Ryan",
+    "title": "Fireball",
     "artist": "Pitbull",
     "time": "4:02",
     "link": "www.youtube.com/watch?v=HMqgVXSvwGo"
+  },
+  {
+    "title": "Stay The Night",
+    "artist": "Zedd",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=i-gyZ35074k"
   },
   {
     "title": "When I Grow Up",
@@ -3828,13 +3834,7 @@
     "link": "www.youtube.com/watch?v=K0K46C82v9o"
   },
   {
-    "title": "Stay The Night ft. Hayley Williams",
-    "artist": "Zedd",
-    "time": "3:37",
-    "link": "www.youtube.com/watch?v=i-gyZ35074k"
-  },
-  {
-    "title": "All Of The Lights ft. Rihanna, Kid Cudi",
+    "title": "All Of The Lights",
     "artist": "Kanye West",
     "time": "5:28",
     "link": "www.youtube.com/watch?v=HAfFfqiYLp0"
@@ -3852,19 +3852,19 @@
     "link": "www.youtube.com/watch?v=GemKqzILV4w"
   },
   {
-    "title": "Pills N Potions",
-    "artist": "Nicki Minaj",
-    "time": "4:34",
-    "link": "www.youtube.com/watch?v=f7ld-3nZUxA"
-  },
-  {
     "title": "Ayo",
     "artist": "Chris Brown, Tyga",
     "time": "6:01",
     "link": "www.youtube.com/watch?v=zKCrSN9oXgQ"
   },
   {
-    "title": "My Life ft. Lil Wayne",
+    "title": "Pills N Potions",
+    "artist": "Nicki Minaj",
+    "time": "4:34",
+    "link": "www.youtube.com/watch?v=f7ld-3nZUxA"
+  },
+  {
+    "title": "My Life",
     "artist": "The Game",
     "time": "4:59",
     "link": "www.youtube.com/watch?v=udxZ9zkDzpo"
@@ -3876,19 +3876,19 @@
     "link": "www.youtube.com/watch?v=nMv2PeG-2mc"
   },
   {
-    "title": "Written In The Stars ft. Eric Turner",
+    "title": "Written In The Stars",
     "artist": "Tinie Tempah",
     "time": "3:37",
     "link": "www.youtube.com/watch?v=YgFyi74DVjc"
   },
   {
-    "title": "Knock You Down ft. Kanye West, Ne-Yo",
+    "title": "Knock You Down",
     "artist": "Keri Hilson",
     "time": "4:46",
     "link": "www.youtube.com/watch?v=p_RqWocthcc"
   },
   {
-    "title": "Kiss Me Thru The Phone ft. Sammie",
+    "title": "Kiss Me Thru The Phone",
     "artist": "Soulja Boy Tell'em",
     "time": "3:16",
     "link": "www.youtube.com/watch?v=47Fbo4kU2AU"
@@ -3912,22 +3912,10 @@
     "link": "www.youtube.com/watch?v=sjSG6z_13-Q"
   },
   {
-    "title": "Mmm Yeah ft. Pitbull",
+    "title": "Mmm Yeah",
     "artist": "Austin Mahone",
     "time": "4:22",
     "link": "www.youtube.com/watch?v=MMAppa1cAVo"
-  },
-  {
-    "title": "Back To December",
-    "artist": "Taylor Swift",
-    "time": "5:05",
-    "link": "www.youtube.com/watch?v=QUwxKWT6m7U"
-  },
-  {
-    "title": "Fun ft. Chris Brown",
-    "artist": "Pitbull",
-    "time": "4:02",
-    "link": "www.youtube.com/watch?v=jKbR7u8J5PU"
   },
   {
     "title": "J'me tire",
@@ -3936,13 +3924,25 @@
     "link": "www.youtube.com/watch?v=F_rEHfLgdcY"
   },
   {
+    "title": "Back To December",
+    "artist": "Taylor Swift",
+    "time": "5:05",
+    "link": "www.youtube.com/watch?v=QUwxKWT6m7U"
+  },
+  {
+    "title": "Fun",
+    "artist": "Pitbull",
+    "time": "4:02",
+    "link": "www.youtube.com/watch?v=jKbR7u8J5PU"
+  },
+  {
     "title": "Your Body",
     "artist": "Christina Aguilera",
     "time": "4:41",
     "link": "www.youtube.com/watch?v=6cfCgLgiFDM"
   },
   {
-    "title": "Desde Esa Noche ft. Maluma",
+    "title": "Desde Esa Noche",
     "artist": "Thalía",
     "time": "4:22",
     "link": "www.youtube.com/watch?v=CkyBXdXkMr8"
@@ -3954,16 +3954,16 @@
     "link": "www.youtube.com/watch?v=_RRyniZG0Jo"
   },
   {
+    "title": "Like A G6",
+    "artist": "Far East Movement",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=w4s6H4ku6ZY"
+  },
+  {
     "title": "Till The World Ends",
     "artist": "Britney Spears",
     "time": "3:57",
     "link": "www.youtube.com/watch?v=qzU9OrZlKb8"
-  },
-  {
-    "title": "Like A G6 ft. The Cataracs, DEV",
-    "artist": "Far East Movement",
-    "time": "3:46",
-    "link": "www.youtube.com/watch?v=w4s6H4ku6ZY"
   },
   {
     "title": "Say Ok",
@@ -3984,13 +3984,19 @@
     "link": "www.youtube.com/watch?v=XjVNlG5cZyQ"
   },
   {
+    "title": "Like A Boy",
+    "artist": "Ciara",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=_HKH7Emy1SY"
+  },
+  {
     "title": "Diva",
     "artist": "Beyoncé",
     "time": "4:07",
     "link": "www.youtube.com/watch?v=rNM5HW13_O8"
   },
   {
-    "title": "Popular Song ft. Ariana Grande",
+    "title": "Popular Song",
     "artist": "MIKA",
     "time": "3:27",
     "link": "www.youtube.com/watch?v=nmcdLOjGVzw"
@@ -4002,13 +4008,7 @@
     "link": "www.youtube.com/watch?v=IxszlJppRQI"
   },
   {
-    "title": "Like A Boy",
-    "artist": "Ciara",
-    "time": "3:58",
-    "link": "www.youtube.com/watch?v=_HKH7Emy1SY"
-  },
-  {
-    "title": "Perdido En Tus Ojos ft. Natti Natasha",
+    "title": "Perdido En Tus Ojos",
     "artist": "Don Omar",
     "time": "3:57",
     "link": "www.youtube.com/watch?v=6GyqS-BtmRw"
@@ -4026,12 +4026,6 @@
     "link": "www.youtube.com/watch?v=VUjdiDeJ0xg"
   },
   {
-    "title": "Pretty Girls",
-    "artist": "Britney Spears, Iggy Azalea",
-    "time": "4:32",
-    "link": "www.youtube.com/watch?v=uV2uebhnqOw"
-  },
-  {
     "title": "Bleeding Love",
     "artist": "Leona Lewis",
     "time": "4:39",
@@ -4044,7 +4038,13 @@
     "link": "www.youtube.com/watch?v=JZjAg6fK-BQ"
   },
   {
-    "title": "Beez In The Trap ft. 2 Chainz",
+    "title": "Pretty Girls",
+    "artist": "Britney Spears, Iggy Azalea",
+    "time": "4:32",
+    "link": "www.youtube.com/watch?v=uV2uebhnqOw"
+  },
+  {
+    "title": "Beez In The Trap",
     "artist": "Nicki Minaj",
     "time": "4:41",
     "link": "www.youtube.com/watch?v=EmZvOhHF85I"
@@ -4056,7 +4056,7 @@
     "link": "www.youtube.com/watch?v=f2JuxM-snGc"
   },
   {
-    "title": "Love More ft. Nicki Minaj",
+    "title": "Love More",
     "artist": "Chris Brown",
     "time": "4:15",
     "link": "www.youtube.com/watch?v=Tff2oE31Mlw"
@@ -4074,7 +4074,7 @@
     "link": "www.youtube.com/watch?v=dPKG1-3LXBs"
   },
   {
-    "title": "Pursuit Of Happiness ft. MGMT",
+    "title": "Pursuit Of Happiness",
     "artist": "Kid Cudi",
     "time": "4:57",
     "link": "www.youtube.com/watch?v=7xzU9Qqdqww"
@@ -4098,7 +4098,7 @@
     "link": "www.youtube.com/watch?v=wwCykGDEp7M"
   },
   {
-    "title": "Ride ft. Ludacris",
+    "title": "Ride",
     "artist": "Ciara",
     "time": "4:39",
     "link": "www.youtube.com/watch?v=Lp6W4aK1sbs"
@@ -4122,16 +4122,16 @@
     "link": "www.youtube.com/watch?v=NywWB67Z7zQ"
   },
   {
-    "title": "High School ft. Lil Wayne",
-    "artist": "Nicki Minaj",
-    "time": "4:07",
-    "link": "www.youtube.com/watch?v=RnpyRe_7jZA"
-  },
-  {
     "title": "Ahora Quien",
     "artist": "Marc Anthony",
     "time": "5:12",
     "link": "www.youtube.com/watch?v=toLrTToaN0M"
+  },
+  {
+    "title": "High School",
+    "artist": "Nicki Minaj",
+    "time": "4:07",
+    "link": "www.youtube.com/watch?v=RnpyRe_7jZA"
   },
   {
     "title": "Bleeding Love",
@@ -4152,13 +4152,13 @@
     "link": "www.youtube.com/watch?v=sNPnbI1arSE"
   },
   {
-    "title": "Break Your Heart ft. Ludacris",
+    "title": "Break Your Heart",
     "artist": "Taio Cruz",
     "time": "3:20",
     "link": "www.youtube.com/watch?v=y_SI2EDM6Lo"
   },
   {
-    "title": "Twerk It Like Miley - Produced by Hedegaard ft. Christopher",
+    "title": "Twerk It Like Miley - Produced by Hedegaard",
     "artist": "Brandon Beal",
     "time": "3:26",
     "link": "www.youtube.com/watch?v=PLE57UZievU"
@@ -4182,7 +4182,7 @@
     "link": "www.youtube.com/watch?v=7NJqUN9TClM"
   },
   {
-    "title": "Somebody ft. Jeremih",
+    "title": "Somebody",
     "artist": "Natalie La Rose",
     "time": "3:20",
     "link": "www.youtube.com/watch?v=8zqdo_Umd5c"
@@ -4200,7 +4200,7 @@
     "link": "www.youtube.com/watch?v=bJuWlMFToNo"
   },
   {
-    "title": "LOYALTY. ft. Rihanna",
+    "title": "LOYALTY.",
     "artist": "Kendrick Lamar",
     "time": "4:00",
     "link": "www.youtube.com/watch?v=Dlh-dzB2U4Y"
@@ -4212,7 +4212,7 @@
     "link": "www.youtube.com/watch?v=JlxByc0-V40"
   },
   {
-    "title": "I Wanna Love You ft. Snoop Dogg",
+    "title": "I Wanna Love You",
     "artist": "Akon",
     "time": "4:16",
     "link": "www.youtube.com/watch?v=GJzF7H2e3Tw"
@@ -4248,16 +4248,16 @@
     "link": "www.youtube.com/watch?v=Co0tTeuUVhU"
   },
   {
+    "title": "2 On",
+    "artist": "Tinashe",
+    "time": "3:51",
+    "link": "www.youtube.com/watch?v=-s7TCuCpB5c"
+  },
+  {
     "title": "Who Owns My Heart",
     "artist": "Miley Cyrus",
     "time": "3:41",
     "link": "www.youtube.com/watch?v=iVbQxC2c3-8"
-  },
-  {
-    "title": "2 On ft. SchoolBoy Q",
-    "artist": "Tinashe",
-    "time": "3:51",
-    "link": "www.youtube.com/watch?v=-s7TCuCpB5c"
   },
   {
     "title": "Glad You Came",
@@ -4266,13 +4266,13 @@
     "link": "www.youtube.com/watch?v=2ggzxInyzVE"
   },
   {
-    "title": "Troublemaker ft. Flo Rida",
+    "title": "Troublemaker",
     "artist": "Olly Murs",
     "time": "3:05",
     "link": "www.youtube.com/watch?v=4aQDOUbErNg"
   },
   {
-    "title": "Right There ft. 50 Cent",
+    "title": "Right There",
     "artist": "Nicole Scherzinger",
     "time": "4:19",
     "link": "www.youtube.com/watch?v=t-vTaktsUSw"
@@ -4284,7 +4284,7 @@
     "link": "www.youtube.com/watch?v=KnEXrbAQyIo"
   },
   {
-    "title": "OMG ft. will.i.am",
+    "title": "OMG",
     "artist": "Usher",
     "time": "4:42",
     "link": "www.youtube.com/watch?v=1RnPB76mjxI"
@@ -4362,7 +4362,7 @@
     "link": "www.youtube.com/watch?v=ozx898ADTxM"
   },
   {
-    "title": "La Noche De Los Dos ft. Natalia Jiménez",
+    "title": "La Noche De Los Dos",
     "artist": "Daddy Yankee",
     "time": "3:47",
     "link": "www.youtube.com/watch?v=GDBaeQ5JPuU"
@@ -4374,7 +4374,7 @@
     "link": "www.youtube.com/watch?v=elueA2rofoo"
   },
   {
-    "title": "Payphone ft. Wiz Khalifa",
+    "title": "Payphone",
     "artist": "Maroon 5",
     "time": "3:52",
     "link": "www.youtube.com/watch?v=5FlQSQuv_mg"
@@ -4392,7 +4392,7 @@
     "link": "www.youtube.com/watch?v=ocDlOD1Hw9k"
   },
   {
-    "title": "Right There ft. Big Sean",
+    "title": "Right There",
     "artist": "Ariana Grande",
     "time": "4:19",
     "link": "www.youtube.com/watch?v=fhcpubAVdmc"
@@ -4404,7 +4404,7 @@
     "link": "www.youtube.com/watch?v=Oe1fRwgGu5E"
   },
   {
-    "title": "Carry Out ft. Justin Timberlake",
+    "title": "Carry Out",
     "artist": "Timbaland",
     "time": "3:55",
     "link": "www.youtube.com/watch?v=NRdHsuuXxfk"
@@ -4422,22 +4422,16 @@
     "link": "www.youtube.com/watch?v=D1Xr-JFLxik"
   },
   {
-    "title": "Hard ft. Jeezy",
+    "title": "Hard",
     "artist": "Rihanna",
     "time": "4:11",
     "link": "www.youtube.com/watch?v=Xcwd_Nz6Zog"
   },
   {
-    "title": "Oath ft. Becky G",
+    "title": "Oath",
     "artist": "Cher Lloyd",
     "time": "3:40",
     "link": "www.youtube.com/watch?v=Cqz713hhz1Y"
-  },
-  {
-    "title": "Dessert –",
-    "artist": "Dawin",
-    "time": "3:41",
-    "link": "www.youtube.com/watch?v=rpLITtLRltw"
   },
   {
     "title": "The Way I Am",
@@ -4446,13 +4440,19 @@
     "link": "www.youtube.com/watch?v=mQvteoFiMlg"
   },
   {
-    "title": "Dirty Dancer ft. Lil Wayne",
+    "title": "Dessert –",
+    "artist": "Dawin",
+    "time": "3:41",
+    "link": "www.youtube.com/watch?v=rpLITtLRltw"
+  },
+  {
+    "title": "Dirty Dancer",
     "artist": "Enrique Iglesias, Usher",
     "time": "4:17",
     "link": "www.youtube.com/watch?v=vHJAUuicC0Q"
   },
   {
-    "title": "Ven Conmigo ft. Prince Royce",
+    "title": "Ven Conmigo",
     "artist": "Daddy Yankee",
     "time": "4:54",
     "link": "www.youtube.com/watch?v=ZEInlYjVFzk"
@@ -4506,13 +4506,13 @@
     "link": "www.youtube.com/watch?v=E-kkX2UuBcg"
   },
   {
-    "title": "Everyday ft. Future",
+    "title": "Everyday",
     "artist": "Ariana Grande",
     "time": "3:15",
     "link": "www.youtube.com/watch?v=LELFIuhSPCI"
   },
   {
-    "title": "Gimme That ft. Lil Wayne",
+    "title": "Gimme That",
     "artist": "Chris Brown",
     "time": "4:55",
     "link": "www.youtube.com/watch?v=3yl-5FOZcr0"
@@ -4530,7 +4530,7 @@
     "link": "www.youtube.com/watch?v=o9tJW9MDs2M"
   },
   {
-    "title": "I'm On One ft. Drake, Rick Ross, Lil Wayne",
+    "title": "I'm On One",
     "artist": "DJ Khaled",
     "time": "5:19",
     "link": "www.youtube.com/watch?v=Z09lYqdxqzo"
@@ -4560,7 +4560,7 @@
     "link": "www.youtube.com/watch?v=-Edv8Onsrgg"
   },
   {
-    "title": "If We Ever Meet Again ft. Katy Perry",
+    "title": "If We Ever Meet Again",
     "artist": "Timbaland",
     "time": "5:13",
     "link": "www.youtube.com/watch?v=KDKva-s_khY"
@@ -4584,7 +4584,7 @@
     "link": "www.youtube.com/watch?v=Xyv4Bjja8yc"
   },
   {
-    "title": "Sorry ft. J Balvin",
+    "title": "Sorry",
     "artist": "Justin Bieber",
     "time": "3:41",
     "link": "www.youtube.com/watch?v=10IKRNNfCGU"
@@ -4596,19 +4596,19 @@
     "link": "www.youtube.com/watch?v=MmZexg8sxyk"
   },
   {
-    "title": "Turn Up The Love ft. Cover Drive",
+    "title": "Turn Up The Love",
     "artist": "Far East Movement",
     "time": "3:34",
     "link": "www.youtube.com/watch?v=UqXVgAmqBOs"
   },
   {
-    "title": "Hangover ft. Flo Rida",
+    "title": "Hangover",
     "artist": "Taio Cruz",
     "time": "4:49",
     "link": "www.youtube.com/watch?v=dLhFDYQHDQY"
   },
   {
-    "title": "I Luh Ya Papi ft. French Montana",
+    "title": "I Luh Ya Papi",
     "artist": "Jennifer Lopez",
     "time": "5:18",
     "link": "www.youtube.com/watch?v=c4oiEhf9M04"

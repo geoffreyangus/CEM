@@ -7,8 +7,56 @@ clean_time = (raw_time) => {
 clean_title = (raw_title) => {
     title = raw_title.replace(/\(.*?\)\s?/g, '')
     title = title.replace(/\[.*?\]\s?/g, '')
+    title = title.replace(' | Official Music Video', ' ')
+    feat_idx = find_feat(raw_title)
+    if (feat_idx != -1) {
+        title = title.substring(0, feat_idx)
+    }
     title = title.trim()
     return title
+}
+
+find_feat = (youtube_title) => {
+    feat_idx = title.indexOf(' feat. ')
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' Feat. ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' FEAT. ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' feat ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' Ft. ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' FT. ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' ft. ')
+
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' ft ')
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf(' part. ')
+        
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf('|')
+        
+    }
+    if (feat_idx == -1) {
+        feat_idx = title.indexOf('- ')
+    }
+    return feat_idx
 }
 
 find_dash = (youtube_title) => {
@@ -21,10 +69,17 @@ find_dash = (youtube_title) => {
 
 get_elements = (table_row, has_new_table) => {
     if (has_new_table) {
+        raw_time_element = table_row.querySelector('#content ytd-thumbnail-overlay-time-status-renderer span')
+        if (!raw_time_element) {
+            raw_time = null
+        }
+        else {
+            raw_time = raw_time_element.innerText
+        }
         return {
             'link': table_row.querySelector('#content a').getAttribute('href'),
             'youtube_title': table_row.querySelector('#content #video-title').innerText,
-            'raw_time': table_row.querySelector('#content ytd-thumbnail-overlay-time-status-renderer span').innerText
+            'raw_time': raw_time
         }        
     } else {
         raw_time_element = table_row.querySelector('.pl-video-time .timestamp span')

@@ -1,0 +1,524 @@
+[
+  {
+    "title": "All My Life",
+    "artist": "K-Ci & JoJo",
+    "time": "3:52",
+    "link": "www.youtube.com/watch?v=DXvMT_mVbqw"
+  },
+  {
+    "title": "Torch",
+    "artist": "Mobley",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=8GEFpU1pztU"
+  },
+  {
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=gJLIiF15wjQ"
+  },
+  {
+    "title": "This Is How We Do It",
+    "artist": "Montell Jordan",
+    "time": "4:00",
+    "link": "www.youtube.com/watch?v=0hiUuL5uTKc"
+  },
+  {
+    "title": "I Kissed A Girl",
+    "artist": "Katy Perry",
+    "time": "3:05",
+    "link": "www.youtube.com/watch?v=tAp9BKosZXs"
+  },
+  {
+    "title": "All Star",
+    "artist": "Smash Mouth",
+    "time": "3:57",
+    "link": "www.youtube.com/watch?v=L_jWHffIx5E"
+  },
+  {
+    "title": "...Baby One More Time",
+    "artist": "Britney Spears",
+    "time": "3:57",
+    "link": "www.youtube.com/watch?v=C-u5WLJ9Yk4"
+  },
+  {
+    "title": "Umbrella",
+    "artist": "Rihanna",
+    "time": "4:14",
+    "link": "www.youtube.com/watch?v=CvBfHwUxHIk"
+  },
+  {
+    "title": "Hold It Against Me",
+    "artist": "Britney Spears",
+    "time": "4:30",
+    "link": "www.youtube.com/watch?v=-Edv8Onsrgg"
+  },
+  {
+    "title": "THRIFT SHOP",
+    "artist": "MACKLEMORE & RYAN LEWIS",
+    "time": "3:53",
+    "link": "www.youtube.com/watch?v=QK8mJJJvaes"
+  },
+  {
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke",
+    "time": "4:32",
+    "link": "www.youtube.com/watch?v=yyDUC1LUXSU"
+  },
+  {
+    "title": "Royals",
+    "artist": "Lorde",
+    "time": "3:21",
+    "link": "www.youtube.com/watch?v=nlcIKh6sBtc"
+  },
+  {
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=My2FRPA3Gf8"
+  },
+  {
+    "title": "Have You Ever",
+    "artist": "Brandy",
+    "time": "4:11",
+    "link": "www.youtube.com/watch?v=UrNb397wS-A"
+  },
+  {
+    "title": "Locked Out Of Heaven",
+    "artist": "Bruno Mars",
+    "time": "3:55",
+    "link": "www.youtube.com/watch?v=e-fA-gBCkj0"
+  },
+  {
+    "title": "Sexy and I Know It",
+    "artist": "LMFAO",
+    "time": "3:24",
+    "link": "www.youtube.com/watch?v=wyx6JDQCslE"
+  },
+  {
+    "title": "I'm Your Angel",
+    "artist": "Céline Dion",
+    "time": "5:49",
+    "link": "www.youtube.com/watch?v=qPCwPe4Tk-4"
+  },
+  {
+    "title": "Angel Of Mine",
+    "artist": "Monica",
+    "time": "4:12",
+    "link": "www.youtube.com/watch?v=3eOuK-pYhy4"
+  },
+  {
+    "title": "Somebody That I Used To Know",
+    "artist": "Gotye",
+    "time": "4:04",
+    "link": "www.youtube.com/watch?v=8UVNT4wvIGY"
+  },
+  {
+    "title": "Lollipop",
+    "artist": "Lil Wayne",
+    "time": "5:01",
+    "link": "www.youtube.com/watch?v=2IH8tNQAzSs"
+  },
+  {
+    "title": "Started From The Bottom",
+    "artist": "Drake",
+    "time": "5:21",
+    "link": "www.youtube.com/watch?v=RubBzkZzpUA"
+  },
+  {
+    "title": "Crossroads",
+    "artist": "Bone Thugs N Harmony",
+    "time": "4:43",
+    "link": "www.youtube.com/watch?v=VMYAEHE2GrM"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "time": "4:45",
+    "link": "www.youtube.com/watch?v=hLQl3WQQoQ0"
+  },
+  {
+    "title": "If You Had My Love",
+    "artist": "Jennifer Lopez",
+    "time": "5:30",
+    "link": "www.youtube.com/watch?v=lYfkl-HXfuU"
+  },
+  {
+    "title": "Your Body",
+    "artist": "Christina Aguilera",
+    "time": "4:41",
+    "link": "www.youtube.com/watch?v=6cfCgLgiFDM"
+  },
+  {
+    "title": "Believe",
+    "artist": "Cher",
+    "time": "4:01",
+    "link": "www.youtube.com/watch?v=5Uu3kCEEc98"
+  },
+  {
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "time": "4:27",
+    "link": "www.youtube.com/watch?v=PsO6ZnUZI0g"
+  },
+  {
+    "title": "Stronger",
+    "artist": "Kelly Clarkson",
+    "time": "3:41",
+    "link": "www.youtube.com/watch?v=Xn676-fLq7I"
+  },
+  {
+    "title": "The Boy Is Mine",
+    "artist": "Brandy & Monica",
+    "time": "4:01",
+    "link": "www.youtube.com/watch?v=Va1Y6uAgNJY"
+  },
+  {
+    "title": "Black And Yellow",
+    "artist": "Wiz Khalifa",
+    "time": "3:52",
+    "link": "www.youtube.com/watch?v=UePtoxDhJSw"
+  },
+  {
+    "title": "CAN'T HOLD US",
+    "artist": "MACKLEMORE & RYAN LEWIS",
+    "time": "7:04",
+    "link": "www.youtube.com/watch?v=2zNSgSzhBfM"
+  },
+  {
+    "title": "Whistle",
+    "artist": "Flo Rida",
+    "time": "3:55",
+    "link": "www.youtube.com/watch?v=cSnkWzZ7ZAA"
+  },
+  {
+    "title": "We Found Love",
+    "artist": "Rihanna",
+    "time": "4:36",
+    "link": "www.youtube.com/watch?v=tg00YEETFzg"
+  },
+  {
+    "title": "Every Rose Has Its Thorn",
+    "artist": "Poison",
+    "time": "4:44",
+    "link": "www.youtube.com/watch?v=j2r2nDhTzO4"
+  },
+  {
+    "title": "My Prerogative",
+    "artist": "Bobby Brown",
+    "time": "4:56",
+    "link": "www.youtube.com/watch?v=5cDLZqe735k"
+  },
+  {
+    "title": "Unpretty",
+    "artist": "TLC",
+    "time": "4:46",
+    "link": "www.youtube.com/watch?v=g2gy1Evb1Kg"
+  },
+  {
+    "title": "Heartbreaker",
+    "artist": "Mariah Carey, Jay-Z",
+    "time": "5:37",
+    "link": "www.youtube.com/watch?v=kMCGvtlL4fw"
+  },
+  {
+    "title": "Smooth",
+    "artist": "Santana",
+    "time": "4:17",
+    "link": "www.youtube.com/watch?v=6Whgn_iE5uc"
+  },
+  {
+    "title": "Nice And Slow",
+    "artist": "Usher",
+    "time": "3:52",
+    "link": "www.youtube.com/watch?v=RQeZZnwmuMo"
+  },
+  {
+    "title": "I Don't Want to Miss a Thing",
+    "artist": "Aerosmith",
+    "time": "4:55",
+    "link": "www.youtube.com/watch?v=JkK8g6FMEXE"
+  },
+  {
+    "title": "One Week",
+    "artist": "Barenaked Ladies",
+    "time": "2:55",
+    "link": "www.youtube.com/watch?v=fC_q9KPczAg"
+  },
+  {
+    "title": "Doo-Wop",
+    "artist": "Lauryn Hill",
+    "time": "3:57",
+    "link": "www.youtube.com/watch?v=T6QKqFPRZSA"
+  },
+  {
+    "title": "Hypnotize",
+    "artist": "The Notorious B.I.G.",
+    "time": "5:39",
+    "link": "www.youtube.com/watch?v=glEiPXAYE-U"
+  },
+  {
+    "title": "MMMBop",
+    "artist": "Hanson",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=NHozn0YXAeE"
+  },
+  {
+    "title": "No Diggity",
+    "artist": "Blackstreet",
+    "time": "4:33",
+    "link": "www.youtube.com/watch?v=3KL9mRus19o"
+  },
+  {
+    "title": "California Love HD",
+    "artist": "2pac feat Dr.Dre",
+    "time": "5:35",
+    "link": "www.youtube.com/watch?v=5wBTdfAkqGU"
+  },
+  {
+    "title": "Creep",
+    "artist": "TLC",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=LlZydtG3xqI"
+  },
+  {
+    "title": "Waterfalls",
+    "artist": "TLC",
+    "time": "5:15",
+    "link": "www.youtube.com/watch?v=8WEtxJ4-sh4"
+  },
+  {
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "time": "4:30",
+    "link": "www.youtube.com/watch?v=CevxZvSJLk8"
+  },
+  {
+    "title": "The Monster",
+    "artist": "Eminem",
+    "time": "5:19",
+    "link": "www.youtube.com/watch?v=EHkozMIXZ8w"
+  },
+  {
+    "title": "Grenade",
+    "artist": "Bruno Mars",
+    "time": "3:56",
+    "link": "www.youtube.com/watch?v=SR6iYWJxHqs"
+  },
+  {
+    "title": "Like A G6",
+    "artist": "Far East Movement",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=w4s6H4ku6ZY"
+  },
+  {
+    "title": "What's My Name?",
+    "artist": "Rihanna",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=U0CGsw6h60k"
+  },
+  {
+    "title": "Down",
+    "artist": "Jay Sean",
+    "time": "3:44",
+    "link": "www.youtube.com/watch?v=oUbpGmR1-QM"
+  },
+  {
+    "title": "Right Round",
+    "artist": "Flo Rida",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=CcCw1ggftuQ"
+  },
+  {
+    "title": "Fireflies",
+    "artist": "Owl City",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=psuRGfAaju4"
+  },
+  {
+    "title": "Love in This Club",
+    "artist": "Usher",
+    "time": "6:15",
+    "link": "www.youtube.com/watch?v=cB5e0zHRzHc"
+  },
+  {
+    "title": "Bleeding Love",
+    "artist": "Leona Lewis",
+    "time": "4:39",
+    "link": "www.youtube.com/watch?v=Vzo-EL_62fQ"
+  },
+  {
+    "title": "Live Your Life",
+    "artist": "T.I.",
+    "time": "5:32",
+    "link": "www.youtube.com/watch?v=koVHN6eO4Xg"
+  },
+  {
+    "title": "What Goes Around...Comes Around",
+    "artist": "Justin Timberlake",
+    "time": "9:22",
+    "link": "www.youtube.com/watch?v=TOrnUquxtwA"
+  },
+  {
+    "title": "Ruff Ryders' Anthem",
+    "artist": "DMX",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=ThlhSnRk21E"
+  },
+  {
+    "title": "Truly Madly Deeply",
+    "artist": "Savage Garden",
+    "time": "4:22",
+    "link": "www.youtube.com/watch?v=WQnAxOQxQIU"
+  },
+  {
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys",
+    "time": "3:40",
+    "link": "www.youtube.com/watch?v=4fndeDfaWCg"
+  },
+  {
+    "title": "Barbie Girl",
+    "artist": "Aqua",
+    "time": "3:22",
+    "link": "www.youtube.com/watch?v=ZyhrYis509A"
+  },
+  {
+    "title": "In The End",
+    "artist": "Linkin Park",
+    "time": "3:38",
+    "link": "www.youtube.com/watch?v=eVTXPUF4Oz4"
+  },
+  {
+    "title": "Last Resort",
+    "artist": "Papa Roach",
+    "time": "3:34",
+    "link": "www.youtube.com/watch?v=QhJ6bE4z5vs"
+  },
+  {
+    "title": "Country Grammar",
+    "artist": "Nelly",
+    "time": "3:48",
+    "link": "www.youtube.com/watch?v=Y5qKNlcUwKs"
+  },
+  {
+    "title": "Are You That Somebody",
+    "artist": "Aaliyah",
+    "time": "4:24",
+    "link": "www.youtube.com/watch?v=kjDM0Fz5ccU"
+  },
+  {
+    "title": "No One",
+    "artist": "Alicia Keys",
+    "time": "4:08",
+    "link": "www.youtube.com/watch?v=rywUS-ohqeE"
+  },
+  {
+    "title": "Bye Bye Bye",
+    "artist": "*NSYNC",
+    "time": "4:02",
+    "link": "www.youtube.com/watch?v=Eo-KmOd3i7s"
+  },
+  {
+    "title": "Nookie",
+    "artist": "Limp Bizkit",
+    "time": "4:30",
+    "link": "www.youtube.com/watch?v=JTMVOzPPtiw"
+  },
+  {
+    "title": "TiK ToK",
+    "artist": "Ke$ha",
+    "time": "3:35",
+    "link": "www.youtube.com/watch?v=iP6XpLQM2Cs"
+  },
+  {
+    "title": "Pursuit Of Happiness",
+    "artist": "Kid Cudi",
+    "time": "4:57",
+    "link": "www.youtube.com/watch?v=7xzU9Qqdqww"
+  },
+  {
+    "title": "Peaches & Cream",
+    "artist": "112",
+    "time": "3:18",
+    "link": "www.youtube.com/watch?v=07sz_7s9LUs"
+  },
+  {
+    "title": "Headsprung",
+    "artist": "LL Cool J",
+    "time": "4:28",
+    "link": "www.youtube.com/watch?v=JQcAzie9AJ0"
+  },
+  {
+    "title": "In Da Club",
+    "artist": "50 Cent",
+    "time": "4:10",
+    "link": "www.youtube.com/watch?v=5qm8PH4xAss"
+  },
+  {
+    "title": "Lean Back",
+    "artist": "Terror Squad",
+    "time": "4:42",
+    "link": "www.youtube.com/watch?v=ajmI1P3r1w4"
+  },
+  {
+    "title": "Right Thurr",
+    "artist": "Chingy",
+    "time": "3:45",
+    "link": "www.youtube.com/watch?v=iO476kD-k0g"
+  },
+  {
+    "title": "Back That Ass Up",
+    "artist": "Juvenile",
+    "time": "4:00",
+    "link": "www.youtube.com/watch?v=WL2txMU50CI"
+  },
+  {
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "time": "3:28",
+    "link": "www.youtube.com/watch?v=Kgjkth6BRRY"
+  },
+  {
+    "title": "Hey There Delilah",
+    "artist": "Plain White T's",
+    "time": "4:03",
+    "link": "www.youtube.com/watch?v=h_m-BjrxmgI"
+  },
+  {
+    "title": "Wait For You",
+    "artist": "Elliott Yamin",
+    "time": "4:00",
+    "link": "www.youtube.com/watch?v=xaHyvAMLk7U"
+  },
+  {
+    "title": "Break Your Heart",
+    "artist": "Taio Cruz",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=y_SI2EDM6Lo"
+  },
+  {
+    "title": "Bad Romance",
+    "artist": "Lady Gaga",
+    "time": "5:08",
+    "link": "www.youtube.com/watch?v=qrO4YZeyl0I"
+  },
+  {
+    "title": "Cooler Than Me",
+    "artist": "Mike Posner",
+    "time": "4:36",
+    "link": "www.youtube.com/watch?v=mqWq_48LxWQ"
+  },
+  {
+    "title": "Say It",
+    "artist": "Tory Lanez",
+    "time": "5:08",
+    "link": "www.youtube.com/watch?v=xUq1rZ7mmns"
+  },
+  {
+    "title": "Do It Like Me Challenge",
+    "artist": "iAmDLOW",
+    "time": "2:27",
+    "link": "www.youtube.com/watch?v=7hl0aTooA90"
+  }
+]
