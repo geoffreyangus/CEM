@@ -49,7 +49,7 @@ These questions are called **conditions**.
 
  --- 
 
-To program PyBot to perform these actions and answer these questions, we'll need to use **functions**. Functions are a very important of programming in Python (and practically all programming languages, for that matter). We'll cover functions in more detail in the [next section](https://geoffreyangus.github.io/CS106R/notes/simple_functions/simple_functions). For now, you can think of functions as the commands we write in Python code. PyBot comes with nine functions that command PyBot to perform the actions and answer the questions above. 
+To program PyBot to perform these actions and answer these questions, we'll need to use **functions**. Functions are a very important of programming in Python (and practically all programming languages, for that matter). We'll cover functions in more detail in the [next section](/notes/simple_functions/simple_functions). For now, you can think of functions as the commands we write in Python code. PyBot comes with nine functions that command PyBot to perform the actions and answer the questions above. 
 
 # PyBot Functions
 Below we outline the functions that PyBot understands and give a simple example of what writing the function in code will tell PyBot to do. On the left is an image of PyBot _before_ she reads the function and on the right is an image of PyBot after she has performed the action.  
@@ -81,7 +81,7 @@ To program PyBot, we write a Python program using the functions above. We place 
 
 > `main()` **Function** – The function that is executed at the beginning of a Python program. 
 
-In the [next section](https://geoffreyangus.github.io/CS106R/notes/simple_functions/simple_functions), you'll learn more about writing functions, including the `main()` function, so don't worry if this feels odd for now. The important thing to remember is: 
+In the [next section](/notes/simple_functions/simple_functions), you'll learn more about writing functions, including the `main()` function, so don't worry if this feels odd for now. The important thing to remember is: 
 1. The `main()` function has a header `def main():`
 2. Your program goes underneath the header and must be indented one tab
 

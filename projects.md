@@ -6,7 +6,7 @@ title: Projects
 # Project 1 - PyBot
 <img class="bio-pic" align="right" width="130" height="130" src="figures/projects/project1.png">
 
-[Work on Project](https://geoffreyangus.github.io/CS106R/projects/project1)
+[Work on Project](/projects/project1)
 
 **Due**: Week 2 in-class
 
