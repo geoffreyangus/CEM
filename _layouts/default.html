@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <script>
+      window.onscroll = function() {
+        "use strict";
+        if (document.body.scrollTop >= 35 || document.documentElement.scrollTop >= 35) {
+          document.getElementById("nav-bar").classList.add("scroll");
+        } else {
+          document.getElementById("nav-bar").classList.remove("scroll");
+        }
+      };
+    </script>
+
+    <meta charset="UTF-8">
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+<!--     <a id="skip-to-content" href="#content">Skip to the content.</a>
+ -->
+
+    {% if page.url == '/' %}   
+    <div id="nav-bar" class="nav-bar home-nav-bar">
+        <a class="main-link" href="https://geoffreyangus.github.io/CS106R/#" class="btn"><div><b>CS</b>106R</div></a>
+        <a href="https://geoffreyangus.github.io/CS106R/logistics" class="btn">Logistics</a> 
+        <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">About</a>
+        <a target="_blank" href="https://repl.it/logout" class="btn">Login</a>
+    </div>
+
+    <!-- HOMEPAGE SIDEBAR TEMPLATE -->
+
+    <div class="home-sidebar">
+      <div class="sidebar-title">
+        Class Information
+      </div>
+      <div class="home-sidebar-content">
+        <div class="home-sidebar-section">
+          <div class="home-section-title">
+          Schools: 
+          </div>
+          <div class="home-section-details">
+            <i>Curitiba, BR</i><br>
+            Colegio SESC São Jose<br>
+            Colegio Bom Jesus Centro<br>
+            Colegio Bom Jesus Lourdes
+          </div>
+        </div>
+        
+        <div class="home-sidebar-section">
+            <div class="home-section-title">
+              Dates: 
+            </div>
+            <div class="home-section-details">
+              <i>7 Weeks</i><br>
+              July 30 to September 14 
+            </div>
+          </div>
+
+        <div class="home-sidebar-section">
+          <div class="home-section-title">
+            Teachers: 
+          </div>
+          <div class="home-section-details">
+            <i>Sabri Eyuboglu</i><br>
+            eyuboglu@stanford.edu
+            <br><br>
+            <i>Geoffrey Angus</i><br>
+            gangus@stanford.edu
+          </div>
+        </div>
+
+        <div class="home-sidebar-section">
+          <div class="home-section-title">
+            About: 
+          </div>
+          <div class="home-section-details">
+            CS106R is a pioneer, introductory computer science course designed for high-schoolers with no prior computer science experience. Students will learn much of the same material as Stanford's introductory computer science class, <i>CS106A</i>. 
+            However, we have tailored the notes, exercises and projects for those who speak English as a second language.  
+          </div>    
+        </div>
+      </div>
+    </div>
+
+    <!-- OUR SUPER AWESOME WEEKLY TEMPLATE -->
+    <div class="home-page">
+
+      <div class="syllabus-week-wrapper">
+        <div class="syllabus-week">      
+          <div class="syllabus-body">
+            <div class="syllabus-details">
+              <div class="syllabus-header">
+                <div class="syllabus-header-title">
+                  <div class="header-week">
+                    <b>Week 5</b>
+                  </div>
+                  <div class="header-title">
+                    Complex Objects
+                  </div>
+                </div>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Notes
+                </div>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/objects/objects">
+                  Complex Objects
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Exercises
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1483819/dc1ab723a4d29356cd7e8a8d479dc1a2">
+                  Caixa Eletrônico
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Projects
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1469028/35e2532877ad262b11f7f121a029b592">
+                  Connect4
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Real World Computer Science
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://geoffreyangus.github.io/CS106R/notes/graphics/graphics">
+                  Computer Graphics
+                </a>
+              </div>
+              <div class="details-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_five_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+            <div class="syllabus-figures">
+              <div class="syllabus-preview">
+                <img class="syllabus-preview-image" src="https://geoffreyangus.github.io/CS106R/assets/res/week5_preview.png">
+                </img>
+                <div class="syllabus-preview-caption">
+                  This week we will learn how to use objects made of objects.
+                  <br>
+                  <br>
+                  <b>
+                    Important links:
+                  </b>
+                  <br>
+                  - <a target="_blank" href="https://goo.gl/forms/4qwfq3Qfz0sLsnzX2">Attendance (Week 5)
+                  </a>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://repl.it/student_embed/assignment/1491712/b9e48f92dbc3f6e65a9109f6634a7be4">
+                    Transfer (Supplement)
+                  </a> 
+                  <br>
+                  - 
+                  <a target="_blank" href="https://docs.python.org/3/library/">
+                    The Python Standard Library
+                  </a> 
+                  <br>
+
+                  <br>
+                  <b>
+                    Learning Objectives
+                  </b>
+                  <br>
+                  1.) Member Functions<br>
+                  2.) Attributes<br>
+                </div>
+              </div>
+              <div class="figures-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_four_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="syllabus-week-wrapper">
+        <div class="syllabus-week">      
+          <div class="syllabus-body">
+            <div class="syllabus-details">
+              <div class="syllabus-header">
+                <div class="syllabus-header-title">
+                  <div class="header-week">
+                    <b>Week 4</b>
+                  </div>
+                  <div class="header-title">
+                    Objects and Functions
+                  </div>
+                </div>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Notes
+                </div>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/functions/advanced_functions_2">
+                  Advanced Functions Part 2
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Exercises
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1433002/3c19d5e4688bcfbc5eec3d07be817cbc">
+                  Calculator
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1441808/de407b5a2f41541ed350103de9d57a6c">
+                  Conversion
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1440917/8657e2dddb0b167646ff91e1c9f1e3b2">
+                  Bilheteria
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Projects
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1372314/47b37266af93fab9acc8642df81e4b40">
+                  Game of Nimm
+                </a>
+              </div>
+              <div class="details-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_four_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+            <div class="syllabus-figures">
+              <div class="syllabus-preview">
+                <img class="syllabus-preview-image" src="https://geoffreyangus.github.io/CS106R/assets/res/week4_preview.png">
+                </img>
+                <div class="syllabus-preview-caption">
+                  This week we will begin writing even more powerful functions.
+                  <br>
+                  <br>
+                  <b>
+                    Important links:
+                  </b>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://goo.gl/forms/ti0AUli2tWs4Pgbx1">
+                    Mid-course Evaluation!
+                  </a> 
+                  <br>
+                  - <a target="_blank" href="https://goo.gl/forms/FUJbUcdqaCEIGLa03">Attendance (Week 4)</a>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://repl.it/student_embed/assignment/1321617/607bf00c5e999646ad13cc1d9f7ce1b1">
+                    Challenge: Fibonacci (Optional)
+                  </a>
+                  <br>
+                  <br>
+                  <b>
+                    Learning Objectives
+                  </b>
+                  <br>
+                  1.) Parameter Passing<br>    
+                  2.) Returning Values              
+                </div>
+              </div>
+              <div class="figures-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_four_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="syllabus-week-wrapper">
+        <div class="syllabus-week">      
+          <div class="syllabus-body">
+            <div class="syllabus-details">
+              <div class="syllabus-header">
+                <div class="syllabus-header-title">
+                  <div class="header-week">
+                    <b>Week 3</b>
+                  </div>
+                  <div class="header-title">
+                    Objects, Variables, and Operators
+                  </div>
+                </div>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Notes
+                </div>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/variables/variables">
+                  Objects and Variables
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/operators/operators">
+                  Operators
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/functions/advanced_functions_1">
+                  Advanced Functions Part 1
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Exercises
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1413231/093d4526d5c79db0eb1910d2706eded4">
+                  Maiúsculas
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1404572/4a093314a4e9d914d4624dfcefd07a13">
+                  Guest List
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1298438/ce2c23736ab18204cb2629b3f2d7a667">
+                  Theorem of Pythagoras
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1407900/8d62a08f510efa0943d9f190f01a3e01">
+                  Max Number
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Projects
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1390976/c485a231f2bf4187c4a1df3a25a075b6">
+                  Election Year
+                </a>
+              </div>
+              <div class="details-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_three_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+            <div class="syllabus-figures">
+              <div class="syllabus-preview">
+                <img class="syllabus-preview-image" src="https://geoffreyangus.github.io/CS106R/assets/res/week3_preview.png">
+                </img>
+                <div class="syllabus-preview-caption">
+                  This week we'll introduce you to the other half of computer science: Objects.
+                  <br>
+                  <br>
+                  <b>
+                    Important links:
+                  </b>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://piazza.com/grupo_educacional_bom_jesus/summer2018/cs106r">
+                    Piazza (Sign Up)
+                  </a> 
+                  <br>
+                  (Class Code: cs106r)
+                  <br>
+                  - <a target="_blank" href="https://goo.gl/forms/M3EcY459piBi6ADc2">Attendance (Week 3)</a>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://repl.it/student_embed/assignment/1322139/0401ae435d4aa50bd6efb3224f180079">
+                    Challenge: Hailstone (Optional)
+                  </a>
+                  <br>
+                  <br>
+                  <b>
+                    Learning Objectives
+                  </b>
+                  <br>
+                  1.) Objects<br>
+                  2.) Variables<br>
+                  3.) Operators<br>
+                  
+                </div>
+              </div>
+              <div class="figures-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_three_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="syllabus-week-wrapper">
+        <div class="syllabus-week">      
+          <div class="syllabus-body">
+            <div class="syllabus-details">
+              <div class="syllabus-header">
+                <div class="syllabus-header-title">
+                  <div class="header-week">
+                    <b>Week 2</b>
+                  </div>
+                  <div class="header-title">
+                    Loops and Conditional Statements
+                  </div>
+                </div>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Notes
+                </div>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/conditional_statements/conditional_statements">
+                  Conditional Statements
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/loops/loops">
+                  Loops
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Exercises
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1362112/56f6a7f89db24be9d331ad53859f59e0">
+                  Warmup: Stairs
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1362512/4098a864ec41822f43d912a298e46904">
+                  Big Field
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1357156/2474a8c030a6f7bd5970bf0a4decdb96">
+                  Dança do Quadrado
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1310899/dbc2970a6f7c445de841e7a7ddf31ce0">
+                  Rogue Fruit
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1367695/4b563c97ff52fc1dda6dc49079b2d866">
+                  Two Rows
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1362511/df26edf750bb6510195399e89840c8fa">
+                  Land's End
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1367694/556f8955570c9c3ca655c3ffe663cb8a">
+                  Face North
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Projects
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1300373/0ac93fcba405151f49c06aba0ed2e360">
+                  Pick Up All The Fruits!
+                </a>
+              </div>
+              <div class="details-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_two_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+            <div class="syllabus-figures">
+              <div class="syllabus-preview">
+                <img class="syllabus-preview-image" src="https://geoffreyangus.github.io/CS106R/assets/res/week2_preview.png">
+                </img>
+                <div class="syllabus-preview-caption">
+                  This week we'll introduce you to loops and conditional statements- essential components of computer science that allow us to write truly powerful programs. This week, PyBot's world is going to become a lot more interesting.
+                  <br>
+                  <br>
+                  <b>
+                    Important links:
+                  </b>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://piazza.com/grupo_educacional_bom_jesus/summer2018/cs106r">
+                    Piazza (Sign Up)
+                  </a>
+                  <br>
+                  - <a target="_blank" href="https://goo.gl/forms/nfnXGiq5VzwWuEOC2">Attendance (Week 2)</a>
+                  <br>
+                  - 
+                  <a target="_blank" href="https://repl.it/student_embed/assignment/1325316/1fcca1cf162c7562899697b9f55316a5">
+                    Challenge: Midpoint PyBot (Optional)
+                  </a>
+                  <br>
+                  <br>
+                  <b>
+                    Learning Objectives
+                  </b>
+                  <br>
+                  1.) Conditional Statements<br>
+                  2.) "For" Loops<br>
+                  3.) "While" Loops<br>
+                  
+                </div>
+              </div>
+              <div class="figures-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_two_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="syllabus-week-wrapper">
+        <div class="syllabus-week">      
+          <div class="syllabus-body">
+            <div class="syllabus-details">
+              <div class="syllabus-header">
+                <div class="syllabus-header-title">
+                  <div class="header-week">
+                    <b>Week 1</b>
+                  </div>
+                  <div class="header-title">
+                    Functions
+                  </div>
+                </div>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Notes
+                </div>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/intro_cs/intro_cs">
+                  Introduction to Computer Science
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/intro_python/intro_python">
+                  Introduction to Python
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/pybot/pybot">
+                  PyBot
+                </a>
+                <a class="syllabus-details-link syllabus-notes" href="https://geoffreyangus.github.io/CS106R/notes/simple_functions/simple_functions">
+                  Simple Functions
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Exercises
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1331620/25866db1b3373f24a9aeb214f59a7162">
+                  Print Name
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1310905/277b5035a363cda051dd6cbcec3666a8">
+                  Harvest Your First Fruit!
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1314054/fa91cdc1980f08650bb8c261abbae01d">
+                  Turn Left Function
+                </a>
+              </div>
+              <div class="syllabus-details-section">
+                <div class="syllabus-details-title">
+                  Projects
+                </div>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1334833/2330c90d741eb0d18c7b85e45a4cd748">
+                  Introducing You
+                </a>
+                <a target="_blank" class="syllabus-details-link syllabus-assignments" href="https://repl.it/student_embed/assignment/1337734/a6fc276faa295ae97fca1eebacf609f6">
+                  Pick Corners
+                </a>
+              </div>
+              <div class="details-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_one_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+            <div class="syllabus-figures">
+              <div class="syllabus-preview">
+                <img class="syllabus-preview-image" src="https://geoffreyangus.github.io/CS106R/assets/res/week1_preview.png">
+                </img>
+                <div class="syllabus-preview-caption">
+                  This week we'll introduce you to Python. We will present to you to PyBot, the orange-loving robot, and the functions that control it. By the end of class,  
+                  you will be writing your first programs.
+                  <br>
+                  <br>
+                  <b>
+                    Important links:
+                  </b>
+                  <br>
+                  - <a target="_blank" href="https://repl.it/classroom/invite/WDJh1h8">Repl.it (Sign Up)</a>
+                  <br>
+                  - <a target="_blank" href="https://goo.gl/forms/hR1IXgPfDQXeDUcd2">Contact Information</a>
+                  <br>
+                  <br>
+                  <b>
+                    Learning Objectives
+                  </b>
+                  <br>
+                  1.) Familiarity with Python<br>
+                  2.) Function Calling<br>
+                  3.) Function Implementation<br>
+                  
+                </div>
+              </div>
+              <div class="figures-buttons">
+                <a target="_blank" class="syllabus-buttons-slides dark-button" href="https://geoffreyangus.github.io/CS106R/slides/week_one_pdf.pdf">
+                  Slides
+                </a>
+                <a target="_blank" class="syllabus-buttons-piazza dark-button" href="https://piazza.com/class/jk3yzulclwmk1">
+                  Q & A
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% else %}
+    <div id="nav-bar" class="nav-bar">
+        <a class="main-link" href="https://geoffreyangus.github.io/CS106R/#" class="btn"><div><b>CS</b>106R</div></a>
+        <a href="https://geoffreyangus.github.io/CS106R/logistics" class="btn">Logistics</a> 
+        <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">About</a>
+        <a target="_blank" href="https://repl.it/logout" class="btn">Login</a>
+    </div>
+
+
+    {% endif %}
+
+    {% if page.url contains'/notes/' %}
+      <!-- SIDEBAR FORMAT TEMPLATE  -->
+      {% if page.url contains 'simple_functions' %}
+        <div class="notes-sidebar">
+          <div class="sidebar-title">
+            Contents
+          </div>
+          <a class="sidebar-section" href="#syntax-breakdown">
+            <div class="section-title">
+             Syntax Breakdown
+            </div>
+            <div class="section-caption">
+              In order to understand the way functions work, we are going to break them down to their simplest components...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#calling-functions">
+            <div class="section-title">
+              Calling Functions
+            </div>
+            <div class="section-caption">
+              To call a function is to use a function. Functions can call other functions. In fact, this is the way that most functions are used...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#function-implementation">
+            <div class="section-title">
+              Function Implementation
+            </div>
+            <div class="section-caption">
+              Writing a function is not so difficult. For now, it is the simple act of coming up with a function name and writing the function body...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#decomposition">
+            <div class="section-title">
+              Decomposition
+            </div>
+            <div class="section-caption">
+              It keeps small programs readable, and large programs from spiraling out of control...
+            </div>
+          </a>
+        </div>
+
+      {% elsif page.url contains 'variables' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#introduction-to-objects-and-variables">
+              <div class="section-title">
+                An Introduction to Objects and Variables
+              </div>
+              <div class="section-caption">
+                You can think of objects as parts of computer memory dedicated to holding information for a program. Sometimes we can use objects independent of names; however, the majority of the time we will assign objects labels. These labels are called Variables...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#integers">
+              <div class="section-title">
+                Integers
+              </div>
+              <div class="section-caption">
+                Integers, or “ints,” are quite simple. You can do most simple mathematical operations with Integers and keep track of things like the number of times you have done something, distance, or quantity...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#floats">
+                <div class="section-title">
+                  Floats
+                </div>
+                <div class="section-caption">
+                  Floats are like Super-Integers. They can have decimal values, which means that they are much better to use in mathematical calculations than floats...
+                </div>
+              </a>
+
+            <a class="sidebar-section" href="#strings">
+              <div class="section-title">
+                Strings 
+              </div>
+              <div class="section-caption">
+                Use strings whenever you want to store text information in a variable. Because of this, strings are almost never used in math; however, there are many other tasks for which strings are useful...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#bools">
+              <div class="section-title">
+                Bools 
+              </div>
+              <div class="section-caption">
+                You have seen booleans before. Remember has_fruit() and front_is_blocked()? Those were both functions that were either True or False - bools...
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains 'objects' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#introduction">
+              <div class="section-title">
+                Introduction
+              </div>
+              <div class="section-caption">
+                This week, you are going to learn about more complex objects. These are objects capable of keeping track of more than one piece of information...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#integers">
+              <div class="section-title">
+                The Vending Machine Metaphor
+              </div>
+              <div class="section-caption">
+                Think about vending machines. As an idea, they are all vending machines. But in real life, they are all unique vending machines, each with different prices and food choices....
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains 'operators' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#logical-operators">
+              <div class="section-title">
+                Logical Operators
+              </div>
+              <div class="section-caption">
+                Logical operators are the foundation of conditional statements. They allow us to combine boolean values (True and False) in interesting ways. Let’s quickly go over the usage of each of these operators...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#relational-operators">
+              <div class="section-title">
+                Relational Operators
+              </div>
+              <div class="section-caption">
+                Relational operators allow us to compare two expressions. The result of a relational operator is always a `True` or `False` value, just like logical operators.
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#arithmetic-operators">
+              <div class="section-title">
+                Arithmetic Operators
+              </div>
+              <div class="section-caption">
+                These operators change the values of floats and integers. Most of them are the operators you know and love. They come from math, and follow basically all of the rules you have already learned in school.
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#variable-casting">
+              <div class="section-title">
+                Variable Casting 
+              </div>
+              <div class="section-caption">
+                Casting allows us to force the program to behave as we want it to...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#order-of-operations">
+              <div class="section-title">
+                Order of Operations 
+              </div>
+              <div class="section-caption">
+                Remember in math, when you learned that you multiplied numbers before adding them together? This is known as the _ordem de operações_, or _order of operations_.
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains 'advanced_functions_1' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#passing-parameters">
+              <div class="section-title">
+                Passing Parameters
+              </div>
+              <div class="section-caption">
+                We pass parameters to functions in order to specify what we want them to do. All we have to do in order to pass a parameter to a function is put a value in between its parentheses when we call the function...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#returning-values">
+              <div class="section-title">
+                Returning Values
+              </div>
+              <div class="section-caption">
+                We said that these functions could give us `True` or `False` responses to questions. In actuality, these functions **returned** values in order to communicate results...
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains 'advanced_functions_2' %}
+        <div class="notes-sidebar">
+          <div class="sidebar-title">
+            Contents
+          </div>
+          <a class="sidebar-section" href="#review">
+            <div class="section-title">
+              Review
+            </div>
+            <div class="section-caption">
+              Some functions require more information in order to do what they are supposed to do. We can pass this information into functions using objects...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#defining-functions">
+            <div class="section-title">
+              Defining Functions
+            </div>
+            <div class="section-caption">
+              The first lesson of this course was to write functions to make our code short, easy to read, and easy to fix...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#syntax">
+            <div class="section-title">
+              Syntax
+            </div>
+            <div class="section-caption">
+              When you want to call your newly defined functions, the most important thing to remember is to pass in the right number of parameters in the correct order...
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#examples">
+            <div class="section-title">
+              Examples
+            </div>
+            <div class="section-caption">
+              Of course, as we have said in lecture, this is the kind of stuff that is best learned through the analysis of many, many examples...
+            </div>
+          </a>
+        </div> 
+
+      {% elsif page.url contains 'conditional_statements' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#if-statements">
+              <div class="section-title">
+                If Statements
+              </div>
+              <div class="section-caption">
+                In order to understand the way functions work, we are going to break them down to their simplest components...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#inverting">
+              <div class="section-title">
+                not – Inverting Conditions 
+              </div>
+              <div class="section-caption">
+                To call a function is to use a function...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#else-elif">
+              <div class="section-title">
+                else and elsif
+              </div>
+              <div class="section-caption">
+                Writing a function is not so difficult. For now, it is the simple act of coming up with a function name and writing the function body...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#nesting">
+                <div class="section-title">
+                  Combining Conditions 
+                </div>
+                <div class="section-caption">
+                  It keeps small programs readable, and large programs from spiraling out of control...
+                </div>
+              </a>
+
+            <a class="sidebar-section" href="#combining-conditions">
+              <div class="section-title">
+                Combining Conditions 
+              </div>
+              <div class="section-caption">
+                It keeps small programs readable, and large programs from spiraling out of control...
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains '/intro_cs' %}
+
+        <div class="notes-sidebar">
+          <div class="sidebar-title">
+            Contents
+          </div>
+          <a class="sidebar-section" href="#computer-science">
+            <div class="section-title">
+              What is Computer Science?
+            </div>
+            <div class="section-caption">
+              When you hear the words “computer science”, what comes to mind? Do you think of computer programming – neon text on a black screen? Do you think of algorithms and equations scribbled on a whiteboard?
+            </div>
+          </a>
+
+          <a class="sidebar-section" href="#computer-programming">
+            <div class="section-title">
+              What is a Computer and What is Computer Programming? 
+            </div>
+            <div class="section-caption">
+              In everyday speech, the word computer usually refers to laptops and desktops, like the one you’re reading these notes on. However, in reality, a computer is a much more general concept and most computers hardly resemble laptops. 
+            </div>
+          </a>
+        </div> 
+
+      {% elsif page.url contains '/loops' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#for-loop">
+              <div class="section-title">
+                For Loops
+              </div>
+              <div class="section-caption">
+                It is a segment of code that runs for a specified number of iterations...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#while-loop">
+              <div class="section-title">
+                While Loops
+              </div>
+              <div class="section-caption">
+                In programs where you don't know how many iterations are going to be necessary, we use what are called while loops...
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#infinite-loop">
+              <div class="section-title">
+                The "Infinite" Loop 
+              </div>
+              <div class="section-caption">
+                There are times when you may want to make a while loop run forever; these are called infinite loops...
+              </div>
+            </a>
+        </div>
+      
+      {% elsif page.url contains 'intro_python' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#replit">
+              <div class="section-title">
+                Coding with repl.it
+              </div>
+              <div class="section-caption">
+                Throughout the course we are going to be coding on a site called Replit. 
+                This section introduces you the Replit coding environment and walks you through the 
+                process of writing and running programs. 
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#first-program">
+                <div class="section-title">
+                  First Python Program 
+                </div>
+                <div class="section-caption">
+                  Learn how to program Python to print out text using the print function. 
+                  See your first Python program! 
+                  
+                </div>
+            </a>
+
+            <a class="sidebar-section" href="#exc-intro-python">
+              <div class="section-title">
+                Exercise: Print Name  
+              </div>
+              <div class="section-caption">
+                In this exercise, you'll program Python to print out your name, and get a chance to try out
+                the replit  
+              </div>
+            </a>
+        </div> 
+
+      {% elsif page.url contains 'pybot' %}
+        <div class="notes-sidebar">
+            <div class="sidebar-title">
+              Contents
+            </div>
+            <a class="sidebar-section" href="#intro-pybot">
+              <div class="section-title">
+                Introducing PyBot 
+              </div>
+              <div class="section-caption">
+                PyBot is a simple, virtual robot that we can program in Python. 
+                We created PyBot to teach fundamental computer science principles.
+                Meet PyBot here!
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#pycountry-fields">
+                <div class="section-title">
+                  PyCountry Fields 
+                </div>
+                <div class="section-caption">
+                  PyBot lives in orange fields in the virtual land of PyCountry. 
+                  She harvests the oranges in PyCountry's fields.  
+                </div>
+            </a>
+
+            <a class="sidebar-section" href="#pybot">
+              <div class="section-title">
+                Pybot Capabilities
+              </div>
+              <div class="section-caption">
+                PyBot was built to perform a few actions: she can move around, rotate, and pick fruit. 
+                She can also answer simple True or False questions about herself and her environnment. 
+                Learn what PyBot is capable of. 
+              </div>
+            </a>
+
+            <a class="sidebar-section" href="#pybot-action-fn">
+                <div class="section-title">
+                  Pybot Action Functions 
+                </div>
+                <div class="section-caption">
+                    We outline the functions we can call to make PyBot take actions: move(), turn_right() and pick_fruit(). 
+                </div>
+            </a>
+
+            <a class="sidebar-section" href="#pybot-conditional-fn">
+                <div class="section-title">
+                  Pybot Conditional Functions 
+                </div>
+                <div class="section-caption">
+                    PyBot is also able to answer a few yes or no questions about her condition. 
+                    We can ask PyBot these questions by writing the following functions in our code.
+                </div>
+            </a>
+
+            <a class="sidebar-section" href="#writing-pybot">
+                <div class="section-title">
+                  Writing PyBot Programs
+                </div>
+                <div class="section-caption">
+                    Let's write our first PyBot program by calling the PyBot functions we learned 
+                    in the previous sections. 
+                </div>
+            </a>
+            
+            <a class="sidebar-section" href="#exc-first-fruit">
+                <div class="section-title">
+                  Exercise: First Fruit
+                </div>
+                <div class="section-caption">
+                  Write our first PyBot program in this exercise! 
+                </div>
+            </a>
+        </div> 
+      {% endif %}
+
+      <h1 class="page-name notes-name">{{ page.title | default: site.github.repository_name }}</h1>
+      <main id="content" class="main-content notes-body" role="main">
+
+    {% elsif page.url != '/' %}
+      <h1 class="page-name">{{ page.title | default: site.github.repository_name }}</h1>
+      <main id="content" class="main-content" role="main">
+
+    {% else %}
+      <main id="content" class="main-content" role="main">
+
+    {% endif %}
+
+      {{ content }}
+
+    </main>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>

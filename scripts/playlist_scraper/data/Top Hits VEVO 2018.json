@@ -1,0 +1,656 @@
+[
+  {
+    "title": "Propaganda",
+    "artist": "Jorge & Mateus",
+    "time": "2:20",
+    "link": "www.youtube.com/watch?v=mQr7XemLs8s"
+  },
+  {
+    "title": "Vai Malandra",
+    "artist": "Anitta, Mc Zaac, Maejor ft. Tropkillaz & DJ Yuri Martins",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=kDhptBT_-VI"
+  },
+  {
+    "title": "Ensina-Me",
+    "artist": "Gabriel Brito",
+    "time": "2:30",
+    "link": "www.youtube.com/watch?v=646zLHBB54E"
+  },
+  {
+    "title": "Rabiola",
+    "artist": "MC Kevinho",
+    "time": "3:12",
+    "link": "www.youtube.com/watch?v=tXFyeIjwQUw"
+  },
+  {
+    "title": "Pesadão",
+    "artist": "IZA",
+    "time": "3:21",
+    "link": "www.youtube.com/watch?v=g8psa0UBZKA"
+  },
+  {
+    "title": "Faz um Novo Eu",
+    "artist": "Gabriel Brito",
+    "time": "3:39",
+    "link": "www.youtube.com/watch?v=S5AGBNqj8lM"
+  },
+  {
+    "title": "Downtown",
+    "artist": "Anitta & J Balvin",
+    "time": "3:20",
+    "link": "www.youtube.com/watch?v=wlS6Ix7mA0w"
+  },
+  {
+    "title": "Me Atraiu",
+    "artist": "Gabriel Brito",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=tZ1XDMxLbBo"
+  },
+  {
+    "title": "K.O.",
+    "artist": "Pabllo Vittar",
+    "time": "2:48",
+    "link": "www.youtube.com/watch?v=3L5D8by1AtI"
+  },
+  {
+    "title": "Mel de Marte Part. Maiara e Maraisa",
+    "artist": "Gustavo Mioto",
+    "time": "3:13",
+    "link": "www.youtube.com/watch?v=9NwM-rbFrQw"
+  },
+  {
+    "title": "Meu Abrigo",
+    "artist": "Melim",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=gUpGTRR4Tt4"
+  },
+  {
+    "title": "MAQUIAGEM NÃO DISFARÇA - DVD O Céu Explica Tudo",
+    "artist": "Henrique e Juliano",
+    "time": "2:49",
+    "link": "www.youtube.com/watch?v=-YrF9RubtO8"
+  },
+  {
+    "title": "Turbulência ft. Nego do Borel",
+    "artist": "Gabi Martins",
+    "time": "3:24",
+    "link": "www.youtube.com/watch?v=ObAgfMJ6DYk"
+  },
+  {
+    "title": "Coração de Muleta",
+    "artist": "Naiara Azevedo",
+    "time": "2:55",
+    "link": "www.youtube.com/watch?v=L-J14P3jG0o"
+  },
+  {
+    "title": "Era Uma Vez",
+    "artist": "Kell Smith",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=xJNKT9HAXRc"
+  },
+  {
+    "title": "Nível de Carência",
+    "artist": "Naiara Azevedo",
+    "time": "3:16",
+    "link": "www.youtube.com/watch?v=I7DPOKIisWY"
+  },
+  {
+    "title": "FAZ DO SEU JEITO - DVD O Céu Explica Tudo",
+    "artist": "Henrique e Juliano",
+    "time": "2:33",
+    "link": "www.youtube.com/watch?v=kJ5j8lbZ72E"
+  },
+  {
+    "title": "Will I See You",
+    "artist": "Poo Bear feat. Anitta",
+    "time": "3:35",
+    "link": "www.youtube.com/watch?v=eYF8tR1Zzu4"
+  },
+  {
+    "title": "Sonhei Que Tava Me Casando",
+    "artist": "Wesley Safadão",
+    "time": "3:14",
+    "link": "www.youtube.com/watch?v=5FHkTfpU678"
+  },
+  {
+    "title": "Dona Maria",
+    "artist": "Thiago Brava Ft. Jorge",
+    "time": "3:16",
+    "link": "www.youtube.com/watch?v=qaPDDTLkB2U"
+  },
+  {
+    "title": "Mantendo Distância",
+    "artist": "Naiara Azevedo",
+    "time": "2:52",
+    "link": "www.youtube.com/watch?v=NnFKEjFzLKI"
+  },
+  {
+    "title": "Sua Cara",
+    "artist": "Major Lazer",
+    "time": "2:47",
+    "link": "www.youtube.com/watch?v=omzk3klIy0E"
+  },
+  {
+    "title": "Bom Rapaz ft. Jorge & Mateus",
+    "artist": "Fernando & Sorocaba",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=XzC-DqfiHiY"
+  },
+  {
+    "title": "Paradinha",
+    "artist": "Anitta",
+    "time": "2:26",
+    "link": "www.youtube.com/watch?v=-73pafJ9RFg"
+  },
+  {
+    "title": "AQUELA PESSOA - DVD O Céu Explica Tudo",
+    "artist": "Henrique e Juliano",
+    "time": "2:44",
+    "link": "www.youtube.com/watch?v=a5vH9f0lHZg"
+  },
+  {
+    "title": "De Quem É A Culpa? - DVD Realidade",
+    "artist": "Marília Mendonça",
+    "time": "3:30",
+    "link": "www.youtube.com/watch?v=5hnSlCygsTs"
+  },
+  {
+    "title": "Cê Acredita -",
+    "artist": "João Neto e Frederico",
+    "time": "2:52",
+    "link": "www.youtube.com/watch?v=gLWLpneah-k"
+  },
+  {
+    "title": "Você Partiu Meu Coração ft. Anitta, Wesley Safadão",
+    "artist": "Nego do Borel",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=Xp-dKdSUuLk"
+  },
+  {
+    "title": "Nessas Horas - Na Praia 2 / Ao Vivo",
+    "artist": "Matheus & Kauan",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=tyJ-VnB8X20"
+  },
+  {
+    "title": "Esqueci Como Namora ft. Maiara & Maraisa",
+    "artist": "Nego do Borel",
+    "time": "3:19",
+    "link": "www.youtube.com/watch?v=jAdly4M780M"
+  },
+  {
+    "title": "Piquenique",
+    "artist": "Dilsinho",
+    "time": "3:36",
+    "link": "www.youtube.com/watch?v=KeYAgJgS8OQ"
+  },
+  {
+    "title": "Terapinga",
+    "artist": "Fernando & Sorocaba",
+    "time": "2:59",
+    "link": "www.youtube.com/watch?v=6dx5ip08_6E"
+  },
+  {
+    "title": "Não Deixo Não",
+    "artist": "Mano Walter",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=htrlDVrF4vw"
+  },
+  {
+    "title": "Hear Me Now",
+    "artist": "Alok, Bruno Martini feat. Zeeba",
+    "time": "4:25",
+    "link": "www.youtube.com/watch?v=JVpTp8IHdEg"
+  },
+  {
+    "title": "Trem-Bala",
+    "artist": "Ana Vilela",
+    "time": "3:01",
+    "link": "www.youtube.com/watch?v=sWhy1VcvvgY"
+  },
+  {
+    "title": "Eu Era",
+    "artist": "Marcos e Belutti",
+    "time": "3:29",
+    "link": "www.youtube.com/watch?v=AiKgpTaBwFk"
+  },
+  {
+    "title": "Fica ft. Matheus & Kauan",
+    "artist": "ANAVITÓRIA",
+    "time": "3:08",
+    "link": "www.youtube.com/watch?v=-QdZ2VtOkhc"
+  },
+  {
+    "title": "Regime Fechado",
+    "artist": "Simone & Simaria",
+    "time": "4:27",
+    "link": "www.youtube.com/watch?v=wn_7FY82uP0"
+  },
+  {
+    "title": "Avisa Que eu Cheguei part. Ivete Sangalo",
+    "artist": "Naiara Azevedo",
+    "time": "2:56",
+    "link": "www.youtube.com/watch?v=Ke-w7E9ZGAo"
+  },
+  {
+    "title": "Cheguei Pra Te Amar ft. MC Livinho",
+    "artist": "Ivete Sangalo",
+    "time": "3:22",
+    "link": "www.youtube.com/watch?v=Yb2GwmmLgtw"
+  },
+  {
+    "title": "Hi -",
+    "artist": "Léo Magalhães",
+    "time": "3:02",
+    "link": "www.youtube.com/watch?v=mWfWyhzC22U"
+  },
+  {
+    "title": "Aham",
+    "artist": "Nicolas Germano",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=Li7AiWejlzQ"
+  },
+  {
+    "title": "Nosso Nó",
+    "artist": "Sandy",
+    "time": "4:04",
+    "link": "www.youtube.com/watch?v=dwnDZpJsWmE"
+  },
+  {
+    "title": "Alô Dono do Bar",
+    "artist": "Wesley Safadão e Devinho Novaes",
+    "time": "3:38",
+    "link": "www.youtube.com/watch?v=eIepYA3PaIo"
+  },
+  {
+    "title": "Saudade Amarga",
+    "artist": "Aviões",
+    "time": "3:43",
+    "link": "www.youtube.com/watch?v=vSKr1oX35fU"
+  },
+  {
+    "title": "Distanciou",
+    "artist": "Thiago Brava",
+    "time": "3:08",
+    "link": "www.youtube.com/watch?v=-PsU7XyUAdw"
+  },
+  {
+    "title": "Clipe Oficial",
+    "artist": "Maiara e Maraisa – Bengala e Crochê",
+    "time": "3:22",
+    "link": "www.youtube.com/watch?v=FMmbG3zjwnM"
+  },
+  {
+    "title": "Loka ft. Anitta",
+    "artist": "Simone & Simaria",
+    "time": "3:37",
+    "link": "www.youtube.com/watch?v=UrT0zCmsN8c"
+  },
+  {
+    "title": "Amante Não Tem Lar - DVD Realidade",
+    "artist": "Marília Mendonça",
+    "time": "3:03",
+    "link": "www.youtube.com/watch?v=OT7PpQEz7rc"
+  },
+  {
+    "title": "Fiquei Só",
+    "artist": "MC Davi",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=r8nvvwg20Xc"
+  },
+  {
+    "title": "VIDINHA DE BALADA - DVD O Céu Explica Tudo",
+    "artist": "Henrique e Juliano",
+    "time": "3:06",
+    "link": "www.youtube.com/watch?v=PnAMEe0GGG8"
+  },
+  {
+    "title": "Cópia Mal Feita",
+    "artist": "Bruno & Barretto",
+    "time": "3:16",
+    "link": "www.youtube.com/watch?v=W3BGJEA7b80"
+  },
+  {
+    "title": "Nossa Que Absurdo",
+    "artist": "Jerry Smith & MC Nando DK",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=gav8beZMPEk"
+  },
+  {
+    "title": "Raspão ft. Simone & Simaria",
+    "artist": "Henrique & Diego",
+    "time": "3:12",
+    "link": "www.youtube.com/watch?v=ReHyj-ATKgc"
+  },
+  {
+    "title": "Amor da sua cama",
+    "artist": "Felipe Araújo",
+    "time": "3:06",
+    "link": "www.youtube.com/watch?v=cJLWXb7J9i8"
+  },
+  {
+    "title": "Se é pra Gente Ficar ft. Wesley Safadão",
+    "artist": "Solange Almeida",
+    "time": "3:12",
+    "link": "www.youtube.com/watch?v=BivIocrfMFc"
+  },
+  {
+    "title": "Não Chora",
+    "artist": "MC Rodolfinho",
+    "time": "3:42",
+    "link": "www.youtube.com/watch?v=1QX1xP24kpU"
+  },
+  {
+    "title": "VEM PRA MINHA VIDA - DVD O Céu Explica Tudo",
+    "artist": "Henrique e Juliano",
+    "time": "3:15",
+    "link": "www.youtube.com/watch?v=r73ANL4ecnE"
+  },
+  {
+    "title": "Permanecer feat. MC G15 #BaseadoEmSorrisosReais",
+    "artist": "Lucas Lucco",
+    "time": "4:17",
+    "link": "www.youtube.com/watch?v=mwX4_ws1Jc4"
+  },
+  {
+    "title": "Bum Bum Do Mal",
+    "artist": "Márcia Fellipe",
+    "time": "2:46",
+    "link": "www.youtube.com/watch?v=7x9nOFMv5RA"
+  },
+  {
+    "title": "Tô Sensacional",
+    "artist": "Márcia Fellipe",
+    "time": "2:26",
+    "link": "www.youtube.com/watch?v=GkLEotE88o0"
+  },
+  {
+    "title": "Aqui Ô Pro Meu Ex",
+    "artist": "Márcia Fellipe",
+    "time": "1:43",
+    "link": "www.youtube.com/watch?v=G_89GxmUQ3w"
+  },
+  {
+    "title": "Olha o Que o Amor Me Faz",
+    "artist": "Dilsinho",
+    "time": "3:44",
+    "link": "www.youtube.com/watch?v=J059mhTot2o"
+  },
+  {
+    "title": "Aquele Ex",
+    "artist": "Fernando & Sorocaba",
+    "time": "4:35",
+    "link": "www.youtube.com/watch?v=kB6RToExsZE"
+  },
+  {
+    "title": "Falsidade",
+    "artist": "Dilsinho",
+    "time": "3:06",
+    "link": "www.youtube.com/watch?v=EHMgZThXNZQ"
+  },
+  {
+    "title": "Presente do Destino / Se Prepara",
+    "artist": "Dilsinho",
+    "time": "6:24",
+    "link": "www.youtube.com/watch?v=0vNurVNxZkw"
+  },
+  {
+    "title": "Se Tiver Coragem",
+    "artist": "Paula Mattos",
+    "time": "3:07",
+    "link": "www.youtube.com/watch?v=miuR13k8mpY"
+  },
+  {
+    "title": "Corona",
+    "artist": "Jonas Esticado",
+    "time": "2:10",
+    "link": "www.youtube.com/watch?v=m1hKsW-xxRo"
+  },
+  {
+    "title": "O Mundo Precisa de Amor ft. Padre Fábio de Melo",
+    "artist": "Solange Almeida",
+    "time": "5:01",
+    "link": "www.youtube.com/watch?v=6xLwuEiLgBU"
+  },
+  {
+    "title": "Coisas Que Só Você Faz",
+    "artist": "Diego Cruz",
+    "time": "4:20",
+    "link": "www.youtube.com/watch?v=XEiEMdf2u4M"
+  },
+  {
+    "title": "Coladinha em mim Part. Anitta",
+    "artist": "Gustavo Mioto",
+    "time": "2:50",
+    "link": "www.youtube.com/watch?v=e5Ct8ZW_rcs"
+  },
+  {
+    "title": "Estado Independente feat. Lucas Lucco",
+    "artist": "Edu Chociay",
+    "time": "3:54",
+    "link": "www.youtube.com/watch?v=TgRDDgAn7E4"
+  },
+  {
+    "title": "Jeito Safado Part. Márcia Fellipe",
+    "artist": "Wesley Safadão",
+    "time": "3:25",
+    "link": "www.youtube.com/watch?v=PL3JcF0kafk"
+  },
+  {
+    "title": "Bagunçar Lençol",
+    "artist": "Solange Almeida",
+    "time": "3:24",
+    "link": "www.youtube.com/watch?v=CEepWGIY6AA"
+  },
+  {
+    "title": "Refém",
+    "artist": "Dilsinho",
+    "time": "3:50",
+    "link": "www.youtube.com/watch?v=1CfTfUVM0Es"
+  },
+  {
+    "title": "O Cara Certo",
+    "artist": "Dilsinho",
+    "time": "3:17",
+    "link": "www.youtube.com/watch?v=PH3tue89PTg"
+  },
+  {
+    "title": "Se Quiser",
+    "artist": "Dilsinho",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=yvlMj2ilfdU"
+  },
+  {
+    "title": "Segura Seu BO ft. Rashid",
+    "artist": "Projota",
+    "time": "3:32",
+    "link": "www.youtube.com/watch?v=ziTsqu7ObEE"
+  },
+  {
+    "title": "Mesa 30",
+    "artist": "Fernando & Sorocaba",
+    "time": "2:51",
+    "link": "www.youtube.com/watch?v=1bYSd_s1zFc"
+  },
+  {
+    "title": "Tamanho PPP",
+    "artist": "Dilsinho",
+    "time": "3:02",
+    "link": "www.youtube.com/watch?v=2Mhz7Km55W4"
+  },
+  {
+    "title": "Faça a Sua Aposta",
+    "artist": "Dilsinho",
+    "time": "3:23",
+    "link": "www.youtube.com/watch?v=JRzeykDdC1A"
+  },
+  {
+    "title": "Meu Coração Está Amando",
+    "artist": "Gustavo Mioto",
+    "time": "3:11",
+    "link": "www.youtube.com/watch?v=DYvP6is9Sz8"
+  },
+  {
+    "title": "Apelido Carinhoso - DVD Buteco do Gusttavo Lima 2",
+    "artist": "Gusttavo Lima",
+    "time": "3:22",
+    "link": "www.youtube.com/watch?v=B9Mi1-qn_PQ"
+  },
+  {
+    "title": "Haja Cachaça",
+    "artist": "Jonas Esticado",
+    "time": "2:53",
+    "link": "www.youtube.com/watch?v=H_kzPx7cNiU"
+  },
+  {
+    "title": "Claudia Leitte feat. Maiara & Maraisa",
+    "artist": "Lyric video: Lacradora",
+    "time": "3:17",
+    "link": "www.youtube.com/watch?v=_mjawTOm2PI"
+  },
+  {
+    "title": "Contatinho ft. Luan Santana",
+    "artist": "Nego do Borel",
+    "time": "3:03",
+    "link": "www.youtube.com/watch?v=3esupcR4tCU"
+  },
+  {
+    "title": "Tribo das Danadas",
+    "artist": "MC Zaac e Jerry Smith",
+    "time": "2:21",
+    "link": "www.youtube.com/watch?v=_jADzY6hQX0"
+  },
+  {
+    "title": "Dez a Zero",
+    "artist": "Paula Mattos",
+    "time": "2:49",
+    "link": "www.youtube.com/watch?v=fabNYxR2FYg"
+  },
+  {
+    "title": "Madrid ft. Chris Weaver",
+    "artist": "Fernando & Sorocaba",
+    "time": "4:55",
+    "link": "www.youtube.com/watch?v=KjheevvQsJs"
+  },
+  {
+    "title": "O Sacrifício",
+    "artist": "Preto no Branco",
+    "time": "5:50",
+    "link": "www.youtube.com/watch?v=-iT4cQqVvts"
+  },
+  {
+    "title": "Prédios Vazios",
+    "artist": "Sorriso Maroto",
+    "time": "3:27",
+    "link": "www.youtube.com/watch?v=VBECoMsCPFY"
+  },
+  {
+    "title": "All-Star Brasil , Lucas Lucco , Pollo",
+    "artist": "After Particular",
+    "time": "4:47",
+    "link": "www.youtube.com/watch?v=cutgvBGDSqw"
+  },
+  {
+    "title": "O Que Não Derruba Fortalece",
+    "artist": "Paula Mattos",
+    "time": "4:14",
+    "link": "www.youtube.com/watch?v=XN7e_vReTz0"
+  },
+  {
+    "title": "Parabéns Pro Nosso Amor - DVD Buteco do Gusttavo Lima 2",
+    "artist": "Gusttavo Lima",
+    "time": "4:00",
+    "link": "www.youtube.com/watch?v=ZANUny1DOf0"
+  },
+  {
+    "title": "Mil Vezes Cantarei - DVD Buteco do Gusttavo Lima 2",
+    "artist": "Gusttavo Lima",
+    "time": "4:51",
+    "link": "www.youtube.com/watch?v=PzrxQMFHxIk"
+  },
+  {
+    "title": "Que Tiro Foi Esse",
+    "artist": "Jojo Maronttinni",
+    "time": "4:05",
+    "link": "www.youtube.com/watch?v=Qw4uBk7DOa8"
+  },
+  {
+    "title": "#Baladeira ft. Maiara & Maraisa",
+    "artist": "Diego & Victor Hugo",
+    "time": "3:07",
+    "link": "www.youtube.com/watch?v=uDjNDZyDN54"
+  },
+  {
+    "title": "Página De Amigos ft. Marilia Mendonça",
+    "artist": "Chitãozinho & Xororó",
+    "time": "3:46",
+    "link": "www.youtube.com/watch?v=Etvt6Cme8u0"
+  },
+  {
+    "title": "Paga De Solteiro Feliz ft. Alok",
+    "artist": "Simone & Simaria",
+    "time": "3:02",
+    "link": "www.youtube.com/watch?v=oephH5-3Q_k"
+  },
+  {
+    "title": "Câmera Lenta",
+    "artist": "Gustavo Mioto",
+    "time": "2:58",
+    "link": "www.youtube.com/watch?v=cOScXq5jehA"
+  },
+  {
+    "title": "Paraíso",
+    "artist": "Lucas Lucco e Pabllo Vittar",
+    "time": "2:39",
+    "link": "www.youtube.com/watch?v=QLlZqHSWj_I"
+  },
+  {
+    "title": "Tudo Tem Saída/Na Cama/O Nosso Bonde É Terrível",
+    "artist": "Sorriso Maroto",
+    "time": "6:17",
+    "link": "www.youtube.com/watch?v=9lyerOoZzeM"
+  },
+  {
+    "title": "Ainda Bem",
+    "artist": "Jonas Esticado",
+    "time": "3:12",
+    "link": "www.youtube.com/watch?v=vjdC_tRbPFg"
+  },
+  {
+    "title": "Que Sofrimento É Esse - DVD Buteco do Gusttavo Lima 2",
+    "artist": "Gusttavo Lima",
+    "time": "3:07",
+    "link": "www.youtube.com/watch?v=UID9_mttFVs"
+  },
+  {
+    "title": "Mina",
+    "artist": "Edu Chociay",
+    "time": "3:48",
+    "link": "www.youtube.com/watch?v=NkjERUqrQZw"
+  },
+  {
+    "title": "Contatinho ft. Luan Santana",
+    "artist": "Nego do Borel",
+    "time": "3:33",
+    "link": "www.youtube.com/watch?v=uy-lqgT2amU"
+  },
+  {
+    "title": "Zuzu - Paródia de Vai Malandra - Anitta",
+    "artist": "Vai Baranga",
+    "time": "3:56",
+    "link": "www.youtube.com/watch?v=M0A_VtkXxjY"
+  },
+  {
+    "title": "Nada Mais",
+    "artist": "Fernando Daniel",
+    "time": "3:06",
+    "link": "www.youtube.com/watch?v=jNAsJr8v1zk"
+  },
+  {
+    "title": "Me Atraiu",
+    "artist": "Gabriel Brito",
+    "time": "3:58",
+    "link": "www.youtube.com/watch?v=tZ1XDMxLbBo"
+  }
+]
