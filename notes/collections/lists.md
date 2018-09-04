@@ -23,8 +23,9 @@ shopping_list.add("Paçoca")
 for food in shopping_list:
     print(food) # prints "Guarana", "Bread", "Bread", "Paçoca"
 ```
+<a class="anchor-offset" id="thinking-about-lists" href="#thinking-about-lists"></a>
 
-## Thinking About Lists
+### Thinking About Lists
 
 Lists are like queues, or lines, you see in the real world when you go to the supermarket or to the movies. When something is added to a list, it goes to the end of the list. In addition, the items in the always stay in order. If something in the middle of a list is removed, the items behind it shuffle forward to fill the empty space.
 
@@ -39,7 +40,9 @@ You can find things in lists by verifying each object using its **index**.
 
 Indices are used to find things in lists. Much like we use numbers to differentiate between floors in a tall building, we can use numbers to access different items in lists.
 
-## Using Lists
+<a class="anchor-offset" id="using-lists" href="#using-lists"></a>
+
+### Using Lists
 
 In the prior set of notes, _Class Functions_, we explained that classes can have functions associated with them. These functions allow us to use or modify the objects stored inside the object itself. The implementation of List that we will be using in this class has a simple set of class functions. We will go over each of them in detail below.
 
@@ -81,6 +84,8 @@ watch_list.remove(1) # removes "Harry Potter"
 print(watch_list.get(0)) # prints "The Avengers"
 print(watch_list.get(1)) # prints "Star Wars"
 ```
+
+<a class="anchor-offset" id="lists-for-loops" href="#lists-for-loops"></a>
 
 ### Lists and For Loops
 
@@ -139,6 +144,8 @@ for i in range(countries.length):
 ```
 
 Crazy right?
+
+<a class="anchor-offset" id="documentation" href="#documentation"></a>
 
 ### The Documentation
 

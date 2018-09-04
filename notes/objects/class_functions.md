@@ -13,6 +13,8 @@ This week, we will be introducing another fundamental piece of complex objects: 
 
 These functions reside within complex objects, just like attributes. They allow us to make changes to or take advantage of the attributes of a specific complex object.
 
+<a class="anchor-offset" id="example" href="#example"></a>
+
 ### Example: The Bot Class
 
 Let us say that we have a `Bot` class, that allows us to build robots capable of buying and holding sodas. These `Bot` objects have 4 attributes: `name`, `age`, `charge`, and `num_sodas`. They as well have two class functions: `buy_sodas` and `is_holding_sodas`. Without getting into the specifics, let us take a look at the following piece of code:
@@ -37,6 +39,8 @@ print(sabri_bot.num_sodas)  # 0 sodas
 ```
 
 Here we see that calling the function `buy_sodas` changes the attributes of `geoff_bot`, but not the attributes of `sabri_bot`. This is because the function uses and modifies the object to which it is attached.
+
+<a class="anchor-offset" id="syntax" href="#syntax"></a>
 
 ### Syntax of Class Functions
 

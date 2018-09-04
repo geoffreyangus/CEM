@@ -21,6 +21,8 @@ favorite_songs.add("Geoff", "Love Story by Taylor Swift")
 print(favorite_songs.get("Geoff")) # prints "Love Story"
 ```
 
+<a class="anchor-offset" id="using-dicts" href="#using-dicts"></a>
+
 ### Using Dicts
 
 The primary difference between lists and dicts is the concept using keys to keep track of values. `Dict` objects use keys, which means that we have no need to keep the items in the data structure in order. This also means that we can use any object to keep track of our values. Lists only allow us to use indices, which can only be integers.
@@ -35,6 +37,8 @@ birthdays.add("Geoff", "February 29th, 1996")
 print(birthdays.get("Geoff")) # prints "February 29th, 1996"
 print(birthdays.get("May 30th, 1996")) # error
 ```
+
+<a class="anchor-offset" id="documentation" href="#documentation"></a>
 
 ### The Documentation
 
